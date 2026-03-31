@@ -10,7 +10,7 @@ export async function GET(request: Request) {
   const orders = await readData('orders.json');
   const leads = await readData('leads.json');
   
-  const categories = [...new Set(products.map((p: any) => p.category).filter(Boolean))];
+  const categories = Array.from(new Set(products.map((p: any) => p.category).filter(Boolean)));
   
   const response = {
     success: true,
