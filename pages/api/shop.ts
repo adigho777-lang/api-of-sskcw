@@ -1,4 +1,5 @@
 // 🔥 SHOP / OFFERS API - Full Product Details (Pages Router)
+// Moved to /api/shop to avoid conflict with [id] dynamic route
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { readData, formatProductDetail } from '@/lib/utils';
 
