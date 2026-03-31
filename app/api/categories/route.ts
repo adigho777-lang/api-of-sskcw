@@ -25,10 +25,10 @@ export async function GET(request: NextRequest) {
     product_count: data.count,
     min_price: Math.min(...data.products.map((p: any) => p.discount_price || p.price)),
     max_price: Math.max(...data.products.map((p: any) => p.discount_price || p.price)),
-    sub_categories: [...new Set(data.products.map((p: any) => p.sub_category).filter(Boolean))]
+    sub_categories: Array.from(new Set(data.products.map((p: any) => p.sub_category).filter(Boolean)))
   }));
   
-  const subCategories = [...new Set(products.map((p: any) => p.sub_category).filter(Boolean))];
+  const subCategories = Array.from(new Set(products.map((p: any) => p.sub_category).filter(Boolean)));
   
   return NextResponse.json({
     success: true,
