@@ -103,8 +103,7 @@ export function formatProductDetail(p: any) {
     // Certifications
     certifications: p.certifications || [],
     
-    // Usage & Safety
-    how_to_use: p.how_to_use,
+    // Usage & Safety (without how_to_use as requested)
     who_should_use: p.who_should_use,
     who_should_not_use: p.who_should_not_use,
     precautions: p.precautions,

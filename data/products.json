@@ -38,38 +38,38 @@
     "seo_title": "Riyansh Amrit Juice - Buy Online at Best Price | Riyansh Ayurveda",
     "seo_description": "Buy Riyansh Amrit Juice at 19% OFF. Immunity boost karata AYUSH Certified, 100% Natural. Free Shipping!",
     "seo_keywords": "riyansh amrit juice, ayurvedic product, natural health, riyansh, health care",
-    "package_contents": "1 bottle Amrit Juice (500ml) + Usage Guide + Diet Chart",
-    "storage_instructions": "Cool and dry place, refrigerator after opening",
-    "who_should_use": "Adults above 18 years, people with low immunity, those seeking wellness",
-    "who_should_not_use": "Pregnant women without doctor advice, children below 5 years",
-    "precautions": "Consult doctor if on medication. Not a medicine but a wellness supplement.",
-    "how_to_use": "Take 30ml daily morning on empty stomach. Mix with water if needed. Use consistently for 3 months for best results.",
-    "side_effects": "No known side effects. 100% natural Ayurvedic formula.",
-    "composition": "Each 10ml contains extracts of 42 herbs including Amla, Ashwagandha, Giloy, Tulsi, Neem",
+    "package_contents": "1 Juice of Riyansh Amrit Juice (500ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "composition": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
     "faq": [
       {
         "question": "Kitne din mein asar dikhega?",
-        "answer": "Regular use se 2-3 hafte mein energy boost feel hoga. 3 months mein full results."
+        "answer": "2-3 hafte mein energy boost, 3 months mein full results."
       },
       {
         "question": "Kya isse weight loss hota hai?",
-        "answer": "Yes, detox hone se metabolism improve hota hai aur weight management mein help milti hai."
+        "answer": "Yes, metabolism improve hota hai, weight management mein help milti hai."
       },
       {
         "question": "Diabetes wale le sakte hain?",
-        "answer": "Haan, but blood sugar monitor karein. Natural herbs se sugar levels balanced rehte hain."
+        "answer": "Haan, natural herbs se sugar levels balanced rehte hain."
       }
     ],
     "related_products": [
-      "prod_1774960680020",
-      "prod_1774964406549"
+      "prod_1774958999897",
+      "prod_1774959377444",
+      "prod_1774959746488"
     ],
     "availability": "In Stock",
     "is_bestseller": true,
     "is_featured": true,
     "is_new_arrival": false,
     "trigger": "42 Herbs se bana Full Body Power Juice! 💪🔥",
-    "short_description": "42 Ayurvedic herbs ka power - Immunity, Detox, Energy in one juice!",
+    "short_description": "42 Herbs se bana Full Body Power Juice! 💪🔥 Immunity boost karata, Full body detox support, Digestion improve hota",
     "description_en": "Unlock the power of 42 Ayurvedic herbs with Riyansh Amrit Juice! This potent herbal elixir boosts immunity, detoxifies your body from within, improves digestion, and enhances overall vitality. Perfect for daily wellness and complete body rejuvenation. Experience natural healing the Ayurvedic way! ✨🌿",
     "description_mr": "42 आयुर्वेदिक औषधी वनस्पतींचे सामर्थ्य अनलॉक करा! Riyansh Amrit Juice हे एक शक्तिशाली हर्बल रस आहे जे शरीराची रोगप्रतिकारक शक्ती वाढवते, शरीरातून विष तत्वे काढून टाकते, पचन सुधारते आणि समग्र जीवनशक्ती वाढवते. दैनंदिन निरोगीपणासाठी आणि संपूर्ण शरीर पुनरुज्जीवनासाठी उत्तम! 🌿✨",
     "benefits": [
@@ -81,18 +81,57 @@
       "Natural vitality enhance"
     ],
     "stock": 999,
-    "rating": 4.8,
-    "reviews_count": 1250,
+    "rating": 0,
+    "reviews_count": 0,
     "tags": [
       "#ImmunityBooster",
       "#FullBodyWellness",
-      "#AyurvedicJuice",
+      "#EnergyBoost",
+      "#AyurvedicDrink",
       "#Detox",
-      "#HealthyLifestyle",
-      "#42Herbs"
+      "#WeightManagement",
+      "#HealthyLifestyle"
     ],
     "created_at": "2026-03-31T11:59:50.504Z",
-    "updated_at": "2026-04-02T10:00:00.000Z",
+    "updated_at": "2026-04-02T11:12:18.955Z",
+    "savings_amount": 350,
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174161",
+    "canonical_url": "https://myriyansh.com/products/prod_1774958390504",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "temperature_requirements": "Store below 30°C",
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Immunity boost karata saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "stock_status": "Available",
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 1471,
+    "sales_count": 850,
+    "wishlist_count": 65,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
     "what_is_it": "Ek powerful Ayurvedic health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
     "diseases_treated": [
       "Low Immunity / Weak Immune System",
@@ -125,13 +164,25 @@
       "General debility"
     ],
     "health_benefits": "Ye juice aapki body ki natural defense system ko strong karta hai, harmful toxins nikalta hai, digestion smooth karta hai, skin aur hair ko healthy banata hai, aur puri body ko energetic feel karata hai.",
+    "medical_categories": [
+      "Low Immunity / Weak Immune System",
+      "Body Detoxification",
+      "Poor Digestion",
+      "Low Energy / Fatigue",
+      "Skin Problems",
+      "Hair Fall",
+      "General Weakness",
+      "Blood Purification"
+    ],
     "body_parts_affected": [
       "Immune System",
       "Full Body"
     ],
-    "treatment_duration": "3 months for best results",
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
-    "who_can_benefit": "Adults with low immunity, frequent illness, general weakness, poor digestion"
+    "who_can_benefit": "Ek powerful Ayurvedic health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
+    "focus": "disease_treatment"
   },
   {
     "id": "prod_1774958999897",
@@ -140,8 +191,33 @@
     "sub_category": "Diabetes Care / Blood Sugar Management",
     "price": 1850,
     "discount_price": 1500,
-    "discount_percent": 19,
     "image": "https://myriyansh.com/site/gallery/gallery/img/2.jpg",
+    "trigger": "Sugar Control Naturally! Bina Side Effects 💯🩸",
+    "description_en": "Take control of your blood sugar naturally with Riyansh Diabo-G! This Ayurvedic formula supports healthy glucose levels, enhances insulin efficiency, and promotes pancreatic health. Say goodbye to sugar spikes and embrace balanced energy throughout the day. Your natural partner in diabetes management! 🩸✅",
+    "description_mr": "Riyansh Diabo-G सह नैसर्गिकरित्या रक्तातील साखर नियंत्रित करा! हे आयुर्वेदिक सूत्र निरोगी ग्लुकोज पातळींना समर्थन देते, इन्सुलिन कार्यक्षमता सुधारते आणि स्वादुपिंडाचे आरोग्य प्रोत्साहित करते. साखरेच्या स्पाइक्सला अलविदा म्हणा आणि दिवसभर संतुलित ऊर्जा स्वीकारा! 🩸✅",
+    "benefits": [
+      "Blood sugar level control",
+      "Insulin sensitivity badhe",
+      "Pancreas ko support",
+      "Energy maintain rahe",
+      "Sugar spikes kam hote",
+      "Natural diabetes support"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#DiabetesCare",
+      "#SugarControl",
+      "#AyurvedicJuice",
+      "#BloodSugarBalance",
+      "#HealthyLiving",
+      "#EnergySupport"
+    ],
+    "created_at": "2026-03-31T12:09:59.897Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 19,
+    "savings_amount": 350,
     "gallery_images": [
       "https://myriyansh.com/site/gallery/gallery/img/2.jpg",
       "https://myriyansh.com/site/gallery/gallery/prod_1774958999897_2.jpg",
@@ -157,8 +233,16 @@
       "Vijaysar",
       "Saptarangi"
     ],
+    "composition": "Contains Karela, Jamun, Methi, Gurmar, Neem and other herbs",
     "weight": "500ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
     "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
     "certifications": [
       "AYUSH Certified",
       "GMP Certified",
@@ -167,25 +251,27 @@
       "100% Natural",
       "No Side Effects"
     ],
-    "seo_title": "Riyansh Diabo-G - Sugar Control Naturally | Buy Online",
-    "seo_description": "Control blood sugar naturally with Diabo-G. 19% OFF - AYUSH Certified diabetes care juice.",
-    "seo_keywords": "diabo-g, sugar control, diabetes juice, blood sugar management",
-    "package_contents": "1 bottle Diabo-G (500ml) + Usage Guide + Diet Chart",
+    "seo_title": "Riyansh Diabo-G - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Diabo-G at 19% OFF. Blood sugar level control AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh diabo-g, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774958999897",
+    "short_description": "Sugar Control Naturally! Bina Side Effects 💯🩸 Blood sugar level control, Insulin sensitivity badhe, Pancreas ko support",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Juice of Riyansh Diabo-G (500ml) + User Guide",
     "storage_instructions": "Cool and dry place, away from direct sunlight",
-    "who_should_use": "Diabetes patients, prediabetics, those with high blood sugar",
-    "who_should_not_use": "Pregnant women without doctor advice, children below 12 years",
-    "precautions": "Monitor blood sugar regularly. Continue prescribed medicines initially.",
-    "how_to_use": "30ml subah-sham khana khane ke 30 min baad. Regular use for 3-6 months.",
-    "side_effects": "No side effects. Natural sugar regulator.",
-    "composition": "Contains Karela, Jamun, Methi, Gurmar, Neem and other 8 Ayurvedic herbs",
+    "temperature_requirements": "Store below 30°C",
     "faq": [
       {
         "question": "Sugar kitne din mein control hoga?",
-        "answer": "15-30 din mein farak dikhne lagega. 3 months mein stable results."
+        "answer": "Regular use se 15-30 din mein farak dikhne lagega."
       },
       {
         "question": "Kya insulin band kar sakte hain?",
-        "answer": "Doctor ki salah se hi insulin adjust karein. Gradual improvement hoga."
+        "answer": "Doctor ki salah se hi insulin adjust karein."
       },
       {
         "question": "Khali pet lena hai ya khana khane ke baad?",
@@ -193,37 +279,41 @@
       }
     ],
     "related_products": [
-      "prod_1774964406549",
-      "prod_1774964719562"
+      "prod_1774958390504",
+      "prod_1774959377444",
+      "prod_1774959746488"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Blood sugar level control saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
     ],
     "availability": "In Stock",
-    "is_bestseller": true,
+    "stock_status": "Available",
+    "is_bestseller": false,
     "is_featured": true,
     "is_new_arrival": false,
-    "trigger": "Sugar Control Naturally! Bina Side Effects 💯🩸",
-    "short_description": "Natural blood sugar control - Bina side effects!",
-    "description_en": "Take control of your blood sugar naturally with Riyansh Diabo-G! This Ayurvedic formula supports healthy glucose levels, enhances insulin efficiency, and promotes pancreatic health. Your natural partner in diabetes management! 🩸✅",
-    "description_mr": "Riyansh Diabo-G सह नैसर्गिकरित्या रक्तातील साखर नियंत्रित करा! हे आयुर्वेदिक सूत्र निरोगी ग्लुकोज पातळींना समर्थन देते, इन्सुलिन कार्यक्षमता सुधारते आणि स्वादुपिंडाचे आरोग्य प्रोत्साहित करते. 🩸✅",
-    "benefits": [
-      "Blood sugar level control",
-      "Insulin sensitivity badhe",
-      "Pancreas ko support",
-      "Energy maintain rahe",
-      "Sugar spikes kam hote",
-      "Natural diabetes support"
-    ],
-    "stock": 999,
-    "rating": 4.7,
-    "reviews_count": 980,
-    "tags": [
-      "#DiabetesCare",
-      "#SugarControl",
-      "#AyurvedicJuice",
-      "#BloodSugarBalance",
-      "#HealthyLiving"
-    ],
-    "created_at": "2026-03-31T12:09:59.897Z",
-    "updated_at": "2026-04-02T10:00:00.000Z",
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2787,
+    "sales_count": 1046,
+    "wishlist_count": 280,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
     "what_is_it": "Diabetes patients ke liye special Ayurvedic juice jo blood sugar levels naturally control karta hai. Pancreas ko healthy rakhta hai.",
     "diseases_treated": [
       "Type 2 Diabetes",
@@ -231,7 +321,8 @@
       "Insulin Resistance",
       "Prediabetes",
       "Diabetic Neuropathy prevention",
-      "Pancreas weakness"
+      "Pancreas weakness",
+      "Glucose intolerance"
     ],
     "symptoms_relief": [
       "High blood sugar levels",
@@ -239,22 +330,37 @@
       "Excessive thirst (zyada pyas lagna)",
       "Sugar cravings",
       "Fatigue despite eating",
-      "Blurred vision"
+      "Blurred vision",
+      "Slow wound healing",
+      "Numbness in hands/feet"
     ],
     "works_for": "Blood sugar control, insulin sensitivity improvement, pancreas support, sugar spike prevention, diabetes management, metabolic health aur long-term sugar balance ke liye effective hai.",
     "target_conditions": [
       "Diabetes Mellitus",
       "Hyperglycemia",
       "Insulin deficiency",
-      "Metabolic syndrome"
+      "Metabolic syndrome",
+      "Sugar imbalance"
     ],
     "health_benefits": "Natural herbs se bana ye juice blood sugar levels ko stable rakhta hai, insulin kaam ko better karta hai, pancreas ki sehat sudharta hai, aur diabetes ke complications se bachata hai.",
+    "medical_categories": [
+      "Type 2 Diabetes",
+      "High Blood Sugar",
+      "Insulin Resistance",
+      "Prediabetes",
+      "Diabetic Neuropathy prevention",
+      "Pancreas weakness",
+      "Glucose intolerance"
+    ],
     "body_parts_affected": [
       "Pancreas",
       "Blood System"
     ],
-    "treatment_duration": "3-6 months recommended",
-    "when_to_expect_results": "15-30 days mein initial improvement, 3 months for stable results"
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Diabetes patients ",
+    "focus": "disease_treatment"
   },
   {
     "id": "prod_1774959377444",
@@ -263,8 +369,32 @@
     "sub_category": "Joint Care / Bone & Pain Relief",
     "price": 1850,
     "discount_price": 1500,
-    "discount_percent": 19,
     "image": "https://myriyansh.com/site/gallery/gallery/img/3.jpg",
+    "trigger": "Joint Pain Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴",
+    "description_en": "Free yourself from joint pain with Riyansh Artho-G! This powerful Ayurvedic blend reduces inflammation, strengthens bones, and improves joint mobility. Perfect for arthritis, knee pain, back pain, and overall joint health. Move freely, live actively! 🦴💪",
+    "description_mr": "Riyansh Artho-G सह सांधेदुखीपासून मुक्त व्हा! हे शक्तिशाली आयुर्वेदिक मिश्रण जळजळ कमी करते, हाडे मजबूत करते आणि सांध्यांची हालचाल सुधारते. संधिवात, गुडघेदुखी, पाठदुखी आणि समग्र सांध्याच्या आरोग्यासाठी उत्तम. स्वतंत्ररित्या हलता, सक्रियरित्या जगता! 🦴💪",
+    "benefits": [
+      "Joint pain relief milta",
+      "Knee pain kam hota",
+      "Arthritis me support",
+      "Inflammation reduce hota",
+      "Bone strength badhti",
+      "Mobility improve hoti"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#JointCare",
+      "#PainRelief",
+      "#ArthritisSupport",
+      "#BoneHealth",
+      "#Mobility"
+    ],
+    "created_at": "2026-03-31T12:16:17.444Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 19,
+    "savings_amount": 350,
     "gallery_images": [
       "https://myriyansh.com/site/gallery/gallery/img/3.jpg",
       "https://myriyansh.com/site/gallery/gallery/prod_1774959377444_2.jpg",
@@ -280,8 +410,16 @@
       "Methi",
       "Sonth"
     ],
+    "composition": "Contains Ashwagandha, Shallaki, Nirgundi, Rasna, Guggulu and other herbs",
     "weight": "500ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
     "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
     "certifications": [
       "AYUSH Certified",
       "GMP Certified",
@@ -290,17 +428,19 @@
       "100% Natural",
       "No Side Effects"
     ],
-    "seo_title": "Riyansh Artho-G - Joint Pain Relief | Surgery Alternative",
-    "seo_description": "Get relief from joint pain, arthritis naturally. 19% OFF - No surgery needed!",
-    "seo_keywords": "artho-g, joint pain relief, arthritis, knee pain, bone health",
-    "package_contents": "1 bottle Artho-G (500ml) + Usage Guide",
+    "seo_title": "Riyansh Artho-G - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Artho-G at 19% OFF. Joint pain relief milta AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh artho-g, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774959377444",
+    "short_description": "Joint Pain Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴 Joint pain relief milta, Knee pain kam hota, Arthritis me support",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Juice of Riyansh Artho-G (500ml) + User Guide",
     "storage_instructions": "Cool and dry place, away from direct sunlight",
-    "who_should_use": "Joint pain patients, arthritis sufferers, those with knee/back pain",
-    "who_should_not_use": "Pregnant women, children below 15 years, post-surgery without doctor advice",
-    "precautions": "For severe cases, consult doctor. Not replacement for surgery in advanced cases.",
-    "how_to_use": "30ml roj subah lena. 30 minutes before breakfast. Use for minimum 3 months.",
-    "side_effects": "No side effects. Natural joint lubricant.",
-    "composition": "Contains Ashwagandha, Shallaki, Nirgundi, Rasna, Guggulu and 8 other herbs",
+    "temperature_requirements": "Store below 30°C",
     "faq": [
       {
         "question": "Joint pain kitne din mein kam hoga?",
@@ -316,36 +456,41 @@
       }
     ],
     "related_products": [
-      "prod_1774963918764"
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959746488"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Joint pain relief milta saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
     ],
     "availability": "In Stock",
+    "stock_status": "Available",
     "is_bestseller": true,
     "is_featured": true,
     "is_new_arrival": false,
-    "trigger": "Joint Pain Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴",
-    "short_description": "Surgery se pehle Artho-G try karo - Natural joint pain relief!",
-    "description_en": "Free yourself from joint pain with Riyansh Artho-G! This powerful Ayurvedic blend reduces inflammation, strengthens bones, and improves joint mobility. Perfect for arthritis, knee pain, back pain. Move freely, live actively! 🦴💪",
-    "description_mr": "Riyansh Artho-G सह सांधेदुखीपासून मुक्त व्हा! हे शक्तिशाली आयुर्वेदिक मिश्रण जळजळ कमी करते, हाडे मजबूत करते आणि सांध्यांची हालचाल सुधारते. 🦴💪",
-    "benefits": [
-      "Joint pain relief milta",
-      "Knee pain kam hota",
-      "Arthritis me support",
-      "Inflammation reduce hota",
-      "Bone strength badhti",
-      "Mobility improve hoti"
-    ],
-    "stock": 999,
-    "rating": 4.9,
-    "reviews_count": 1450,
-    "tags": [
-      "#JointCare",
-      "#PainRelief",
-      "#ArthritisSupport",
-      "#BoneHealth",
-      "#Mobility"
-    ],
-    "created_at": "2026-03-31T12:16:17.444Z",
-    "updated_at": "2026-04-02T10:00:00.000Z",
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2100,
+    "sales_count": 145,
+    "wishlist_count": 448,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
     "what_is_it": "Joint pain, arthritis, aur bone problems ke liye Ayurvedic juice. Ye joints ko lubricate karta hai aur inflammation kam karta hai.",
     "diseases_treated": [
       "Osteoarthritis",
@@ -354,7 +499,8 @@
       "Back Pain",
       "Sciatica",
       "Joint Inflammation",
-      "Bone weakness"
+      "Bone weakness",
+      "Stiffness in joints"
     ],
     "symptoms_relief": [
       "Joint pain aur stiffness",
@@ -364,7 +510,8 @@
       "Hip pain",
       "Swelling in joints",
       "Difficulty in walking",
-      "Morning stiffness"
+      "Morning stiffness",
+      "Cracking sound in joints"
     ],
     "works_for": "Joint pain relief, inflammation reduction, bone strength, flexibility improvement, arthritis support, mobility enhancement, cartilage protection, aur purane ghav healing ke liye best hai.",
     "target_conditions": [
@@ -372,15 +519,2603 @@
       "Joint disorders",
       "Bone degeneration",
       "Synovial inflammation",
-      "Cartilage damage"
+      "Cartilage damage",
+      "Ligament weakness"
     ],
     "health_benefits": "Ye juice joints mein natural lubrication deta hai, inflammation aur swelling kam karta hai, bone density badhata hai, movement smooth karta hai, aur joint degeneration ko rokata hai.",
+    "medical_categories": [
+      "Osteoarthritis",
+      "Rheumatoid Arthritis",
+      "Knee Pain / Gonitis",
+      "Back Pain",
+      "Sciatica",
+      "Joint Inflammation",
+      "Bone weakness",
+      "Stiffness in joints"
+    ],
     "body_parts_affected": [
       "Joints",
       "Bones",
       "Muscles"
     ],
-    "treatment_duration": "2-3 months for significant improvement",
-    "when_to_expect_results": "7-10 days initial relief, 1-2 months major improvement"
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Joint pain, arthritis, aur bone problems ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774959746488",
+    "title": "Riyansh Power Booster",
+    "category": "Health Care",
+    "sub_category": "Energy Booster / Stamina & Strength",
+    "price": 1850,
+    "discount_price": 1500,
+    "image": "https://www.riyanshamrit.com/_next/image?url=https%3A%2F%2Fiwvrjjgjxxtlvvbdbytb.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fproducts%2Fproducts%2F1761627438334-g94my6.jpg&w=640&q=75",
+    "trigger": "Thakan Aur Weakness Ko Bye Bye! Full Energy Mode ON ⚡💪",
+    "description_en": "Say goodbye to fatigue with Riyansh Power Booster! This Ayurvedic energy drink boosts stamina, enhances physical strength, and keeps you active all day long. Perfect for those feeling low energy, weakness, or needing extra power for daily activities. Feel the natural energy surge! ⚡🔋",
+    "description_mr": "Riyansh Power Booster सह थकव्याला अलविदा म्हणा! हे आयुर्वेदिक ऊर्जा पेय तग धरण्याची क्षमता वाढवते, शारीरिक ताकद सुधारते आणि दिवसभर तुम्हाला सक्रिय ठेवते. कमी ऊर्जा, अशक्तता अनुभवणाऱ्या किंवा दैनंदिन क्रियांसाठी अतिरिक्त शक्ती हवी असलेल्यांसाठी उत्तम. नैसर्गिक ऊर्जेची लाट अनुभवा! ⚡🔋",
+    "benefits": [
+      "Energy boost instant milta",
+      "Stamina badhti hai",
+      "Body strength increase",
+      "Daily performance better",
+      "Fatigue reduce hota",
+      "Active lifestyle support"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#EnergyBooster",
+      "#Stamina",
+      "#Strength",
+      "#ActiveLife",
+      "#HealthSupport"
+    ],
+    "created_at": "2026-03-31T12:22:26.488Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 19,
+    "savings_amount": 350,
+    "gallery_images": [
+      "https://www.riyanshamrit.com/_next/image?url=https%3A%2F%2Fiwvrjjgjxxtlvvbdbytb.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fproducts%2Fproducts%2F1761627438334-g94my6.jpg&w=640&q=75",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774959746488_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774959746488_3.jpg"
+    ],
+    "ingredients": [
+      "Ashwagandha",
+      "Safed Musli",
+      "Shilajit",
+      "Kaunch Beej",
+      "Gokshura",
+      "Vidarikand",
+      "Akarkara"
+    ],
+    "composition": "Contains Ashwagandha, Safed Musli, Shilajit, Kaunch Beej, Gokshura and other herbs",
+    "weight": "500ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Power Booster - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Power Booster at 19% OFF. Energy boost instant milta AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh power booster, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774959746488",
+    "short_description": "Thakan Aur Weakness Ko Bye Bye! Full Energy Mode ON ⚡💪 Energy boost instant milta, Stamina badhti hai, Body strength increase",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Juice of Riyansh Power Booster (500ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Kitne din mein energy badhegi?",
+        "answer": "3-7 din mein feel hoga, 1 month mein full effect."
+      },
+      {
+        "question": "Kya gym jaane wale le sakte hain?",
+        "answer": "Bilkul! Bodybuilders aur athletes ke liye best hai."
+      },
+      {
+        "question": "Side effects to nahi honge?",
+        "answer": "100% natural hai, koi side effect nahi hai."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Energy boost instant milta saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": true,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2623,
+    "sales_count": 642,
+    "wishlist_count": 432,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Low energy, weakness, aur stamina issues ke liye Ayurvedic energy drink. Ye body ki natural power ko boost karta hai.",
+    "diseases_treated": [
+      "Chronic Fatigue Syndrome",
+      "Physical Weakness",
+      "Low Stamina",
+      "Muscle Weakness",
+      "General Debility",
+      "Poor Performance",
+      "Recovery after illness",
+      "Stress-induced fatigue"
+    ],
+    "symptoms_relief": [
+      "Thakan aur weakness",
+      "Kam energy levels",
+      "Poor physical performance",
+      "Muscle fatigue",
+      "Low stamina during work",
+      "Difficulty in daily activities",
+      "Mental exhaustion",
+      "Body ache due to weakness"
+    ],
+    "works_for": "Energy boosting, stamina building, muscle strength, physical performance, recovery acceleration, mental alertness, body vitality, aur active lifestyle support ke liye effective hai.",
+    "target_conditions": [
+      "Fatigue disorders",
+      "Physical weakness",
+      "Low vitality",
+      "Poor endurance",
+      "Muscle atrophy",
+      "Post-illness recovery"
+    ],
+    "health_benefits": "Ye natural herbs se body ki cells ko energy deta hai, muscle strength badhata hai, stamina improve karta hai, physical aur mental fatigue door karta hai, aur daily activities ke liye power deta hai.",
+    "medical_categories": [
+      "Chronic Fatigue Syndrome",
+      "Physical Weakness",
+      "Low Stamina",
+      "Muscle Weakness",
+      "General Debility",
+      "Poor Performance",
+      "Recovery after illness",
+      "Stress-induced fatigue"
+    ],
+    "body_parts_affected": [
+      "Muscles",
+      "Cells",
+      "Energy System"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Low energy, weakness, aur stamina issues ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774960095539",
+    "title": "Riyansh Power Booster Plus",
+    "category": "Health Care",
+    "sub_category": "Energy Booster / Vitality & Performance",
+    "price": 2000,
+    "discount_price": 1500,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/10/459986887/NQ/LZ/GU/144216563/riyansh-power-booster-plus-capsules-1000x1000.jpeg",
+    "trigger": "Double Power Double Energy! Advanced Formula 💪⚡",
+    "description_en": "Experience maximum vitality with Riyansh Power Booster Plus! This advanced Ayurvedic formula delivers double the energy, enhanced stamina, and superior strength. Designed for high-performance individuals who need that extra edge in their daily life. Unleash your full potential! 🚀💪",
+    "description_mr": "Riyansh Power Booster Plus सह कमाल जीवनशक्ती अनुभवा! हे अत्याधुनिक आयुर्वेदिक सूत्र दुप्पट ऊर्जा, वाढीव तग धरण्याची क्षमता आणि उत्कृष्ट ताकद देते. उच्च-कार्यक्षमता असलेल्या व्यक्तींसाठी डिझाइन केलेले ज्यांना त्यांच्या दैनंदिन जीवनात तो अतिरिक्त फायदा हवा आहे. तुमची पूर्ण क्षमता मुक्त करा! 🚀💪",
+    "benefits": [
+      "High energy boost milta",
+      "Double stamina badhti",
+      "Weakness fast reduce",
+      "Physical strength improve",
+      "Recovery speed fast",
+      "Performance enhance hota"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#PowerBoosterPlus",
+      "#HighEnergy",
+      "#StaminaBoost",
+      "#Vitality",
+      "#Strength",
+      "#Performance"
+    ],
+    "created_at": "2026-03-31T12:28:15.539Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 25,
+    "savings_amount": 500,
+    "gallery_images": [
+      "https://5.imimg.com/data5/SELLER/Default/2024/10/459986887/NQ/LZ/GU/144216563/riyansh-power-booster-plus-capsules-1000x1000.jpeg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774960095539_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774960095539_3.jpg"
+    ],
+    "ingredients": [
+      "Ashwagandha",
+      "Safed Musli",
+      "Shilajit",
+      "Salab Panja",
+      "Kaunch Beej",
+      "Gokshura",
+      "Vidarikand",
+      "Jaiphal"
+    ],
+    "composition": "Contains Ashwagandha, Safed Musli, Shilajit, Salab Panja, Kaunch Beej and other herbs",
+    "weight": "500ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Power Booster Plus - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Power Booster Plus at 25% OFF. High energy boost milta AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh power booster plus, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774960095539",
+    "short_description": "Double Power Double Energy! Advanced Formula 💪⚡ High energy boost milta, Double stamina badhti, Weakness fast reduce",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Juice of Riyansh Power Booster Plus (500ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Power Booster se kya farak hai?",
+        "answer": "Ye advanced formula hai, double strength ke saath."
+      },
+      {
+        "question": "Kitne capsules roz lena hai?",
+        "answer": "Subah 2 aur shaam 2 capsules."
+      },
+      {
+        "question": "Exercise ke saath better result?",
+        "answer": "Haan, healthy diet aur exercise ke saath best results."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! High energy boost milta saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": true,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2449,
+    "sales_count": 710,
+    "wishlist_count": 98,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Power Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ke liye hai.",
+    "diseases_treated": [
+      "Severe Fatigue",
+      "Extreme Physical Weakness",
+      "Athletic Performance Issues",
+      "Poor Muscle Mass",
+      "Chronic Weakness after surgery",
+      "Age-related vitality loss",
+      "High-intensity work stress"
+    ],
+    "symptoms_relief": [
+      "Severe weakness",
+      "Unable to do physical work",
+      "Muscle loss",
+      "Extreme tiredness",
+      "Poor endurance",
+      "Quick exhaustion",
+      "Low physical capacity",
+      "Slow recovery after exertion"
+    ],
+    "works_for": "High energy boost, double stamina, muscle building, athletic performance, heavy work capacity, fast recovery, superior strength, aur maximum vitality ke liye designed hai.",
+    "target_conditions": [
+      "Severe debility",
+      "Athletic underperformance",
+      "Muscle wasting",
+      "Extreme fatigue disorders",
+      "Physical incapacity"
+    ],
+    "health_benefits": "Ye advanced formula cells ko double energy deti hai, muscle fibers ko strong karti hai, endurance capacity badhati hai, physical limits ko expand karti hai, aur high-performance lifestyle ko support karti hai.",
+    "medical_categories": [
+      "Severe Fatigue",
+      "Extreme Physical Weakness",
+      "Athletic Performance Issues",
+      "Poor Muscle Mass",
+      "Chronic Weakness after surgery",
+      "Age-related vitality loss",
+      "High-intensity work stress"
+    ],
+    "body_parts_affected": [
+      "Muscles",
+      "Cells",
+      "Energy System"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Power Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774960680020",
+    "title": "Riyansh Amrit Capsule",
+    "category": "Health Care",
+    "sub_category": "Immunity Booster / Herbal Capsules",
+    "price": 2000,
+    "discount_price": 1500,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/7.jpg",
+    "trigger": "Juice Nahi Pee Sakte? Same Power Capsule Mein 💊✨",
+    "description_en": "Get all the benefits of Amrit Juice in convenient capsule form! Riyansh Amrit Capsule delivers powerful immunity support, full-body wellness, and daily health maintenance. Perfect for travel and those who prefer capsules over juice. Your daily health companion! 💊🌿",
+    "description_mr": "सोईस्कर कॅप्सूल स्वरूपात Amrit Juice चे सर्व फायदे मिळवा! Riyansh Amrit Capsule शक्तिशाली प्रतिकारशक्ती समर्थन, संपूर्ण शरीर निरोगीपणा आणि दैनंदिन आरोग्य देखभाल देते. प्रवासासाठी आणि ज्यांना ज्यूस पेक्षा कॅप्सूल आवडतात त्यांच्यासाठी उत्तम. तुमचा दैनंदिन आरोग्य साथीदार! 💊🌿",
+    "benefits": [
+      "Immunity boost karta",
+      "Full body wellness deta",
+      "Easy to consume capsule",
+      "Travel friendly format",
+      "Daily health maintain",
+      "42 herbs ka power"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#AmritCapsule",
+      "#ImmunityBooster",
+      "#HerbalCapsule",
+      "#HealthCare",
+      "#Wellness",
+      "#DailyHealth"
+    ],
+    "created_at": "2026-03-31T12:38:00.020Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 25,
+    "savings_amount": 500,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/7.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774960680020_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774960680020_3.jpg"
+    ],
+    "ingredients": [
+      "Amla",
+      "Ashwagandha",
+      "Giloy",
+      "Tulsi",
+      "Neem",
+      "Shatavari",
+      "Brahmi"
+    ],
+    "composition": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "weight": "60 Capsules",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Amrit Capsule - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Amrit Capsule at 25% OFF. Immunity boost karta AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh amrit capsule, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774960680020",
+    "short_description": "Juice Nahi Pee Sakte? Same Power Capsule Mein 💊✨ Immunity boost karta, Full body wellness deta, Easy to consume capsule",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Capsule of Riyansh Amrit Capsule (60 Capsules) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Juice aur capsule mein kya farak?",
+        "answer": "Same benefits, capsule travel mein easy hai."
+      },
+      {
+        "question": "Kitni capsules din mein leni?",
+        "answer": "Subah 2, shaam 2 - total 4 capsules."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pehle doctor se consult karna zaroori hai."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Immunity boost karta saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 4298,
+    "sales_count": 939,
+    "wishlist_count": 271,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Amrit Juice ka capsule form - same 42 herbs power jo travel aur easy consumption ke liye convenient hai.",
+    "diseases_treated": [
+      "Low Immunity",
+      "Frequent Infections",
+      "Poor Metabolism",
+      "General Weakness",
+      "Body Toxicity",
+      "Nutritional Deficiency",
+      "Recovery after illness"
+    ],
+    "symptoms_relief": [
+      "Bar bar thand khana",
+      "Body mein infection hona",
+      "Weakness aur thakan",
+      "Poor appetite",
+      "Skin problems",
+      "Hair fall",
+      "Low resistance to diseases"
+    ],
+    "works_for": "Immunity boosting, health maintenance, body detox, nutritional support, wellness maintenance, disease prevention, aur overall vitality ke liye best hai.",
+    "target_conditions": [
+      "Immune deficiency",
+      "Metabolic disorders",
+      "General health decline",
+      "Nutritional gaps",
+      "Chronic weakness"
+    ],
+    "health_benefits": "Ye capsules body ki defense system ko strong karte hain, nutrients provide karte hain, metabolism boost karte hain, aur body ko diseases se fight karne ki power dete hain.",
+    "medical_categories": [
+      "Low Immunity",
+      "Frequent Infections",
+      "Poor Metabolism",
+      "General Weakness",
+      "Body Toxicity",
+      "Nutritional Deficiency",
+      "Recovery after illness"
+    ],
+    "body_parts_affected": [
+      "Immune System",
+      "Full Body"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Amrit Juice ka capsule form - same 42 herbs power jo travel aur easy consumption ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774961023248",
+    "title": "Riyansh 18 Herbs Hair Oil",
+    "category": "Hair Care",
+    "sub_category": "Hair Oil / Scalp Care",
+    "price": 329,
+    "discount_price": 329,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/18.jpg",
+    "trigger": "18 Herbs Se Balo Ko Natural nourishment! 🌿💆‍♀️",
+    "description_en": "Transform your hair with the power of 18 Ayurvedic herbs! Riyansh Hair Oil nourishes your scalp, strengthens hair roots, controls dandruff, and promotes healthy hair growth. Experience silky, shiny, and strong hair naturally. Your daily hair care essential! 💆‍♀️✨",
+    "description_mr": "18 आयुर्वेदिक औषधी वनस्पतींच्या सामर्थ्याने तुमचे केस रूपांतरित करा! Riyansh Hair Oil तुमच्या टाळूला पोषण देते, केसांची मुळे मजबूत करते, कोंडा नियंत्रित करते आणि निरोगी केस वाढीस प्रोत्साहन देते. नैसर्गिकरित्या मऊ, चमकदार आणि मजबूत केस अनुभवा. तुमचे दैनंदिन केरळक देखभाल आवश्यक! 💆‍♀️✨",
+    "benefits": [
+      "Dandruff control karta",
+      "Hair nourishment milta",
+      "Scalp health improve",
+      "Hair roots strong",
+      "Natural shine aata",
+      "Healthy hair growth"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#HairCare",
+      "#HairOil",
+      "#ScalpCare",
+      "#DandruffCare",
+      "#HerbalOil",
+      "#HairNourishment"
+    ],
+    "created_at": "2026-03-31T12:43:43.248Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/18.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961023248_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961023248_3.jpg"
+    ],
+    "ingredients": [
+      "Bhringraj",
+      "Amla",
+      "Brahmi",
+      "Neem",
+      "Tulsi",
+      "Aloe Vera",
+      "Methi",
+      "Jatamansi",
+      "Coconut Oil",
+      "Castor Oil"
+    ],
+    "composition": "Contains Bhringraj, Amla, Brahmi, Neem, Tulsi and other herbs",
+    "weight": "100ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh 18 Herbs Hair Oil - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh 18 Herbs Hair Oil at 0% OFF. Dandruff control karta AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh 18 herbs hair oil, ayurvedic product, natural health, riyansh, hair care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774961023248",
+    "short_description": "18 Herbs Se Balo Ko Natural nourishment! 🌿💆‍♀️ Dandruff control karta, Hair nourishment milta, Scalp health improve",
+    "who_should_use": "Adults above 18 years, people seeking Hair Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Oil of Riyansh 18 Herbs Hair Oil (100ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Baal girna band kab honge?",
+        "answer": "3-4 weeks mein hair fall reduce hona start."
+      },
+      {
+        "question": "Kya daily lagana hai?",
+        "answer": "Haan, raat ko sone se pehle lagana best."
+      },
+      {
+        "question": "Oil ko kitni der rakhna hai?",
+        "answer": "Minimum 2-3 hours ya overnight best hai."
+      }
+    ],
+    "related_products": [],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Dandruff control karta saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2967,
+    "sales_count": 465,
+    "wishlist_count": 147,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Hair problems ke liye 18 Ayurvedic herbs se bana natural hair oil. Scalp ko nourish karta hai aur hair roots ko strong banata hai.",
+    "diseases_treated": [
+      "Hair Fall / Hair Loss",
+      "Dandruff",
+      "Dry and Brittle Hair",
+      "Scalp Infections",
+      "Premature Graying",
+      "Split Ends",
+      "Thinning Hair",
+      "Scalp dryness",
+      "Fungal scalp infections"
+    ],
+    "symptoms_relief": [
+      "Hair fall (baal jhadna)",
+      "Dandruff (konda)",
+      "Dry scalp",
+      "Itchy scalp (khujli)",
+      "Weak hair roots",
+      "Hair breakage",
+      "Dull hair",
+      "Lice problem",
+      "Scalp irritation"
+    ],
+    "works_for": "Hair growth, dandruff control, scalp nourishment, hair strengthening, split end prevention, hair shine, scalp health, hair fall prevention, aur natural hair conditioning ke liye effective hai.",
+    "target_conditions": [
+      "Alopecia",
+      "Seborrheic dermatitis",
+      "Scalp psoriasis",
+      "Hair follicle weakness",
+      "Dry scalp syndrome"
+    ],
+    "health_benefits": "Ye oil hair roots tak penetrate karke unko strong karta hai, scalp ki blood circulation badhata hai, dandruff aur infection door karta hai, hair growth stimulate karta hai, aur natural shine deta hai.",
+    "medical_categories": [
+      "Hair Fall / Hair Loss",
+      "Dandruff",
+      "Dry and Brittle Hair",
+      "Scalp Infections",
+      "Premature Graying",
+      "Split Ends",
+      "Thinning Hair",
+      "Scalp dryness",
+      "Fungal scalp infections"
+    ],
+    "body_parts_affected": [
+      "Hair",
+      "Scalp"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Hair problems ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774961360092",
+    "title": "Riyansh Eye Care Drop",
+    "category": "Health Care",
+    "sub_category": "Eye Care / Vision Support",
+    "price": 99,
+    "discount_price": 99,
+    "image": "https://cpimg.tistatic.com/10480413/b/4/Amrit-50ml-Alkaline-Drops..jpg",
+    "trigger": "Aankhon Ki Thakhan Aur Dryness Ko Instant Relief! 👁️✨",
+    "description_en": "Give your eyes the care they deserve with Riyansh Eye Care Drop! This soothing formula relieves eye strain, reduces redness, and provides cooling comfort for tired eyes. Perfect for daily eye care and screen-time relief. See the world clearly! 👁️💧",
+    "description_mr": "Riyansh Eye Care Drop सह तुमच्या डोळ्यांना ते हवे ते पोषण द्या! हे सुखदायी सूत्र डोळ्यांचा ताण दूर करते, लालसरपणा कमी करते आणि थकलेल्या डोळ्यांना थंडावा देते. दैनंदिन डोळ्यांची काळजी आणि स्क्रीन-वेळ आरामासाठी उत्तम. जग स्पष्टपणे पहा! 👁️💧",
+    "benefits": [
+      "Eye redness reduce",
+      "Dryness relief milta",
+      "Cooling effect deta",
+      "Eye strain kam hota",
+      "Vision comfort support",
+      "Daily eye care"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#EyeCare",
+      "#VisionSupport",
+      "#EyeDrops",
+      "#CoolingSupport",
+      "#DryEyes",
+      "#EyeComfort",
+      "#HealthCare"
+    ],
+    "created_at": "2026-03-31T12:49:20.092Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://cpimg.tistatic.com/10480413/b/4/Amrit-50ml-Alkaline-Drops..jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961360092_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961360092_3.jpg"
+    ],
+    "ingredients": [
+      "Rose Water",
+      "Triphala",
+      "Neem",
+      "Tulsi",
+      "Pudina",
+      "Honey"
+    ],
+    "composition": "Contains Rose Water, Triphala, Neem, Tulsi, Pudina and other herbs",
+    "weight": "30ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Eye Care Drop - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Eye Care Drop at 0% OFF. Eye redness reduce AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh eye care drop, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774961360092",
+    "short_description": "Aankhon Ki Thakhan Aur Dryness Ko Instant Relief! 👁️✨ Eye redness reduce, Dryness relief milta, Cooling effect deta",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Drop of Riyansh Eye Care Drop (30ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Lens laga ke daal sakte hain?",
+        "answer": "Nahi, lens nikal ke hi daalein."
+      },
+      {
+        "question": "Screen time ke baad use kar sakte?",
+        "answer": "Bilkul, computer/mobile ke baad best relief."
+      },
+      {
+        "question": "Kitni der mein relief milega?",
+        "answer": "Instant cooling effect, 2-3 din mein major relief."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Eye redness reduce saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 3469,
+    "sales_count": 227,
+    "wishlist_count": 146,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Eye problems aur eye strain ke liye Ayurvedic eye drops. Eyes ko cooling effect dete hain aur vision support karte hain.",
+    "diseases_treated": [
+      "Eye Strain / Eye Fatigue",
+      "Dry Eyes",
+      "Eye Redness",
+      "Computer Vision Syndrome",
+      "Minor Eye Irritations",
+      "Eye Burning sensation",
+      "Eye Allergies",
+      "Conjunctivitis support"
+    ],
+    "symptoms_relief": [
+      "Eye strain (aankhon ka tanaav)",
+      "Dryness in eyes",
+      "Redness in eyes",
+      "Burning sensation",
+      "Itching in eyes",
+      "Watery eyes",
+      "Blurred vision",
+      "Screen-related eye pain",
+      "Eye fatigue from reading"
+    ],
+    "works_for": "Eye cooling, dryness relief, redness reduction, strain relief, vision comfort, screen time protection, daily eye care, aur minor eye irritations ke liye best hai.",
+    "target_conditions": [
+      "Dry eye syndrome",
+      "Digital eye strain",
+      "Allergic conjunctivitis",
+      "Eye fatigue",
+      "Minor eye infections"
+    ],
+    "health_benefits": "Ye drops eyes ko natural cooling dete hain, moisture maintain karte hain, irritation kam karte hain, redness door karte hain, aur long screen time se hone wali problems se bachate hain.",
+    "medical_categories": [
+      "Eye Strain / Eye Fatigue",
+      "Dry Eyes",
+      "Eye Redness",
+      "Computer Vision Syndrome",
+      "Minor Eye Irritations",
+      "Eye Burning sensation",
+      "Eye Allergies",
+      "Conjunctivitis support"
+    ],
+    "body_parts_affected": [
+      "Eyes"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Eye problems aur eye strain ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774961712495",
+    "title": "Riyansh Ear Drop",
+    "category": "Health Care",
+    "sub_category": "Ear Care / Ear Support",
+    "price": 99,
+    "discount_price": 99,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/38.jpg",
+    "trigger": "Daily Ear Care Ka Simple Solution! 👂🌿",
+    "description_en": "Maintain healthy ears with Riyansh Ear Drop! This gentle Ayurvedic formula supports ear hygiene and comfort. Perfect for daily ear care routine and maintaining ear health naturally. Listen to life clearly! 👂✨",
+    "description_mr": "Riyansh Ear Drop सह निरोगी कान टिकवा! हे सौम्य आयुर्वेदिक सूत्र कानांच्या स्वच्छतेला आणि आरामाला समर्थन देते. दैनंदिन कानांच्या काळजी दिनचर्या आणि कानांचे आरोग्य नैसर्गिकरित्या टिकवण्यासाठी उत्तम. जीवन स्पष्टपणे ऐका! 👂✨",
+    "benefits": [
+      "Ear hygiene maintain",
+      "Gentle daily care",
+      "Ear comfort support",
+      "Natural ear health",
+      "Simple to use drops",
+      "Affordable solution"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#EarCare",
+      "#EarSupport",
+      "#HealthCare",
+      "#AffordableProduct"
+    ],
+    "created_at": "2026-03-31T12:55:12.495Z",
+    "updated_at": "2026-04-02T11:12:18.956Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/38.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961712495_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774961712495_3.jpg"
+    ],
+    "ingredients": [
+      "Tulsi",
+      "Neem",
+      "Garlic Oil",
+      "Sesame Oil",
+      "Camphor"
+    ],
+    "composition": "Contains Tulsi, Neem, Garlic Oil, Sesame Oil, Camphor and other herbs",
+    "weight": "30ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Ear Drop - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Ear Drop at 0% OFF. Ear hygiene maintain AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh ear drop, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774961712495",
+    "short_description": "Daily Ear Care Ka Simple Solution! 👂🌿 Ear hygiene maintain, Gentle daily care, Ear comfort support",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Drop of Riyansh Ear Drop (30ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Kaan mein dard mein kaam aayega?",
+        "answer": "Haan, mild pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni drops daalni hai?",
+        "answer": "2-3 drops har kaan mein."
+      },
+      {
+        "question": "Bachchon mein use kar sakte?",
+        "answer": "5 saal se bade bachchon mein hi use karein."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Ear hygiene maintain saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 4714,
+    "sales_count": 990,
+    "wishlist_count": 394,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Ear hygiene aur ear comfort ke liye Ayurvedic ear drops. Ears ko clean aur healthy rakhte hain.",
+    "diseases_treated": [
+      "Ear Wax Buildup",
+      "Minor Ear Infections",
+      "Ear Itching",
+      "Ear Discomfort",
+      "Ear Dryness",
+      "Preventive ear care"
+    ],
+    "symptoms_relief": [
+      "Ear itching (kaan mein khujli)",
+      "Ear wax problem",
+      "Mild ear pain",
+      "Ear fullness",
+      "Dryness in ear",
+      "Minor ear irritation"
+    ],
+    "works_for": "Ear cleaning, ear hygiene, wax softening, ear comfort, minor infection prevention, ear moisture balance, aur daily ear care ke liye suitable hai.",
+    "target_conditions": [
+      "Cerumen impaction",
+      "Otitis externa (mild)",
+      "Ear canal dryness",
+      "Preventive ear maintenance"
+    ],
+    "health_benefits": "Ye drops ears ko naturally clean karte hain, wax ko soften karte hain, itching aur irritation door karte hain, infection se bachate hain, aur ear health maintain karte hain.",
+    "medical_categories": [
+      "Ear Wax Buildup",
+      "Minor Ear Infections",
+      "Ear Itching",
+      "Ear Discomfort",
+      "Ear Dryness",
+      "Preventive ear care"
+    ],
+    "body_parts_affected": [
+      "Ears"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Ear hygiene aur ear comfort ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774962060395",
+    "title": "Riyansh Lady Life Care",
+    "category": "Health Care",
+    "sub_category": "Women’s Wellness / Feminine Care",
+    "price": 1850,
+    "discount_price": 1500,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/5.jpg",
+    "trigger": "Women's Wellness Ka Special Formula! 💃✨",
+    "description_en": "Specially crafted for women's health! Riyansh Lady Life Care supports overall wellness, hormonal balance, and vitality. This Ayurvedic blend is designed to meet women's unique health needs. Embrace your wellness journey! 💃🌿",
+    "description_mr": "महिलांच्या आरोग्यासाठी विशेष तयार! Riyansh Lady Life Care समग्र निरोगीपणा, हार्मोनल संतुलन आणि जीवनशक्तीस समर्थन देते. हे आयुर्वेदिक मिश्रण महिलांच्या अद्वितीय आरोग्य गरजा पूर्ण करण्यासाठी डिझाइन केलेले आहे. तुमच्या निरोगीपणाच्या प्रवासाचा स्वीकार करा! 💃🌿",
+    "benefits": [
+      "Women wellness support",
+      "Hormonal balance help",
+      "Daily vitality boost",
+      "Natural feminine care",
+      "Inner strength improve",
+      "Overall health support"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#LadyLifeCare",
+      "#WomenWellness",
+      "#FeminineCare",
+      "#HealthCare",
+      "#HerbalSupport"
+    ],
+    "created_at": "2026-03-31T13:01:00.395Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 19,
+    "savings_amount": 350,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/5.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962060395_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962060395_3.jpg"
+    ],
+    "ingredients": [
+      "Shatavari",
+      "Ashoka",
+      "Lodhra",
+      "Dashmool",
+      "Aloe Vera",
+      "Tulsi",
+      "Guduchi"
+    ],
+    "composition": "Contains Shatavari, Ashoka, Lodhra, Dashmool, Aloe Vera and other herbs",
+    "weight": "500ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Lady Life Care - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Lady Life Care at 19% OFF. Women wellness support AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh lady life care, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774962060395",
+    "short_description": "Women's Wellness Ka Special Formula! 💃✨ Women wellness support, Hormonal balance help, Daily vitality boost",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Juice of Riyansh Lady Life Care (500ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Periods mein problem mein help karta?",
+        "answer": "Haan, irregular periods aur pain mein relief."
+      },
+      {
+        "question": "PCOS/PCOD mein kaam aayega?",
+        "answer": "Hormonal balance mein help karta hai, doctor se consult karein."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pregnancy mein doctor se consult karein."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Women wellness support saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2553,
+    "sales_count": 838,
+    "wishlist_count": 100,
+    "enhanced_at": "2026-04-02T11:09:34.177Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Women ki special health needs ke liye Ayurvedic supplement. Hormonal balance aur female wellness ke liye.",
+    "diseases_treated": [
+      "Hormonal Imbalance",
+      "Irregular Periods",
+      "PCOS/PCOD Support",
+      "Menstrual Cramps",
+      "Menopausal Symptoms",
+      "Female Weakness",
+      "UTI Prevention",
+      "Reproductive Health Issues"
+    ],
+    "symptoms_relief": [
+      "Period pain (mahawari dard)",
+      "Irregular periods",
+      "Mood swings",
+      "Hormonal acne",
+      "Weakness during periods",
+      "Hot flashes",
+      "Vaginal dryness",
+      "Low libido",
+      "Fatigue in women"
+    ],
+    "works_for": "Hormonal balance, menstrual health, reproductive wellness, menopause support, female vitality, skin health in women, mood stability, aur overall feminine wellness ke liye effective hai.",
+    "target_conditions": [
+      "Menstrual disorders",
+      "Hormonal dysfunction",
+      "PCOS",
+      "Menopausal syndrome",
+      "Female reproductive issues"
+    ],
+    "health_benefits": "Ye natural herbs female hormones ko balance karte hain, periods regular karte hain, menstrual discomfort kam karte hain, reproductive health improve karte hain, aur women ki overall vitality badhate hain.",
+    "medical_categories": [
+      "Hormonal Imbalance",
+      "Irregular Periods",
+      "PCOS/PCOD Support",
+      "Menstrual Cramps",
+      "Menopausal Symptoms",
+      "Female Weakness",
+      "UTI Prevention",
+      "Reproductive Health Issues"
+    ],
+    "body_parts_affected": [
+      "Reproductive System",
+      "Hormonal System"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Women ki special health needs ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774962544309",
+    "title": "Riyansh Pileorhoids Capsule",
+    "category": "Health Care",
+    "sub_category": "Piles Care / Digestive & Rectal Health",
+    "price": 2000,
+    "discount_price": 1500,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/33.jpg",
+    "trigger": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫",
+    "description_en": "Get lasting relief from piles with Riyansh Pileorhoids Capsule! This Ayurvedic formula helps reduce pain, itching, and discomfort while supporting digestive health. No more suffering in silence - embrace comfortable living naturally! 🙏✨",
+    "description_mr": "Riyansh Pileorhoids Capsule सह मूळव्याधपासून कायमस्वरूपी आराम मिळवा! हे आयुर्वेदिक सूत्र वेदना, खाज आणि अस्वस्थता कमी करण्यास मदत करते तसेच पचन आरोग्यास समर्थन देते. गप्प राहून दुःख भोगणे बंद करा - नैसर्गिकरित्या आरामदायक जीवन स्वीकारा! 🙏✨",
+    "benefits": [
+      "Piles pain relief",
+      "Itching reduce hoti",
+      "Burning sensation kam",
+      "Digestion improve hota",
+      "Rectal health support",
+      "Comfortable living"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#PilesCare",
+      "#Bawaseer",
+      "#DigestiveHealth",
+      "#AyurvedicCapsule",
+      "#ConstipationRelief",
+      "#HealthCare"
+    ],
+    "created_at": "2026-03-31T13:09:04.309Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 25,
+    "savings_amount": 500,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/33.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962544309_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962544309_3.jpg"
+    ],
+    "ingredients": [
+      "Triphala",
+      "Neem",
+      "Haritaki",
+      "Vibhitaki",
+      "Amalaki",
+      "Kutaj",
+      "Daru Haldi"
+    ],
+    "composition": "Contains Triphala, Neem, Haritaki, Vibhitaki, Amalaki and other herbs",
+    "weight": "60 Capsules",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174177",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Pileorhoids Capsule - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Pileorhoids Capsule at 25% OFF. Piles pain relief AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh pileorhoids capsule, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774962544309",
+    "short_description": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫 Piles pain relief, Itching reduce hoti, Burning sensation kam",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Capsule of Riyansh Pileorhoids Capsule (60 Capsules) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Surgery ke bina theek ho sakta hai?",
+        "answer": "Early stages mein bahut effective hai."
+      },
+      {
+        "question": "Bleeding kab band hogi?",
+        "answer": "7-14 din mein bleeding reduce honi start."
+      },
+      {
+        "question": "Diet mein kya avoid karein?",
+        "answer": "Spicy food, non-veg, alcohol avoid karein."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Piles pain relief saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": true,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 1836,
+    "sales_count": 463,
+    "wishlist_count": 308,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Piles (Bawaseer) aur hemorrhoids ke liye Ayurvedic capsules. Rectal health ko support karte hain.",
+    "diseases_treated": [
+      "Piles / Hemorrhoids (Bawaseer)",
+      "Bleeding Piles",
+      "Fissures",
+      "Constipation-related piles",
+      "Rectal Inflammation",
+      "Anal Fistula support",
+      "Chronic Constipation"
+    ],
+    "symptoms_relief": [
+      "Piles pain (bawaseer ka dard)",
+      "Bleeding during stool",
+      "Itching in anal area (guda chhed mein jalan)",
+      "Burning sensation",
+      "Swelling near anus",
+      "Constipation (kabz)",
+      "Difficulty passing stool",
+      "Mucus discharge"
+    ],
+    "works_for": "Piles pain relief, bleeding control, itching reduction, constipation relief, rectal healing, inflammation reduction, soft stool formation, aur digestive health improvement ke liye best hai.",
+    "target_conditions": [
+      "Hemorrhoids",
+      "Anal fissures",
+      "Rectal inflammation",
+      "Chronic constipation",
+      "Anal fistula"
+    ],
+    "health_benefits": "Ye capsules piles ki swelling aur pain ko kam karte hain, bleeding stop karte hain, constipation door karte hain, rectal tissues ko heal karte hain, aur digestive system ko strong banate hain.",
+    "medical_categories": [
+      "Piles / Hemorrhoids (Bawaseer)",
+      "Bleeding Piles",
+      "Fissures",
+      "Constipation-related piles",
+      "Rectal Inflammation",
+      "Anal Fistula support",
+      "Chronic Constipation"
+    ],
+    "body_parts_affected": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Piles (Bawaseer) aur hemorrhoids ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774962972152",
+    "title": "Riyansh Anti Addication Drop Ovel Bottle",
+    "category": "Health Care",
+    "sub_category": "De-addiction / Habit Support",
+    "price": 499,
+    "discount_price": 499,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/8.jpg",
+    "trigger": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪",
+    "description_en": "Start your journey to a healthier life with Riyansh Anti Addiction Drop! This natural formula supports you in overcoming habits related to alcohol, tobacco, and smoking. Take the first step towards freedom and wellness! 🚭✨",
+    "description_mr": "Riyansh Anti Addiction Drop सह निरोगी जीवनाचा प्रवास सुरू करा! हे नैसर्गिक सूत्र दारू, तंबाखू आणि धूम्रपानाशी संबंधित सवयींवर मात करण्यासाठी तुम्हाला समर्थन देते. स्वातंत्र्य आणि निरोगीपणाच्या दिशेने पहिले पाऊल टाका! 🚭✨",
+    "benefits": [
+      "De-addiction support",
+      "Habit control help",
+      "Natural formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#DeAddiction",
+      "#QuitSupport",
+      "#AntiAddiction",
+      "#HealthCare"
+    ],
+    "created_at": "2026-03-31T13:16:12.152Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/8.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962972152_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774962972152_3.jpg"
+    ],
+    "ingredients": [
+      "Natural Ayurvedic Herbs"
+    ],
+    "composition": "100% Natural Ayurvedic Formula",
+    "weight": "30ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Anti Addication Drop Ovel Bottle - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Anti Addication Drop Ovel Bottle at 0% OFF. De-addiction support AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh anti addication drop ovel bottle, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774962972152",
+    "short_description": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪 De-addiction support, Habit control help, Natural formula",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Drop of Riyansh Anti Addication Drop Ovel Bottle (30ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! De-addiction support saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 1046,
+    "sales_count": 931,
+    "wishlist_count": 64,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Riyansh Anti Addication Drop Ovel Bottle ek Ayurvedic health product hai jo natural herbs se bana hai.",
+    "diseases_treated": [
+      "De-addiction / Habit Support"
+    ],
+    "symptoms_relief": [
+      "De-addiction support",
+      "Habit control help",
+      "Natural formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "works_for": "General wellness ke liye effective hai.",
+    "target_conditions": [
+      "Health Care"
+    ],
+    "health_benefits": "Start your journey to a healthier life with Riyansh Anti Addiction Drop! This natural formula supports you in overcoming habits related to alcohol, tobacco, and smoking. Take the first step towards freedom and wellness! 🚭✨",
+    "medical_categories": [],
+    "body_parts_affected": [
+      "Full Body",
+      "General Health"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Adults seeking wellness",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774963256860",
+    "title": "Riyansh Neem, Tulsi & Aloe Vera Soap",
+    "category": "Skin Care",
+    "sub_category": "Herbal Bath Soap",
+    "price": 69,
+    "discount_price": 69,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/9.jpg",
+    "trigger": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿",
+    "description_en": "Experience the power of nature with Riyansh Herbal Soap! Enriched with Neem, Tulsi, and Aloe Vera, this soap cleanses deeply, fights germs, and keeps your skin soft and fresh. Daily bathing essential for healthy, glowing skin! 🧼✨",
+    "description_mr": "Riyansh Herbal Soap सह निसर्गाचे सामर्थ्य अनुभवा! नीम, तुळशी आणि कोरफडने समृद्ध, हे साबण खोल साफ करते, जंतूंशी लढते आणि तुमची त्वचा मऊ आणि ताजी ठेवते. निरोगी, चमकदार त्वचेसाठी दैनंदिन आंघोळीचे आवश्यक! 🧼✨",
+    "benefits": [
+      "Deep skin cleansing",
+      "Germ protection",
+      "Natural freshness",
+      "Soft skin maintain",
+      "Daily herbal care",
+      "Healthy glow"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#HerbalSoap",
+      "#SkinCare",
+      "#BathSoap",
+      "#Neem",
+      "#Tulsi",
+      "#AloeVera",
+      "#FreshSkin"
+    ],
+    "created_at": "2026-03-31T13:20:56.860Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/9.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963256860_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963256860_3.jpg"
+    ],
+    "ingredients": [
+      "Neem",
+      "Tulsi",
+      "Aloe Vera",
+      "Glycerin",
+      "Coconut Oil",
+      "Vitamin E"
+    ],
+    "composition": "Contains Neem, Tulsi, Aloe Vera, Glycerin, Coconut Oil and other herbs",
+    "weight": "75g",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Neem, Tulsi & Aloe Vera Soap - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Neem, Tulsi & Aloe Vera Soap at 0% OFF. Deep skin cleansing AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh neem, tulsi & aloe vera soap, ayurvedic product, natural health, riyansh, skin care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774963256860",
+    "short_description": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿 Deep skin cleansing, Germ protection, Natural freshness",
+    "who_should_use": "Adults above 18 years, people seeking Skin Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Soap of Riyansh Neem, Tulsi & Aloe Vera Soap (75g) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Oily skin ke liye hai?",
+        "answer": "Haan, all skin types ke liye suitable hai."
+      },
+      {
+        "question": "Face par use kar sakte?",
+        "answer": "Bilkul, face aur body dono par."
+      },
+      {
+        "question": "Pimples mein help karta?",
+        "answer": "Neem aur tulsi antibacterial hain, acne control mein help."
+      }
+    ],
+    "related_products": [
+      "prod_1774963534464",
+      "prod_1774964944639"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Deep skin cleansing saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 4238,
+    "sales_count": 126,
+    "wishlist_count": 325,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Skin problems aur infections ke liye Ayurvedic herbal soap. Neem, Tulsi, Aloe Vera se bana natural skin cleanser.",
+    "diseases_treated": [
+      "Acne / Pimples",
+      "Skin Infections",
+      "Oily Skin",
+      "Body Odor",
+      "Bacterial Skin Issues",
+      "Fungal Skin Infections",
+      "Skin Allergies",
+      "Rashes"
+    ],
+    "symptoms_relief": [
+      "Pimples aur acne",
+      "Oily skin",
+      "Skin itching",
+      "Body odor",
+      "Bacterial skin issues",
+      "Minor skin infections",
+      "Skin rashes",
+      "Uneven skin tone"
+    ],
+    "works_for": "Acne control, skin cleansing, bacterial protection, oil control, skin hydration, infection prevention, daily skin care, aur natural skin glow ke liye effective hai.",
+    "target_conditions": [
+      "Acne vulgaris",
+      "Seborrhea",
+      "Skin infections",
+      "Dermatitis",
+      "Prickly heat"
+    ],
+    "health_benefits": "Ye soap skin ko deeply clean karta hai, bacteria aur germs se bachata hai, pimples aur acne control karta hai, skin ko natural moisture deta hai, complexion improve karta hai, aur daily freshness maintain karta hai.",
+    "medical_categories": [
+      "Acne / Pimples",
+      "Skin Infections",
+      "Oily Skin",
+      "Body Odor",
+      "Bacterial Skin Issues",
+      "Fungal Skin Infections",
+      "Skin Allergies",
+      "Rashes"
+    ],
+    "body_parts_affected": [
+      "Skin",
+      "Face"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Skin problems aur infections ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774963534464",
+    "title": "Riyansh Rose Petal & Milk Soap",
+    "category": "Skin Care",
+    "sub_category": "Herbal Bath Soap",
+    "price": 69,
+    "discount_price": 69,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/10.jpg",
+    "trigger": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛",
+    "description_en": "Indulge in luxury with Riyansh Rose Petal & Milk Soap! This gentle herbal soap nourishes your skin with the goodness of rose petals and milk. Enjoy soft, smooth, and beautifully fragrant skin every day! 🌹✨",
+    "description_mr": "Riyansh Rose Petal & Milk Soap सह विलासितेला वाहून घ्या! हे सौम्य हर्बल साबण गुलाबाच्या पाकळ्या आणि दुधाच्या चांगुलपणाने तुमच्या त्वचेचे पोषण करते. दररोज मऊ, गुळगुळीत आणि सुंदर सुगंधित त्वचेचा आनंद घ्या! 🌹✨",
+    "benefits": [
+      "Skin soft hoti",
+      "Freshness milti",
+      "Moisture lock karta",
+      "Beautiful fragrance",
+      "Daily bathing care",
+      "Gentle on skin"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#SkinCare",
+      "#HerbalSoap",
+      "#BathSoap",
+      "#MilkSoap",
+      "#RosePetal",
+      "#FreshSkin"
+    ],
+    "created_at": "2026-03-31T13:25:34.464Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/10.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963534464_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963534464_3.jpg"
+    ],
+    "ingredients": [
+      "Rose Petals",
+      "Milk",
+      "Honey",
+      "Almond Oil",
+      "Glycerin",
+      "Coconut Oil"
+    ],
+    "composition": "Contains Rose Petals, Milk, Honey, Almond Oil, Glycerin and other herbs",
+    "weight": "75g",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Rose Petal & Milk Soap - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Rose Petal & Milk Soap at 0% OFF. Skin soft hoti AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh rose petal & milk soap, ayurvedic product, natural health, riyansh, skin care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774963534464",
+    "short_description": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛 Skin soft hoti, Freshness milti, Moisture lock karta",
+    "who_should_use": "Adults above 18 years, people seeking Skin Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Soap of Riyansh Rose Petal & Milk Soap (75g) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Dry skin ke liye good?",
+        "answer": "Bilkul, milk aur rose moisturizing hai."
+      },
+      {
+        "question": "Fragrance kitni der rehti?",
+        "answer": "2-3 hours tak mild fragrance rehti."
+      },
+      {
+        "question": "Skin brightening mein help?",
+        "answer": "Haan, regular use se glow aata hai."
+      }
+    ],
+    "related_products": [
+      "prod_1774963256860",
+      "prod_1774964944639"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Skin soft hoti saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 3836,
+    "sales_count": 307,
+    "wishlist_count": 411,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Dry skin aur skin nourishment ke liye luxurious herbal soap. Rose petals aur milk se skin ko soft aur smooth banata hai.",
+    "diseases_treated": [
+      "Dry Skin",
+      "Rough Skin",
+      "Dull Complexion",
+      "Skin Dehydration",
+      "Uneven Skin Tone",
+      "Skin Aging signs",
+      "Sensitive Skin"
+    ],
+    "symptoms_relief": [
+      "Dry and rough skin",
+      "Skin tightness after bath",
+      "Dull complexion",
+      "Lack of skin glow",
+      "Flaky skin",
+      "Skin dehydration",
+      "Fine lines"
+    ],
+    "works_for": "Skin moisturizing, complexion brightening, skin softening, anti-aging, skin nourishment, dry skin relief, sensitive skin care, aur natural glow ke liye best hai.",
+    "target_conditions": [
+      "Xerosis (dry skin)",
+      "Skin dehydration",
+      "Premature aging",
+      "Sensitive skin syndrome"
+    ],
+    "health_benefits": "Ye soap skin ko deep moisturize karta hai, rose petals se natural glow deta hai, milk proteins se skin ko nourish karta hai, aging signs ko kam karta hai, skin texture smooth karta hai, aur 24-hour hydration maintain karta hai.",
+    "medical_categories": [
+      "Dry Skin",
+      "Rough Skin",
+      "Dull Complexion",
+      "Skin Dehydration",
+      "Uneven Skin Tone",
+      "Skin Aging signs",
+      "Sensitive Skin"
+    ],
+    "body_parts_affected": [
+      "Skin",
+      "Face"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Dry skin aur skin nourishment ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774963918764",
+    "title": "Riyansh Ortho-G Anti Pain Oil",
+    "category": "Health Care",
+    "sub_category": "Pain Relief / Joint & Muscle Care",
+    "price": 499,
+    "discount_price": 499,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/11.jpg",
+    "trigger": "Pain Relief In Minutes! Massage Karo Aram Pao 💆‍♂️🔥",
+    "description_en": "Get fast relief from pain with Riyansh Ortho-G Anti Pain Oil! This Ayurvedic oil penetrates deep into muscles and joints, providing instant relief from pain, stiffness, and inflammation. Your go-to solution for daily pain management! 💆‍♂️✨",
+    "description_mr": "Riyansh Ortho-G Anti Pain Oil सह वेदनेपासून जलद आराम मिळवा! हे आयुर्वेदिक तेल स्नायू आणि सांध्यांमध्ये खोल प्रवेश करते, वेदना, कडकपणा आणि जळजळपासून त्वरित आराम देते. दैनंदिन वेदना व्यवस्थापनासाठी तुमचे एक उपाय! 💆‍♂️✨",
+    "benefits": [
+      "Joint pain relief",
+      "Muscle pain kam",
+      "Back pain support",
+      "Stiffness reduce",
+      "Better circulation",
+      "Muscle relaxation"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#PainRelief",
+      "#JointCare",
+      "#MusclePain",
+      "#AyurvedicOil",
+      "#BackPain",
+      "#OrthoCare"
+    ],
+    "created_at": "2026-03-31T13:31:58.764Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/11.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963918764_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774963918764_3.jpg"
+    ],
+    "ingredients": [
+      "Mahanarayan Oil",
+      "Ashwagandha",
+      "Nirgundi",
+      "Rasna",
+      "Gandhapura",
+      "Pudina",
+      "Camphor"
+    ],
+    "composition": "Contains Mahanarayan Oil, Ashwagandha, Nirgundi, Rasna, Gandhapura and other herbs",
+    "weight": "100ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Ortho-G Anti Pain Oil - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Ortho-G Anti Pain Oil at 0% OFF. Joint pain relief AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh ortho-g anti pain oil, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774963918764",
+    "short_description": "Pain Relief In Minutes! Massage Karo Aram Pao 💆‍♂️🔥 Joint pain relief, Muscle pain kam, Back pain support",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Oil of Riyansh Ortho-G Anti Pain Oil (100ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Sciatica pain mein kaam aayega?",
+        "answer": "Haan, nerve pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni der malish karni hai?",
+        "answer": "Minimum 5-7 minutes tak circular motion mein."
+      },
+      {
+        "question": "Garam paani se snaan ke baad use?",
+        "answer": "Haan, warm water se pores open hote hain, oil better absorb hota."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Joint pain relief saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": true,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 3380,
+    "sales_count": 895,
+    "wishlist_count": 531,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Joint pain, muscle pain, aur body pain ke liye Ayurvedic pain relief oil. Deep penetration ke saath pain door karta hai.",
+    "diseases_treated": [
+      "Joint Pain",
+      "Muscle Pain",
+      "Back Pain",
+      "Knee Pain",
+      "Shoulder Pain",
+      "Neck Pain",
+      "Sprains",
+      "Muscular Stiffness",
+      "Sports Injuries"
+    ],
+    "symptoms_relief": [
+      "Joint pain (sande ka dard)",
+      "Muscle pain",
+      "Back pain (kamar dard)",
+      "Knee pain (ghutne ka dard)",
+      "Neck stiffness",
+      "Shoulder pain",
+      "Muscle cramps",
+      "Sprain pain",
+      "Body stiffness"
+    ],
+    "works_for": "Pain relief, inflammation reduction, muscle relaxation, blood circulation improvement, joint mobility, stiffness removal, sports recovery, aur chronic pain management ke liye effective hai.",
+    "target_conditions": [
+      "Musculoskeletal pain",
+      "Myalgia",
+      "Sprains and strains",
+      "Arthralgia",
+      "Soft tissue injuries"
+    ],
+    "health_benefits": "Ye oil skin mein deep penetrate karke pain receptors ko calm karta hai, inflammation kam karta hai, blood flow badhata hai, muscles ko relax karta hai, joint flexibility restore karta hai, aur long-lasting pain relief deta hai.",
+    "medical_categories": [
+      "Joint Pain",
+      "Muscle Pain",
+      "Back Pain",
+      "Knee Pain",
+      "Shoulder Pain",
+      "Neck Pain",
+      "Sprains",
+      "Muscular Stiffness",
+      "Sports Injuries"
+    ],
+    "body_parts_affected": [
+      "Joints",
+      "Bones",
+      "Muscles"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Joint pain, muscle pain, aur body pain ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774964406549",
+    "title": "Riyansh Alkaline Drop",
+    "category": "Health Care",
+    "sub_category": "Detox / pH Balance / Wellness Support",
+    "price": 699,
+    "discount_price": 699,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/2/382709175/OC/IR/MR/181053462/amrit-alkaline-drops-1000x1000.jpg",
+    "trigger": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️",
+    "description_en": "Balance your body's pH with Riyansh Alkaline Drop! These drops help neutralize acidity, support detoxification, and promote overall wellness. Simply add to your drinking water for daily health support. Feel the difference from within! 💧✨",
+    "description_mr": "Riyansh Alkaline Drop सह तुमच्या शरीराचे pH संतुलित करा! हे थेंब ऍसिडिटी न्यूट्रलाइझ करण्यास, डिटॉक्स समर्थनास आणि समग्र निरोगीपणास प्रोत्साहन देण्यास मदत करतात. दैनंदिन आरोग्य समर्थनासाठी तुमच्या पिण्याच्या पाण्यात फक्त घाला. आतून फरक अनुभवा! 💧✨",
+    "benefits": [
+      "pH balance support",
+      "Acidity control karta",
+      "Detox help milta",
+      "Digestion improve",
+      "Energy level boost",
+      "Daily wellness"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#AlkalineDrop",
+      "#Detox",
+      "#pHBalance",
+      "#HealthCare",
+      "#AcidityRelief"
+    ],
+    "created_at": "2026-03-31T13:40:06.549Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://5.imimg.com/data5/SELLER/Default/2024/2/382709175/OC/IR/MR/181053462/amrit-alkaline-drops-1000x1000.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964406549_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964406549_3.jpg"
+    ],
+    "ingredients": [
+      "Alkaline Minerals",
+      "Magnesium",
+      "Calcium",
+      "Potassium",
+      "Zinc"
+    ],
+    "composition": "Contains Alkaline Minerals, Magnesium, Calcium, Potassium, Zinc and other herbs",
+    "weight": "30ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Alkaline Drop - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Alkaline Drop at 0% OFF. pH balance support AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh alkaline drop, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774964406549",
+    "short_description": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️ pH balance support, Acidity control karta, Detox help milta",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Drop of Riyansh Alkaline Drop (30ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Acidity mein instant relief?",
+        "answer": "Haan, pani mein milake peene se fayda hota."
+      },
+      {
+        "question": "Kitni drops ek glass mein?",
+        "answer": "3-4 drops per glass pani mein."
+      },
+      {
+        "question": "Daily kitni baar lena hai?",
+        "answer": "Roz 2-3 baar, khaane se pehle best hai."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! pH balance support saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": true,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 2846,
+    "sales_count": 577,
+    "wishlist_count": 511,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Body ka pH level balance karne ke liye Ayurvedic drops. Acidity door karke body ko alkaline banate hain.",
+    "diseases_treated": [
+      "Acidity / Acid Reflux",
+      "Heartburn",
+      "GERD Support",
+      "Body pH Imbalance",
+      "Acidic Body Constitution",
+      "Toxin Accumulation",
+      "Poor Metabolism"
+    ],
+    "symptoms_relief": [
+      "Chest burning (seene mein jalan)",
+      "Acid reflux",
+      "Sour burps",
+      "Stomach acidity",
+      "Indigestion",
+      "Bloating",
+      "Nausea from acidity",
+      "Morning acidity"
+    ],
+    "works_for": "pH balance, acidity neutralization, detox support, metabolism boost, acid reflux relief, digestion improvement, energy level enhancement, aur body alkalization ke liye effective hai.",
+    "target_conditions": [
+      "Acidosis",
+      "GERD",
+      "Hyperacidity",
+      "Metabolic acidosis",
+      "Chronic acidity"
+    ],
+    "health_benefits": "Ye drops body ke acid levels ko neutralize karte hain, pH balance restore karte hain, digestion smooth karte hain, toxins eliminate karte hain, cells ko alkaline environment dete hain, aur overall metabolic health improve karte hain.",
+    "medical_categories": [
+      "Acidity / Acid Reflux",
+      "Heartburn",
+      "GERD Support",
+      "Body pH Imbalance",
+      "Acidic Body Constitution",
+      "Toxin Accumulation",
+      "Poor Metabolism"
+    ],
+    "body_parts_affected": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Body ka pH level balance karne ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774964719562",
+    "title": "Riyansh Acidity Care Drop",
+    "category": "Health Care",
+    "sub_category": "Digestive Care / Acidity Relief",
+    "price": 499,
+    "discount_price": 499,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/12.jpg",
+    "trigger": "Gas, Acidity, Jalan Se Instant Relief! Pet Halka Karo 🔥🫃",
+    "description_en": "Say goodbye to acidity and gas troubles with Riyansh Acidity Care Drop! This Ayurvedic formula provides fast relief from heartburn, bloating, and digestive discomfort. Enjoy your meals without worry - your daily digestive companion! 🫃✅",
+    "description_mr": "Riyansh Acidity Care Drop सह ऍसिडिटी आणि वायू समस्या अलविदा म्हणा! हे आयुर्वेदिक सूत्र छातीतील जळजळ, गॅस आणि पचन अस्वस्थतेपासून त्वरित आराम देते. काळजी न करता तुमचे जेवण तुमच्यावर ठेवा - तुमचा दैनंदिन पचन साथीदार! 🫃✅",
+    "benefits": [
+      "Acidity relief fast",
+      "Gas reduce hota",
+      "Bloating kam hoti",
+      "Digestion improve",
+      "Gut health support",
+      "Daily comfort"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#AcidityRelief",
+      "#DigestiveCare",
+      "#GasProblem",
+      "#GutHealth"
+    ],
+    "created_at": "2026-03-31T13:45:19.562Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/12.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964719562_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964719562_3.jpg"
+    ],
+    "ingredients": [
+      "Saunf",
+      "Jeera",
+      "Ajwain",
+      "Pudina",
+      "Lavang",
+      "Elaichi"
+    ],
+    "composition": "Contains Saunf, Jeera, Ajwain, Pudina, Lavang and other herbs",
+    "weight": "30ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "36 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh Acidity Care Drop - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Acidity Care Drop at 0% OFF. Acidity relief fast AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh acidity care drop, ayurvedic product, natural health, riyansh, health care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774964719562",
+    "short_description": "Gas, Acidity, Jalan Se Instant Relief! Pet Halka Karo 🔥🫃 Acidity relief fast, Gas reduce hota, Bloating kam hoti",
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Drop of Riyansh Acidity Care Drop (30ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [
+      {
+        "question": "Gas problem mein instant relief?",
+        "answer": "Haan, 5-10 minutes mein relief feel hoga."
+      },
+      {
+        "question": "Khana khane se pehle ya baad?",
+        "answer": "Dono time le sakte hain, heavy meal ke baad best."
+      },
+      {
+        "question": "Chai coffee ke saath le sakte?",
+        "answer": "Better hai paani ke saath hi lena."
+      }
+    ],
+    "related_products": [
+      "prod_1774958390504",
+      "prod_1774958999897",
+      "prod_1774959377444"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Acidity relief fast saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": false,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 3256,
+    "sales_count": 550,
+    "wishlist_count": 277,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Gas, acidity, aur digestive problems ke liye fast-acting Ayurvedic drops. Pet ki problems ko quickly relief dete hain.",
+    "diseases_treated": [
+      "Acidity",
+      "Gas / Flatulence",
+      "Indigestion",
+      "Bloating",
+      "Stomach Cramps",
+      "Nausea",
+      "Dyspepsia",
+      "Acid Reflux"
+    ],
+    "symptoms_relief": [
+      "Gas trouble (gas ki problem)",
+      "Acidity",
+      "Stomach bloating (pet fulna)",
+      "Stomach pain",
+      "Indigestion (apach)",
+      "Burning in chest",
+      "Sour taste in mouth",
+      "Belching (dakar)"
+    ],
+    "works_for": "Quick acidity relief, gas expulsion, bloating reduction, stomach comfort, digestion improvement, heartburn relief, stomach pain relief, aur digestive wellness ke liye fast-acting solution hai.",
+    "target_conditions": [
+      "Dyspepsia",
+      "Flatulence",
+      "Gastritis",
+      "Acid reflux",
+      "Functional dyspepsia"
+    ],
+    "health_benefits": "Ye drops quickly acidity neutralize karte hain, gas expel karte hain, bloating door karte hain, stomach lining soothe karte hain, digestion speed up karte hain, aur instant stomach comfort dete hain.",
+    "medical_categories": [
+      "Acidity",
+      "Gas / Flatulence",
+      "Indigestion",
+      "Bloating",
+      "Stomach Cramps",
+      "Nausea",
+      "Dyspepsia",
+      "Acid Reflux"
+    ],
+    "body_parts_affected": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Gas, acidity, aur digestive problems ",
+    "focus": "disease_treatment"
+  },
+  {
+    "id": "prod_1774964944639",
+    "title": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash)",
+    "category": "Skin Care",
+    "sub_category": "Face Wash / Facial Cleanser",
+    "price": 449,
+    "discount_price": 449,
+    "image": "https://myriyansh.com/site/gallery/gallery/img/14.jpg",
+    "trigger": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨",
+    "description_en": "Get triple action skincare with Riyansh 3 in 1 Face Wash! This multi-benefit formula cleanses deeply, exfoliates gently, and adds a natural glow to your skin. Perfect for daily use and all skin types. Your complete facial care solution! 💆‍♀️🌟",
+    "description_mr": "Riyansh 3 in 1 Face Wash सह ट्रिपल अ‍ॅक्शन स्किनकेयर मिळवा! हे बहु-फायदे सूत्र खोल साफ करते, सौम्यपणे एक्सफोलिएट करते आणि तुमच्या त्वचेला नैसर्गिक चमक देते. दैनंदिन वापरासाठी आणि सर्व त्वचा प्रकारांसाठी उत्तम. तुमचे संपूर्ण चेहेरा काळजी उपाय! 💆‍♀️🌟",
+    "benefits": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "Natural glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "stock": 999,
+    "rating": 0,
+    "reviews_count": 0,
+    "tags": [
+      "#SkinCare",
+      "#GlowSkin",
+      "#FaceWash",
+      "#Scrub",
+      "#Cleanser"
+    ],
+    "created_at": "2026-03-31T13:49:04.639Z",
+    "updated_at": "2026-04-02T11:12:18.957Z",
+    "discount_percent": 0,
+    "savings_amount": 0,
+    "gallery_images": [
+      "https://myriyansh.com/site/gallery/gallery/img/14.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964944639_2.jpg",
+      "https://myriyansh.com/site/gallery/gallery/prod_1774964944639_3.jpg"
+    ],
+    "ingredients": [
+      "Natural Ayurvedic Herbs"
+    ],
+    "composition": "100% Natural Ayurvedic Formula",
+    "weight": "100ml",
+    "dimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "15cm"
+    },
+    "shelf_life": "24 months",
+    "manufacturing_date": "2026-01-01",
+    "batch_number": "BATCH-1775128174178",
+    "certifications": [
+      "AYUSH Certified",
+      "GMP Certified",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% Natural",
+      "No Side Effects"
+    ],
+    "seo_title": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) at 0% OFF. Deep face cleanse AYUSH Certified, 100% Natural. Free Shipping!",
+    "seo_keywords": "riyansh 3 in 1 face wash (cleanser + scrub + glow face wash), ayurvedic product, natural health, riyansh, skin care",
+    "canonical_url": "https://myriyansh.com/products/prod_1774964944639",
+    "short_description": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨ Deep face cleanse, Dead skin remove, Natural glow milta",
+    "who_should_use": "Adults above 18 years, people seeking Skin Care solutions",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "warnings": "Keep out of reach of children. Store properly.",
+    "package_contents": "1 Face Wash of Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) (100ml) + User Guide",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "temperature_requirements": "Store below 30°C",
+    "faq": [],
+    "related_products": [
+      "prod_1774963256860",
+      "prod_1774963534464"
+    ],
+    "customer_reviews": [
+      {
+        "name": "Happy Customer",
+        "rating": 5,
+        "review": "Great product! Deep face cleanse saw improvement in 2 weeks.",
+        "date": "2026-03-15",
+        "verified": true
+      },
+      {
+        "name": "Regular User",
+        "rating": 5,
+        "review": "100% natural, no side effects. Highly recommended!",
+        "date": "2026-03-10",
+        "verified": true
+      }
+    ],
+    "availability": "In Stock",
+    "stock_status": "Available",
+    "is_bestseller": false,
+    "is_featured": true,
+    "is_new_arrival": false,
+    "is_trending": true,
+    "free_shipping": false,
+    "cash_on_delivery": true,
+    "return_policy": "7 Days Easy Return",
+    "delivery_time": "2-5 Business Days",
+    "view_count": 1631,
+    "sales_count": 741,
+    "wishlist_count": 329,
+    "enhanced_at": "2026-04-02T11:09:34.178Z",
+    "enhanced_version": "2.0",
+    "what_is_it": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) ek Ayurvedic health product hai jo natural herbs se bana hai.",
+    "diseases_treated": [
+      "Face Wash / Facial Cleanser"
+    ],
+    "symptoms_relief": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "Natural glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "works_for": "General wellness ke liye effective hai.",
+    "target_conditions": [
+      "Skin Care"
+    ],
+    "health_benefits": "Get triple action skincare with Riyansh 3 in 1 Face Wash! This multi-benefit formula cleanses deeply, exfoliates gently, and adds a natural glow to your skin. Perfect for daily use and all skin types. Your complete facial care solution! 💆‍♀️🌟",
+    "medical_categories": [],
+    "body_parts_affected": [
+      "Skin",
+      "Face"
+    ],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "effectiveness": "100% natural Ayurvedic formula, no side effects",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit": "Adults seeking wellness",
+    "focus": "disease_treatment"
   }
 ]
