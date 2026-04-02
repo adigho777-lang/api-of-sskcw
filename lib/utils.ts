@@ -62,7 +62,11 @@ export function formatProductDetail(p: any) {
     // Basic Info
     product_id: p.id,
     title: p.title,
+    title_mr: p.title_mr,
+    title_hi: p.title_hi,
     category: p.category,
+    category_mr: p.category_mr,
+    category_hi: p.category_hi,
     sub_category: p.sub_category,
     
     // Images
@@ -80,6 +84,7 @@ export function formatProductDetail(p: any) {
     short_description: p.short_description,
     description_en: p.description_en || p.description,
     description_mr: p.description_mr,
+    description_hi: p.description_hi,
     
     // Disease-Focused Fields (NEW)
     what_is_it: p.what_is_it,
