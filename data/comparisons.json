@@ -1,0 +1,226 @@
+{
+  "comparisons": [
+    {
+      "id": "compare_immunity",
+      "title": "Immunity Boosters Comparison",
+      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "criteria": [
+        {
+          "feature": "Form",
+          "prod_1774958390504": "Juice (Liquid)",
+          "prod_1774960680020": "Capsule"
+        },
+        {
+          "feature": "Convenience",
+          "prod_1774958390504": "Daily 30ml drink",
+          "prod_1774960680020": "Easy to carry, travel friendly"
+        },
+        {
+          "feature": "Absorption",
+          "prod_1774958390504": "Fast liquid absorption",
+          "prod_1774960680020": "Slower but sustained release"
+        },
+        {
+          "feature": "Best For",
+          "prod_1774958390504": "Home use, quick absorption",
+          "prod_1774960680020": "Travel, office, busy lifestyle"
+        },
+        {
+          "feature": "Price",
+          "prod_1774958390504": "₹1500",
+          "prod_1774960680020": "₹1500"
+        }
+      ],
+      "winner": "Depends on lifestyle - Juice for home, Capsules for travel"
+    },
+    {
+      "id": "compare_power_boosters",
+      "title": "Power Booster vs Power Booster Plus",
+      "products": ["prod_1774959746488", "prod_1774960095539"],
+      "criteria": [
+        {
+          "feature": "Strength",
+          "prod_1774959746488": "Standard Power",
+          "prod_1774960095539": "Double Power (Advanced)"
+        },
+        {
+          "feature": "Best For",
+          "prod_1774959746488": "General fatigue, daily energy",
+          "prod_1774960095539": "Extreme weakness, athletes, heavy work"
+        },
+        {
+          "feature": "Dosage",
+          "prod_1774959746488": "Juice form",
+          "prod_1774960095539": "4 capsules daily"
+        },
+        {
+          "feature": "Results Speed",
+          "prod_1774959746488": "3-7 days",
+          "prod_1774960095539": "5-10 days for major improvement"
+        },
+        {
+          "feature": "Price",
+          "prod_1774959746488": "₹1500",
+          "prod_1774960095539": "₹1500"
+        }
+      ],
+      "winner": "Power Booster Plus for serious issues, Regular for maintenance"
+    },
+    {
+      "id": "compare_diabetes_solutions",
+      "title": "Diabetes Care Products",
+      "products": ["prod_1774958999897", "prod_1774964406549"],
+      "criteria": [
+        {
+          "feature": "Primary Function",
+          "prod_1774958999897": "Blood sugar control",
+          "prod_1774964406549": "pH balance, acidity control"
+        },
+        {
+          "feature": "Works On",
+          "prod_1774958999897": "Pancreas, Insulin sensitivity",
+          "prod_1774964406549": "Stomach acidity, Body pH"
+        },
+        {
+          "feature": "Best Time",
+          "prod_1774958999897": "After meals",
+          "prod_1774964406549": "Before meals"
+        },
+        {
+          "feature": "Use Together?",
+          "comparison_note": "Yes! Best results when used together"
+        },
+        {
+          "feature": "Price",
+          "prod_1774958999897": "₹1500",
+          "prod_1774964406549": "₹699"
+        }
+      ],
+      "winner": "Use both together for complete diabetes care"
+    },
+    {
+      "id": "compare_pain_relief",
+      "title": "Joint Pain Solutions",
+      "products": ["prod_1774959377444", "prod_1774963918764"],
+      "criteria": [
+        {
+          "feature": "Type",
+          "prod_1774959377444": "Internal (Juice)",
+          "prod_1774963918764": "External (Oil)"
+        },
+        {
+          "feature": "Action",
+          "prod_1774959377444": "Strengthens from inside",
+          "prod_1774963918764": "Instant pain relief on application"
+        },
+        {
+          "feature": "Best For",
+          "prod_1774959377444": "Chronic joint issues, long-term healing",
+          "prod_1774963918764": "Immediate pain, muscle stiffness"
+        },
+        {
+          "feature": "Usage",
+          "prod_1774959377444": "Daily oral consumption",
+          "prod_1774963918764": "Massage on affected area"
+        },
+        {
+          "feature": "Price",
+          "prod_1774959377444": "₹1500",
+          "prod_1774963918764": "₹499"
+        }
+      ],
+      "winner": "Use both for inside-outside complete treatment"
+    },
+    {
+      "id": "compare_skin_care",
+      "title": "Skin Care Soaps",
+      "products": ["prod_1774963256860", "prod_1774963534464"],
+      "criteria": [
+        {
+          "feature": "Key Ingredients",
+          "prod_1774963256860": "Neem, Tulsi, Aloe Vera",
+          "prod_1774963534464": "Rose Petals, Milk"
+        },
+        {
+          "feature": "Best For Skin Type",
+          "prod_1774963256860": "Oily, Acne-prone, Infected skin",
+          "prod_1774963534464": "Dry, Sensitive, Normal skin"
+        },
+        {
+          "feature": "Primary Benefit",
+          "prod_1774963256860": "Anti-bacterial, Pimple control",
+          "prod_1774963534464": "Moisturizing, Softening"
+        },
+        {
+          "feature": "Fragrance",
+          "prod_1774963256860": "Herbal, Medicinal",
+          "prod_1774963534464": "Rose, Sweet"
+        },
+        {
+          "feature": "Price",
+          "prod_1774963256860": "₹69",
+          "prod_1774963534464": "₹69"
+        }
+      ],
+      "winner": "Neem for oily/acne skin, Rose for dry/normal skin"
+    }
+  ],
+  "recommendations": {
+    "by_age": {
+      "18-30": ["prod_1774958390504", "prod_1774964944639", "prod_1774963256860"],
+      "30-45": ["prod_1774958999897", "prod_1774959746488", "prod_1774961023248"],
+      "45-60": ["prod_1774959377444", "prod_1774962060395", "prod_1774960680020"],
+      "60+": ["prod_1774959377444", "prod_1774963918764", "prod_1774961360092"]
+    },
+    "by_lifestyle": {
+      "office_worker": ["prod_1774959746488", "prod_1774961360092", "prod_1774964719562"],
+      "athlete": ["prod_1774960095539", "prod_1774959746488", "prod_1774963918764"],
+      "housewife": ["prod_1774962060395", "prod_1774958390504", "prod_1774963534464"],
+      "senior_citizen": ["prod_1774959377444", "prod_1774960680020", "prod_1774961360092"],
+      "student": ["prod_1774958390504", "prod_1774964944639", "prod_1774961360092"]
+    },
+    "by_season": {
+      "summer": ["prod_1774963534464", "prod_1774964406549", "prod_1774961360092"],
+      "winter": ["prod_1774963918764", "prod_1774963256860", "prod_1774961023248"],
+      "monsoon": ["prod_1774963256860", "prod_1774958390504", "prod_1774964944639"]
+    },
+    "by_budget": {
+      "under_500": ["prod_1774963256860", "prod_1774963534464", "prod_1774961360092", "prod_1774961712495"],
+      "500-1000": ["prod_1774963918764", "prod_1774964719562", "prod_1774964406549", "prod_1774964944639"],
+      "1000-2000": ["prod_1774958390504", "prod_1774958999897", "prod_1774959377444", "prod_1774959746488"],
+      "premium": ["prod_1774960680020", "prod_1774960095539", "prod_1774962060395", "prod_1774962544309"]
+    }
+  },
+  "quick_guides": {
+    "for_beginners": {
+      "title": "🌱 Ayurveda First-Timers",
+      "recommended": ["prod_1774958390504", "prod_1774963256860"],
+      "tips": [
+        "Start with Amrit Juice for overall health",
+        "Use herbal soaps for daily care",
+        "Be consistent for 3 months",
+        "Consult doctor if on medication"
+      ]
+    },
+    "for_chronic_issues": {
+      "title": "🏥 Long-term Health Issues",
+      "recommended": ["prod_1774958999897", "prod_1774959377444", "prod_1774962544309"],
+      "tips": [
+        "Use specific products for your condition",
+        "Don't skip doses",
+        "Monitor your progress",
+        "Combine internal + external products"
+      ]
+    },
+    "for_wellness": {
+      "title": "💪 Health Maintenance",
+      "recommended": ["prod_1774958390504", "prod_1774959746488", "prod_1774961023248"],
+      "tips": [
+        "Amrit Juice for immunity",
+        "Power Booster for energy",
+        "Hair Oil for hair care",
+        "Regular use is key"
+      ]
+    }
+  }
+}

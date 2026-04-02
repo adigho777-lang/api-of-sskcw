@@ -1,0 +1,163 @@
+{
+  "bundles": [
+    {
+      "id": "bundle_immunity_pack",
+      "title": "🔥 Immunity Power Pack",
+      "description": "Immunity boost karne ke liye best combo! Amrit Juice + Amrit Capsule",
+      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "original_price": 3850,
+      "bundle_price": 2999,
+      "savings": 851,
+      "savings_percent": 22,
+      "tagline": "Double Immunity Power! 💪",
+      "best_for": ["Low Immunity", "Frequent Illness", "General Weakness"],
+      "recommended_duration": "3 months"
+    },
+    {
+      "id": "bundle_diabetes_care",
+      "title": "🩸 Complete Diabetes Care Pack",
+      "description": "Sugar control ke liye complete solution! Diabo-G + Alkaline Drop",
+      "products": ["prod_1774958999897", "prod_1774964406549"],
+      "original_price": 2549,
+      "bundle_price": 1999,
+      "savings": 550,
+      "savings_percent": 22,
+      "tagline": "Sugar Control + pH Balance! ✅",
+      "best_for": ["Type 2 Diabetes", "High Blood Sugar", "Acidity with Sugar"],
+      "recommended_duration": "3-6 months"
+    },
+    {
+      "id": "bundle_joint_relief",
+      "title": "🦴 Joint Pain Relief Combo",
+      "description": "Joint pain se permanent chutkara! Artho-G Juice + Ortho-G Oil",
+      "products": ["prod_1774959377444", "prod_1774963918764"],
+      "original_price": 2349,
+      "bundle_price": 1799,
+      "savings": 550,
+      "savings_percent": 23,
+      "tagline": "Andar se + Bahar se Relief! 💆‍♂️",
+      "best_for": ["Arthritis", "Knee Pain", "Joint Stiffness", "Back Pain"],
+      "recommended_duration": "2-3 months"
+    },
+    {
+      "id": "bundle_energy_max",
+      "title": "⚡ Maximum Energy Combo",
+      "description": "Full day energy ke liye! Power Booster + Power Booster Plus",
+      "products": ["prod_1774959746488", "prod_1774960095539"],
+      "original_price": 3850,
+      "bundle_price": 2999,
+      "savings": 851,
+      "savings_percent": 22,
+      "tagline": "Triple Energy Power! 🚀",
+      "best_for": ["Extreme Fatigue", "Low Stamina", "Physical Weakness", "Athletes"],
+      "recommended_duration": "2-3 months"
+    },
+    {
+      "id": "bundle_family_health",
+      "title": "👨‍👩‍👧‍👦 Family Health Pack",
+      "description": "Poori family ki sehat ke liye! Amrit Juice + Diabo-G + 18 Herbs Hair Oil",
+      "products": ["prod_1774958390504", "prod_1774958999897", "prod_1774961023248"],
+      "original_price": 4029,
+      "bundle_price": 3299,
+      "savings": 730,
+      "savings_percent": 18,
+      "tagline": "Ghar ki Sehat, Ek Box mein! 🏠",
+      "best_for": ["Family Immunity", "Multi-generational health", "Complete wellness"],
+      "recommended_duration": "3 months"
+    },
+    {
+      "id": "bundle_piles_cure",
+      "title": "🚫 Permanent Piles Relief Pack",
+      "description": "Bawaseer se permanent chutkara! Pileorhoids + Acidity Care",
+      "products": ["prod_1774962544309", "prod_1774964719562"],
+      "original_price": 2499,
+      "bundle_price": 1999,
+      "savings": 500,
+      "savings_percent": 20,
+      "tagline": "Surgery nahi, Solution hai! 💯",
+      "best_for": ["Piles", "Fissures", "Constipation", "Bleeding Piles"],
+      "recommended_duration": "3-4 months"
+    },
+    {
+      "id": "bundle_skin_glow",
+      "title": "✨ Skin Glow Combo",
+      "description": "Natural glowing skin ke liye! 3 in 1 Face Wash + Rose Milk Soap",
+      "products": ["prod_1774964944639", "prod_1774963534464"],
+      "original_price": 518,
+      "bundle_price": 399,
+      "savings": 119,
+      "savings_percent": 23,
+      "tagline": "Natural Glow, Daily Care! 🌟",
+      "best_for": ["Dull Skin", "Dry Skin", "Face Cleansing", "Daily Skin Care"],
+      "recommended_duration": "Continuous use"
+    },
+    {
+      "id": "bundle_womens_health",
+      "title": "💃 Women Special Pack",
+      "description": "Ladies ke liye special care! Lady Life Care + Amrit Capsule + Hair Oil",
+      "products": ["prod_1774962060395", "prod_1774960680020", "prod_1774961023248"],
+      "original_price": 4179,
+      "bundle_price": 3499,
+      "savings": 680,
+      "savings_percent": 16,
+      "tagline": "Complete Women Wellness! 💕",
+      "best_for": ["Hormonal Balance", "Hair Care", "General Immunity", "Women Health"],
+      "recommended_duration": "3 months"
+    },
+    {
+      "id": "bundle_digestive_health",
+      "title": "🫃 Digestive Wellness Pack",
+      "description": "Pet ki problems door! Acidity Care + Alkaline Drop + Amrit Juice",
+      "products": ["prod_1774964719562", "prod_1774964406549", "prod_1774958390504"],
+      "original_price": 3048,
+      "bundle_price": 2499,
+      "savings": 549,
+      "savings_percent": 18,
+      "tagline": "Acidity, Gas, Sab Door! 🌿",
+      "best_for": ["Acidity", "Gas", "Indigestion", "pH Imbalance", "Detox"],
+      "recommended_duration": "2-3 months"
+    },
+    {
+      "id": "bundle_quit_addiction",
+      "title": "🚭 De-Addiction Support Pack",
+      "description": "Addiction chhodne mein full support! Anti Addiction + Power Booster + Amrit Juice",
+      "products": ["prod_1774962972152", "prod_1774959746488", "prod_1774958390504"],
+      "original_price": 4198,
+      "bundle_price": 3499,
+      "savings": 699,
+      "savings_percent": 17,
+      "tagline": "Nayi Zindagi Shuru! 💪",
+      "best_for": ["Alcohol Addiction", "Smoking", "Tobacco", "Withdrawal Support"],
+      "recommended_duration": "3-6 months"
+    }
+  ],
+  "combo_offers": {
+    "buy_2_get_1": {
+      "title": "🎁 Buy 2 Get 1 Free",
+      "description": "Koi bhi 2 products khareedein, 1 free payein!",
+      "applicable_products": "all",
+      "free_product_value": "lowest_priced"
+    },
+    "first_time_offer": {
+      "title": "🔥 First Order Special",
+      "description": "Pehli order par extra 10% OFF!",
+      "discount_percent": 10,
+      "code": "FIRST10"
+    },
+    "bulk_discount": {
+      "title": "📦 Bulk Order Discount",
+      "description": "3+ products par extra 15% OFF!",
+      "tiers": [
+        {"quantity": 3, "discount": 15},
+        {"quantity": 5, "discount": 20},
+        {"quantity": 10, "discount": 25}
+      ]
+    },
+    "seasonal_offer": {
+      "title": "🎉 Festival Special",
+      "description": "Festive season mein special discounts!",
+      "discount_percent": 25,
+      "active": true
+    }
+  }
+}
