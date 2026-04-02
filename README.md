@@ -1,36 +1,117 @@
-# 🔥 SSKCW PRO API - Next.js Edition
+# 🌿 SSKCW Ayurvedic Products API
 
-**Professional REST API for SSKCW Products, Orders & Leads Management**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![API Status](https://img.shields.io/badge/API-Active-brightgreen.svg)]()
+[![Products](https://img.shields.io/badge/Products-18-blue.svg)](https://github.com/adigho777-lang/api-of-sskcw)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)]()
 
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://typescriptlang.org)
-[![API](https://img.shields.io/badge/API-REST-green)](https://github.com/adigho777-lang/api-of-sskcw)
+> **Complete Ayurvedic Product Database with Disease-Focused Information**
+
+A comprehensive JSON-based product catalog for SSKCW (Shree Sai Kripa Care World) Ayurvedic products. This repository contains detailed product information optimized for e-commerce websites, mobile apps, and healthcare applications.
 
 ---
 
 ## 🚀 Features
 
-### Core Features
-- ✅ **Full-Text Search** - Search across title, description, tags, benefits
-- ✅ **Advanced Filtering** - Category, sub-category, price range, stock, discount
-- ✅ **Dynamic Sorting** - Sort by price, title, discount, date
-- ✅ **Smart Pagination** - Optional limit with has_next/has_prev flags
-- ✅ **Rate Limiting** - 100 requests per minute per IP
-- ✅ **Security Headers** - X-Content-Type-Options, X-Frame-Options, CORS
-- ✅ **Request Logging** - All requests logged with timestamp & IP
+### ✨ Product Information
+- **18 Ayurvedic Products** with complete details
+- **Disease-Focused Approach** - Each product lists diseases it treats
+- **Symptom Relief** - Detailed symptoms that get relieved  
+- **Body Parts Affected** - Which body systems benefit
+- **Health Benefits** - Comprehensive benefit explanations
+- **Full-Text Search** - Search across title, description, tags, benefits
+- **Advanced Filtering** - Category, sub-category, price range, stock, discount
+- **Dynamic Sorting** - Sort by price, title, discount, date
+- **Smart Pagination** - Optional limit with has_next/has_prev flags
 
-### API Endpoints
+---
 
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api` | GET | API Info & Stats |
-| `/api/products` | GET | List all products with filters |
-| `/api/products/:id` | GET | Single product details |
-| `/api/products/shop` | GET | Products with full details |
-| `/api/categories` | GET | All categories with stats |
-| `/api/stats` | GET | API statistics & analytics |
-| `/api/orders` | POST | Create new order |
-| `/api/leads` | POST | Create new lead |
+## 📊 Data Structure
+
+```json
+{
+  "id": "unique_product_id",
+  "title": "Product Name",
+  "category": "Health Care",
+  "sub_category": "Immunity Booster / Full Body Wellness",
+  "price": 1850,
+  "discount_price": 1500,
+  "discount_percent": 19,
+  "diseases_treated": [
+    "Low Immunity",
+    "Body Detoxification", 
+    "Poor Digestion"
+  ],
+  "symptoms_relief": [
+    "Thakan aur kamzori",
+    "Bar bar bimar padna"
+  ],
+  "body_parts_affected": [
+    "Immune System",
+    "Full Body"
+  ],
+  "what_is_it": "Product description",
+  "works_for": "How it works",
+  "health_benefits": "Detailed benefits",
+  "ingredients": ["Amla", "Ashwagandha", "Giloy"],
+  "certifications": [
+    "AYUSH Certified",
+    "GMP Certified",
+    "ISO 9001:2015"
+  ]
+}
+```
+
+## 📦 Products Included
+
+### Health Care Products
+| Product | Diseases Treated | Key Benefits |
+|---------|-----------------|--------------|
+| **Amrit Juice** | Low Immunity, Detox, Poor Digestion | 42 Herbs Power |
+| **Diabo-G** | Diabetes, High Blood Sugar | Natural Sugar Control |
+| **Artho-G** | Arthritis, Joint Pain, Knee Pain | Surgery Alternative |
+| **Power Booster** | Fatigue, Low Energy, Weakness | Double Energy |
+| **Power Booster Plus** | Extreme Weakness | Advanced Formula |
+| **Amrit Capsule** | Low Immunity, General Weakness | Travel Friendly |
+| **Pileorhoids** | Piles, Hemorrhoids, Fissures | No Surgery Needed |
+| **Lady Life Care** | PCOS, Hormonal Issues | Women's Special |
+| **Anti Addiction** | Alcohol, Smoking, Tobacco | De-addiction Support |
+| **Ortho-G Oil** | Joint Pain, Muscle Pain | Fast Relief |
+| **Alkaline Drop** | Acidity, pH Imbalance | Body Balance |
+| **Acidity Care** | Gas, Acidity, Indigestion | Instant Relief |
+| **Eye Care Drop** | Eye Strain, Dry Eyes | Cooling Effect |
+| **Ear Drop** | Ear Problems | Daily Care |
+
+### Personal Care Products
+| Product | Diseases Treated | Key Benefits |
+|---------|-----------------|--------------|
+| **18 Herbs Hair Oil** | Hair Fall, Dandruff | 18 Natural Herbs |
+| **Neem Tulsi Soap** | Acne, Skin Infections | Germ Protection |
+| **Rose Milk Soap** | Dry Skin, Dull Skin | Moisturizing |
+| **3 in 1 Face Wash** | Pimples, Blackheads | Clean + Scrub + Glow |
+
+---
+
+## 🎯 Key Highlights
+
+### Disease-Focused Data
+Each product includes:
+- ✅ **What is it?** - Simple product explanation
+- ✅ **Diseases Treated** - 6-10 specific diseases
+- ✅ **Symptoms Relief** - Detailed symptom list
+- ✅ **How it Works** - Working mechanism
+- ✅ **Target Conditions** - Medical conditions
+- ✅ **Body Parts** - Affected body systems
+- ✅ **Results Timeline** - When to expect results
+
+### Quality Certifications
+All products include:
+- 🏆 AYUSH Certified
+- 🏆 GMP Certified
+- 🏆 ISO 9001:2015
+- 🏆 FSSAI Approved
+- 🏆 100% Natural
+- 🏆 No Side Effects
 
 ---
 
@@ -52,99 +133,53 @@ Server will start at `http://localhost:3000`
 
 ---
 
-## 🔥 Usage Examples
+## � API Usage Examples
 
-### 1. Get All Products
-```bash
-curl http://localhost:3000/api/products
+### Get All Products
+```javascript
+fetch('http://localhost:3000/api/products')
+  .then(response => response.json())
+  .then(data => {
+    console.log(data.products);
+  });
 ```
 
-### 2. Search Products
-```bash
-curl "http://localhost:3000/api/products?search=amrit"
+### Get Products by Disease
+```javascript
+// Filter by disease
+const diabetesProducts = products.filter(p => 
+  p.diseases_treated.includes("Type 2 Diabetes")
+);
 ```
 
-### 3. Filter by Category
-```bash
-curl "http://localhost:3000/api/products?category=Health%20Care"
+### Get Products by Symptom
+```javascript
+// Filter by symptom
+const hairFallProducts = products.filter(p => 
+  p.symptoms_relief.some(s => s.includes("Hair"))
+);
 ```
 
-### 4. Price Range Filter
-```bash
-curl "http://localhost:3000/api/products?min_price=500&max_price=2000"
-```
-
-### 5. Sort Products
-```bash
-curl "http://localhost:3000/api/products?sort=price&order=asc"
-```
-
-### 6. Pagination
-```bash
-curl "http://localhost:3000/api/products?page=1&limit=10"
-```
-
-### 7. Combined Filters
-```bash
-curl "http://localhost:3000/api/products?category=Health%20Care&has_discount=true&sort=price&order=asc"
-```
-
-### 8. Create Order
-```bash
-curl -X POST http://localhost:3000/api/orders \
-  -H "Content-Type: application/json" \
-  -d '{
-    "name": "Rahul Sharma",
-    "phone": "9876543210",
-    "product_id": "prod_123",
-    "quantity": 2,
-    "total_amount": 3000
-  }'
-```
-
----
-
-## 📊 Response Format
-
-### Success Response
-```json
-{
-  "success": true,
-  "timestamp": "2024-01-01T12:00:00.000Z",
-  "meta": {
-    "total_products": 18,
-    "filtered_count": 5,
-    "returned_count": 5
-  },
-  "products": [...]
+### Get Product Details
+```javascript
+function getProductDetails(productId) {
+  return products.find(p => p.id === productId);
 }
+
+// Usage
+const amritJuice = getProductDetails("prod_1774958390504");
+console.log(amritJuice.diseases_treated);
+console.log(amritJuice.symptoms_relief);
 ```
 
-### Error Response
-```json
-{
-  "success": false,
-  "error": {
-    "code": 404,
-    "message": "Product not found"
-  },
-  "timestamp": "2024-01-01T12:00:00.000Z"
-}
-```
+## 📊 Data Statistics
 
----
-
-## 🚀 Deploy to Vercel
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel --prod
-```
-
-Or connect your GitHub repo to Vercel for automatic deployments.
+- 📦 **Total Products**: 18
+- 🏥 **Disease Categories**: 14+
+- 🌿 **Unique Herbs**: 50+
+- 🎯 **Symptoms Covered**: 100+
+- 💊 **Medical Conditions**: 60+
+- ✅ **Certifications**: 6 per product
 
 ---
 
@@ -152,28 +187,15 @@ Or connect your GitHub repo to Vercel for automatic deployments.
 
 ```
 api-of-sskcw/
-├── app/
-│   └── api/
-│       ├── route.ts           # Root API info
-│       ├── products/
-│       │   ├── route.ts       # Products listing
-│       │   ├── [id]/
-│       │   │   └── route.ts   # Single product
-│       │   └── shop/
-│       │       └── route.ts   # Shop with full details
-│       ├── categories/
-│       │   └── route.ts       # Categories
-│       ├── stats/
-│       │   └── route.ts       # API statistics
-│       ├── orders/
-│       │   └── route.ts       # Orders
-│       └── leads/
-│           └── route.ts       # Leads
-├── lib/
-│   ├── utils.ts               # Helper functions
-│   └── middleware.ts          # Middleware utilities
 ├── data/
-│   └── products.json          # Product data
+│   └── products.json          # Product data with disease info
+├── pages/api/
+│   ├── products.ts            # Products listing
+│   ├── categories.ts          # Categories
+│   ├── shop.ts                # Shop endpoint
+│   └── orders.ts              # Orders
+├── lib/
+│   └── utils.ts               # Helper functions
 ├── package.json
 ├── tsconfig.json
 └── README.md
@@ -191,7 +213,21 @@ api-of-sskcw/
 
 ---
 
-## 📝 License
+## � Deploy to Vercel
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel --prod
+```
+
+Or connect your GitHub repo to Vercel for automatic deployments.
+
+---
+
+## �📝 License
 
 MIT License - feel free to use for your projects!
 
@@ -201,4 +237,7 @@ MIT License - feel free to use for your projects!
 
 For issues and feature requests, please open an issue on GitHub.
 
-**Built with ❤️ by SSKCW Team**
+<p align="center">
+  <b>🌿 Natural Healing, Modern Approach 🌿</b><br>
+  <i>Made with ❤️ for SSKCW</i>
+</p>
