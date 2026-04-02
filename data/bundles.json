@@ -4,131 +4,409 @@
       "id": "bundle_immunity_pack",
       "title": "🔥 Immunity Power Pack",
       "description": "Immunity boost karne ke liye best combo! Amrit Juice + Amrit Capsule",
-      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "products": [
+        "prod_1774958390504",
+        "prod_1774960680020"
+      ],
       "original_price": 3850,
       "bundle_price": 2999,
       "savings": 851,
       "savings_percent": 22,
       "tagline": "Double Immunity Power! 💪",
-      "best_for": ["Low Immunity", "Frequent Illness", "General Weakness"],
-      "recommended_duration": "3 months"
+      "best_for": [
+        "Low Immunity",
+        "Frequent Illness",
+        "General Weakness"
+      ],
+      "recommended_duration": "3 months",
+      "title_mr": "🔥 Immunity शक्ती Pack",
+      "title_hi": "🔥 Immunity पावर Pack",
+      "description_mr": "Immunity boost karne ke liye best combo! Amrit रस + Amrit कॅप्सूल",
+      "description_hi": "Immunity boost karne ke liye best combo! Amrit जूस + Amrit कैप्सूल",
+      "tagline_mr": "Double Immunity शक्ती! 💪",
+      "tagline_hi": "Double Immunity पावर! 💪",
+      "best_for_mr": [
+        "Low Immunity",
+        "Frequent Illness",
+        "General Weakness"
+      ],
+      "best_for_hi": [
+        "Low Immunity",
+        "Frequent Illness",
+        "General Weakness"
+      ],
+      "recommended_duration_mr": "3 months",
+      "recommended_duration_hi": "3 months"
     },
     {
       "id": "bundle_diabetes_care",
       "title": "🩸 Complete Diabetes Care Pack",
       "description": "Sugar control ke liye complete solution! Diabo-G + Alkaline Drop",
-      "products": ["prod_1774958999897", "prod_1774964406549"],
+      "products": [
+        "prod_1774958999897",
+        "prod_1774964406549"
+      ],
       "original_price": 2549,
       "bundle_price": 1999,
       "savings": 550,
       "savings_percent": 22,
       "tagline": "Sugar Control + pH Balance! ✅",
-      "best_for": ["Type 2 Diabetes", "High Blood Sugar", "Acidity with Sugar"],
-      "recommended_duration": "3-6 months"
+      "best_for": [
+        "Type 2 Diabetes",
+        "High Blood Sugar",
+        "Acidity with Sugar"
+      ],
+      "recommended_duration": "3-6 months",
+      "title_mr": "🩸 Complete Diabetes काळजी Pack",
+      "title_hi": "🩸 Complete Diabetes केयर Pack",
+      "description_mr": "Sugar control ke liye complete solution! Diabo-G + Alkaline थेंब",
+      "description_hi": "Sugar control ke liye complete solution! Diabo-G + Alkaline ड्रॉप",
+      "tagline_mr": "Sugar नियंत्रण + pH Balance! ✅",
+      "tagline_hi": "Sugar कंट्रोल + pH Balance! ✅",
+      "best_for_mr": [
+        "Type 2 Diabetes",
+        "High Blood Sugar",
+        "Acidity with Sugar"
+      ],
+      "best_for_hi": [
+        "Type 2 Diabetes",
+        "High Blood Sugar",
+        "Acidity with Sugar"
+      ],
+      "recommended_duration_mr": "3-6 months",
+      "recommended_duration_hi": "3-6 months"
     },
     {
       "id": "bundle_joint_relief",
       "title": "🦴 Joint Pain Relief Combo",
       "description": "Joint pain se permanent chutkara! Artho-G Juice + Ortho-G Oil",
-      "products": ["prod_1774959377444", "prod_1774963918764"],
+      "products": [
+        "prod_1774959377444",
+        "prod_1774963918764"
+      ],
       "original_price": 2349,
       "bundle_price": 1799,
       "savings": 550,
       "savings_percent": 23,
       "tagline": "Andar se + Bahar se Relief! 💆‍♂️",
-      "best_for": ["Arthritis", "Knee Pain", "Joint Stiffness", "Back Pain"],
-      "recommended_duration": "2-3 months"
+      "best_for": [
+        "Arthritis",
+        "Knee Pain",
+        "Joint Stiffness",
+        "Back Pain"
+      ],
+      "recommended_duration": "2-3 months",
+      "title_mr": "🦴 Joint वेदना आराम Combo",
+      "title_hi": "🦴 Joint दर्द राहत Combo",
+      "description_mr": "Joint pain se permanent chutkara! Artho-G रस + Ortho-G तेल",
+      "description_hi": "Joint pain se permanent chutkara! Artho-G जूस + Ortho-G तेल",
+      "tagline_mr": "Andar se + Bahar se आराम! 💆‍♂️",
+      "tagline_hi": "Andar se + Bahar se राहत! 💆‍♂️",
+      "best_for_mr": [
+        "Arthritis",
+        "Knee वेदना",
+        "Joint Stiffness",
+        "Back वेदना"
+      ],
+      "best_for_hi": [
+        "Arthritis",
+        "Knee दर्द",
+        "Joint Stiffness",
+        "Back दर्द"
+      ],
+      "recommended_duration_mr": "2-3 months",
+      "recommended_duration_hi": "2-3 months"
     },
     {
       "id": "bundle_energy_max",
       "title": "⚡ Maximum Energy Combo",
       "description": "Full day energy ke liye! Power Booster + Power Booster Plus",
-      "products": ["prod_1774959746488", "prod_1774960095539"],
+      "products": [
+        "prod_1774959746488",
+        "prod_1774960095539"
+      ],
       "original_price": 3850,
       "bundle_price": 2999,
       "savings": 851,
       "savings_percent": 22,
       "tagline": "Triple Energy Power! 🚀",
-      "best_for": ["Extreme Fatigue", "Low Stamina", "Physical Weakness", "Athletes"],
-      "recommended_duration": "2-3 months"
+      "best_for": [
+        "Extreme Fatigue",
+        "Low Stamina",
+        "Physical Weakness",
+        "Athletes"
+      ],
+      "recommended_duration": "2-3 months",
+      "title_mr": "⚡ Maximum ऊर्जा Combo",
+      "title_hi": "⚡ Maximum एनर्जी Combo",
+      "description_mr": "Full day energy ke liye! शक्ती Booster + शक्ती Booster Plus",
+      "description_hi": "Full day energy ke liye! पावर Booster + पावर Booster Plus",
+      "tagline_mr": "Triple ऊर्जा शक्ती! 🚀",
+      "tagline_hi": "Triple एनर्जी पावर! 🚀",
+      "best_for_mr": [
+        "Extreme Fatigue",
+        "Low Stamina",
+        "Physical Weakness",
+        "Athletes"
+      ],
+      "best_for_hi": [
+        "Extreme Fatigue",
+        "Low Stamina",
+        "Physical Weakness",
+        "Athletes"
+      ],
+      "recommended_duration_mr": "2-3 months",
+      "recommended_duration_hi": "2-3 months"
     },
     {
       "id": "bundle_family_health",
       "title": "👨‍👩‍👧‍👦 Family Health Pack",
       "description": "Poori family ki sehat ke liye! Amrit Juice + Diabo-G + 18 Herbs Hair Oil",
-      "products": ["prod_1774958390504", "prod_1774958999897", "prod_1774961023248"],
+      "products": [
+        "prod_1774958390504",
+        "prod_1774958999897",
+        "prod_1774961023248"
+      ],
       "original_price": 4029,
       "bundle_price": 3299,
       "savings": 730,
       "savings_percent": 18,
       "tagline": "Ghar ki Sehat, Ek Box mein! 🏠",
-      "best_for": ["Family Immunity", "Multi-generational health", "Complete wellness"],
-      "recommended_duration": "3 months"
+      "best_for": [
+        "Family Immunity",
+        "Multi-generational health",
+        "Complete wellness"
+      ],
+      "recommended_duration": "3 months",
+      "title_mr": "👨‍👩‍👧‍👦 Family Health Pack",
+      "title_hi": "👨‍👩‍👧‍👦 Family Health Pack",
+      "description_mr": "Poori family ki sehat ke liye! Amrit रस + Diabo-G + 18 Herbs Hair तेल",
+      "description_hi": "Poori family ki sehat ke liye! Amrit जूस + Diabo-G + 18 Herbs Hair तेल",
+      "tagline_mr": "Ghar ki Sehat, Ek Box mein! 🏠",
+      "tagline_hi": "Ghar ki Sehat, Ek Box mein! 🏠",
+      "best_for_mr": [
+        "Family Immunity",
+        "Multi-generational health",
+        "Complete wellness"
+      ],
+      "best_for_hi": [
+        "Family Immunity",
+        "Multi-generational health",
+        "Complete wellness"
+      ],
+      "recommended_duration_mr": "3 months",
+      "recommended_duration_hi": "3 months"
     },
     {
       "id": "bundle_piles_cure",
       "title": "🚫 Permanent Piles Relief Pack",
       "description": "Bawaseer se permanent chutkara! Pileorhoids + Acidity Care",
-      "products": ["prod_1774962544309", "prod_1774964719562"],
+      "products": [
+        "prod_1774962544309",
+        "prod_1774964719562"
+      ],
       "original_price": 2499,
       "bundle_price": 1999,
       "savings": 500,
       "savings_percent": 20,
       "tagline": "Surgery nahi, Solution hai! 💯",
-      "best_for": ["Piles", "Fissures", "Constipation", "Bleeding Piles"],
-      "recommended_duration": "3-4 months"
+      "best_for": [
+        "Piles",
+        "Fissures",
+        "Constipation",
+        "Bleeding Piles"
+      ],
+      "recommended_duration": "3-4 months",
+      "title_mr": "🚫 Permanent Piles आराम Pack",
+      "title_hi": "🚫 Permanent Piles राहत Pack",
+      "description_mr": "Bawaseer se permanent chutkara! Pileorhoids + Acidity काळजी",
+      "description_hi": "Bawaseer se permanent chutkara! Pileorhoids + Acidity केयर",
+      "tagline_mr": "Surgery nahi, Solution hai! 💯",
+      "tagline_hi": "Surgery nahi, Solution hai! 💯",
+      "best_for_mr": [
+        "Piles",
+        "Fissures",
+        "Constipation",
+        "Bleeding Piles"
+      ],
+      "best_for_hi": [
+        "Piles",
+        "Fissures",
+        "Constipation",
+        "Bleeding Piles"
+      ],
+      "recommended_duration_mr": "3-4 months",
+      "recommended_duration_hi": "3-4 months"
     },
     {
       "id": "bundle_skin_glow",
       "title": "✨ Skin Glow Combo",
       "description": "Natural glowing skin ke liye! 3 in 1 Face Wash + Rose Milk Soap",
-      "products": ["prod_1774964944639", "prod_1774963534464"],
+      "products": [
+        "prod_1774964944639",
+        "prod_1774963534464"
+      ],
       "original_price": 518,
       "bundle_price": 399,
       "savings": 119,
       "savings_percent": 23,
       "tagline": "Natural Glow, Daily Care! 🌟",
-      "best_for": ["Dull Skin", "Dry Skin", "Face Cleansing", "Daily Skin Care"],
-      "recommended_duration": "Continuous use"
+      "best_for": [
+        "Dull Skin",
+        "Dry Skin",
+        "Face Cleansing",
+        "Daily Skin Care"
+      ],
+      "recommended_duration": "Continuous use",
+      "title_mr": "✨ Skin Glow Combo",
+      "title_hi": "✨ Skin Glow Combo",
+      "description_mr": "नैसर्गिक glowing skin ke liye! 3 in 1 Face Wash + Rose Milk साबण",
+      "description_hi": "नैचुरल glowing skin ke liye! 3 in 1 Face Wash + Rose Milk साबुन",
+      "tagline_mr": "नैसर्गिक Glow, Daily काळजी! 🌟",
+      "tagline_hi": "नैचुरल Glow, Daily केयर! 🌟",
+      "best_for_mr": [
+        "Dull Skin",
+        "Dry Skin",
+        "Face Cleansing",
+        "Daily Skin काळजी"
+      ],
+      "best_for_hi": [
+        "Dull Skin",
+        "Dry Skin",
+        "Face Cleansing",
+        "Daily Skin केयर"
+      ],
+      "recommended_duration_mr": "Continuous use",
+      "recommended_duration_hi": "Continuous use"
     },
     {
       "id": "bundle_womens_health",
       "title": "💃 Women Special Pack",
       "description": "Ladies ke liye special care! Lady Life Care + Amrit Capsule + Hair Oil",
-      "products": ["prod_1774962060395", "prod_1774960680020", "prod_1774961023248"],
+      "products": [
+        "prod_1774962060395",
+        "prod_1774960680020",
+        "prod_1774961023248"
+      ],
       "original_price": 4179,
       "bundle_price": 3499,
       "savings": 680,
       "savings_percent": 16,
       "tagline": "Complete Women Wellness! 💕",
-      "best_for": ["Hormonal Balance", "Hair Care", "General Immunity", "Women Health"],
-      "recommended_duration": "3 months"
+      "best_for": [
+        "Hormonal Balance",
+        "Hair Care",
+        "General Immunity",
+        "Women Health"
+      ],
+      "recommended_duration": "3 months",
+      "title_mr": "💃 Women Special Pack",
+      "title_hi": "💃 Women Special Pack",
+      "description_mr": "Ladies ke liye special care! Lady Life काळजी + Amrit कॅप्सूल + Hair तेल",
+      "description_hi": "Ladies ke liye special care! Lady Life केयर + Amrit कैप्सूल + Hair तेल",
+      "tagline_mr": "Complete Women Wellness! 💕",
+      "tagline_hi": "Complete Women Wellness! 💕",
+      "best_for_mr": [
+        "Hormonal Balance",
+        "Hair काळजी",
+        "General Immunity",
+        "Women Health"
+      ],
+      "best_for_hi": [
+        "Hormonal Balance",
+        "Hair केयर",
+        "General Immunity",
+        "Women Health"
+      ],
+      "recommended_duration_mr": "3 months",
+      "recommended_duration_hi": "3 months"
     },
     {
       "id": "bundle_digestive_health",
       "title": "🫃 Digestive Wellness Pack",
       "description": "Pet ki problems door! Acidity Care + Alkaline Drop + Amrit Juice",
-      "products": ["prod_1774964719562", "prod_1774964406549", "prod_1774958390504"],
+      "products": [
+        "prod_1774964719562",
+        "prod_1774964406549",
+        "prod_1774958390504"
+      ],
       "original_price": 3048,
       "bundle_price": 2499,
       "savings": 549,
       "savings_percent": 18,
       "tagline": "Acidity, Gas, Sab Door! 🌿",
-      "best_for": ["Acidity", "Gas", "Indigestion", "pH Imbalance", "Detox"],
-      "recommended_duration": "2-3 months"
+      "best_for": [
+        "Acidity",
+        "Gas",
+        "Indigestion",
+        "pH Imbalance",
+        "Detox"
+      ],
+      "recommended_duration": "2-3 months",
+      "title_mr": "🫃 Digestive Wellness Pack",
+      "title_hi": "🫃 Digestive Wellness Pack",
+      "description_mr": "Pet ki problems door! Acidity काळजी + Alkaline थेंब + Amrit रस",
+      "description_hi": "Pet ki problems door! Acidity केयर + Alkaline ड्रॉप + Amrit जूस",
+      "tagline_mr": "Acidity, Gas, Sab Door! 🌿",
+      "tagline_hi": "Acidity, Gas, Sab Door! 🌿",
+      "best_for_mr": [
+        "Acidity",
+        "Gas",
+        "Indigestion",
+        "pH Imbalance",
+        "Detox"
+      ],
+      "best_for_hi": [
+        "Acidity",
+        "Gas",
+        "Indigestion",
+        "pH Imbalance",
+        "Detox"
+      ],
+      "recommended_duration_mr": "2-3 months",
+      "recommended_duration_hi": "2-3 months"
     },
     {
       "id": "bundle_quit_addiction",
       "title": "🚭 De-Addiction Support Pack",
       "description": "Addiction chhodne mein full support! Anti Addiction + Power Booster + Amrit Juice",
-      "products": ["prod_1774962972152", "prod_1774959746488", "prod_1774958390504"],
+      "products": [
+        "prod_1774962972152",
+        "prod_1774959746488",
+        "prod_1774958390504"
+      ],
       "original_price": 4198,
       "bundle_price": 3499,
       "savings": 699,
       "savings_percent": 17,
       "tagline": "Nayi Zindagi Shuru! 💪",
-      "best_for": ["Alcohol Addiction", "Smoking", "Tobacco", "Withdrawal Support"],
-      "recommended_duration": "3-6 months"
+      "best_for": [
+        "Alcohol Addiction",
+        "Smoking",
+        "Tobacco",
+        "Withdrawal Support"
+      ],
+      "recommended_duration": "3-6 months",
+      "title_mr": "🚭 De-Addiction Support Pack",
+      "title_hi": "🚭 De-Addiction Support Pack",
+      "description_mr": "Addiction chhodne mein full support! Anti Addiction + शक्ती Booster + Amrit रस",
+      "description_hi": "Addiction chhodne mein full support! Anti Addiction + पावर Booster + Amrit जूस",
+      "tagline_mr": "Nayi Zindagi Shuru! 💪",
+      "tagline_hi": "Nayi Zindagi Shuru! 💪",
+      "best_for_mr": [
+        "Alcohol Addiction",
+        "Smoking",
+        "Tobacco",
+        "Withdrawal Support"
+      ],
+      "best_for_hi": [
+        "Alcohol Addiction",
+        "Smoking",
+        "Tobacco",
+        "Withdrawal Support"
+      ],
+      "recommended_duration_mr": "3-6 months",
+      "recommended_duration_hi": "3-6 months"
     }
   ],
   "combo_offers": {
@@ -148,9 +426,18 @@
       "title": "📦 Bulk Order Discount",
       "description": "3+ products par extra 15% OFF!",
       "tiers": [
-        {"quantity": 3, "discount": 15},
-        {"quantity": 5, "discount": 20},
-        {"quantity": 10, "discount": 25}
+        {
+          "quantity": 3,
+          "discount": 15
+        },
+        {
+          "quantity": 5,
+          "discount": 20
+        },
+        {
+          "quantity": 10,
+          "discount": 25
+        }
       ]
     },
     "seasonal_offer": {

@@ -186,7 +186,199 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Ek powerful Ayurvedic health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Immunity Booster / Full Body Wellness",
+    "sub_category_hi": "Immunity Booster / Full Body Wellness",
+    "trigger_mr": "42 Herbs se bana Full Body शक्ती रस! 💪🔥",
+    "trigger_hi": "42 Herbs se bana Full Body पावर जूस! 💪🔥",
+    "short_description_mr": "42 Herbs se bana Full Body शक्ती रस! 💪🔥 रोगप्रतिकारक शक्ती वाढवते, पूर्ण शरीर डिटॉक्स सपोर्ट, पचन सुधारते",
+    "short_description_hi": "42 Herbs se bana Full Body पावर जूस! 💪🔥 इम्यूनिटी बढ़ाता है, पूरी बॉडी डिटॉक्स सपोर्ट, पाचन सुधारता है",
+    "what_is_it_mr": "Ek powerful आयुर्वेदिक health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
+    "what_is_it_hi": "Ek powerful आयुर्वेदिक health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
+    "works_for_mr": "Immunity boosting, body detox, digestion improvement, energy enhancement, skin glow, hair health, overall body wellness aur full body rejuvenation ke liye best hai.",
+    "works_for_hi": "Immunity boosting, body detox, digestion improvement, energy enhancement, skin glow, hair health, overall body wellness aur full body rejuvenation ke liye best hai.",
+    "health_benefits_mr": "Ye juice aapki body ki natural defense system ko strong karta hai, harmful toxins nikalta hai, digestion smooth karta hai, skin aur hair ko healthy banata hai, aur puri body ko energetic feel karata hai.",
+    "health_benefits_hi": "Ye juice aapki body ki natural defense system ko strong karta hai, harmful toxins nikalta hai, digestion smooth karta hai, skin aur hair ko healthy banata hai, aur puri body ko energetic feel karata hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Ek powerful आयुर्वेदिक health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
+    "who_can_benefit_hi": "Ek powerful आयुर्वेदिक health juice jo 42 natural herbs se bana hai. Ye aapki body ko andar se strong banata hai aur immunity power deta hai.",
+    "benefits_mr": [
+      "रोगप्रतिकारक शक्ती वाढवते",
+      "पूर्ण शरीर डिटॉक्स सपोर्ट",
+      "पचन सुधारते",
+      "ऊर्जा पातळी वाढवते",
+      "त्वचा आणि केसांचे आरोग्य सुधारते",
+      "नैसर्गिक जीवनशक्ती वाढवते"
+    ],
+    "benefits_hi": [
+      "इम्यूनिटी बढ़ाता है",
+      "पूरी बॉडी डिटॉक्स सपोर्ट",
+      "पाचन सुधारता है",
+      "एनर्जी लेवल बढ़ाता है",
+      "सkin और hair की सेहत सुधारता है",
+      "नेचुरल vitality बढ़ाता है"
+    ],
+    "tags_mr": [
+      "#रोगप्रतिकारकशक्तीवाढवणारे",
+      "#पूर्णशरीरनिरोगीपणा",
+      "#ऊर्जावाढ",
+      "#आयुर्वेदिकपेय",
+      "#डिटॉक्स",
+      "#वजनव्यवस्थापन",
+      "#निरोगीजीवनशैली"
+    ],
+    "tags_hi": [
+      "#इम्यूनिटीबूस्टर",
+      "#फुलबॉडीवेलनेस",
+      "#एनर्जीबूस्ट",
+      "#आयुर्वेदिकड्रिंक",
+      "#डिटॉक्स",
+      "#वेटमैनेजमेंट",
+      "#हेल्थीलाइफस्टाइल"
+    ],
+    "diseases_treated_mr": [
+      "Low Immunity / Weak Immune System",
+      "Body Detoxification",
+      "Poor Digestion",
+      "Low ऊर्जा / Fatigue",
+      "Skin Problems",
+      "Hair Fall",
+      "General Weakness",
+      "Blood Purification"
+    ],
+    "diseases_treated_hi": [
+      "Low Immunity / Weak Immune System",
+      "Body Detoxification",
+      "Poor Digestion",
+      "Low एनर्जी / Fatigue",
+      "Skin Problems",
+      "Hair Fall",
+      "General Weakness",
+      "Blood Purification"
+    ],
+    "symptoms_relief_mr": [
+      "Thakan aur kamzori",
+      "Bar bar bimar padna",
+      "Skin infection aur pimples",
+      "Hair fall aur dry hair",
+      "Bad digestion aur gas",
+      "Low energy levels",
+      "Body mein heaviness",
+      "Toxins accumulation"
+    ],
+    "symptoms_relief_hi": [
+      "Thakan aur kamzori",
+      "Bar bar bimar padna",
+      "Skin infection aur pimples",
+      "Hair fall aur dry hair",
+      "Bad digestion aur gas",
+      "Low energy levels",
+      "Body mein heaviness",
+      "Toxins accumulation"
+    ],
+    "target_conditions_mr": [
+      "Immunity disorders",
+      "Digestive issues",
+      "Chronic fatigue",
+      "Skin ailments",
+      "Hair problems",
+      "Blood impurities",
+      "General debility"
+    ],
+    "target_conditions_hi": [
+      "Immunity disorders",
+      "Digestive issues",
+      "Chronic fatigue",
+      "Skin ailments",
+      "Hair problems",
+      "Blood impurities",
+      "General debility"
+    ],
+    "body_parts_affected_mr": [
+      "Immune System",
+      "Full Body"
+    ],
+    "body_parts_affected_hi": [
+      "Immune System",
+      "Full Body"
+    ],
+    "composition_mr": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "composition_hi": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "package_contents_mr": "1 रस of Riyansh Amrit रस (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh Amrit जूस (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Amrit रस - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Amrit जूस - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Amrit रस at 19% OFF. रोगप्रतिकारक शक्ती वाढवते AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Amrit जूस at 19% OFF. इम्यूनिटी बढ़ाता है AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Kitne din mein asar dikhega?",
+        "answer": "2-3 hafte mein energy boost, 3 months mein full results."
+      },
+      {
+        "question": "Kya isse weight loss hota hai?",
+        "answer": "Yes, metabolism improve hota hai, weight management mein help milti hai."
+      },
+      {
+        "question": "Diabetes wale le sakte hain?",
+        "answer": "Haan, natural herbs se sugar levels balanced rehte hain."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Kitne din mein asar dikhega?",
+        "answer": "2-3 hafte mein energy boost, 3 months mein full results."
+      },
+      {
+        "question": "Kya isse weight loss hota hai?",
+        "answer": "Yes, metabolism improve hota hai, weight management mein help milti hai."
+      },
+      {
+        "question": "Diabetes wale le sakte hain?",
+        "answer": "Haan, natural herbs se sugar levels balanced rehte hain."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774958999897",
@@ -368,7 +560,191 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Diabetes patients ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Diabetes काळजी / Blood Sugar Management",
+    "sub_category_hi": "Diabetes केयर / Blood Sugar Management",
+    "trigger_mr": "Sugar नियंत्रण नैसर्गिकly! Bina दुष्परिणाम 💯🩸",
+    "trigger_hi": "Sugar कंट्रोल नैचुरलly! Bina साइड इफेक्ट्स 💯🩸",
+    "short_description_mr": "Sugar नियंत्रण नैसर्गिकly! Bina दुष्परिणाम 💯🩸 रक्तातील साखर नियंत्रित करते, इन्सुलिन संवेदनशीलता वाढते, स्वादुपिंडाला समर्थन देते",
+    "short_description_hi": "Sugar कंट्रोल नैचुरलly! Bina साइड इफेक्ट्स 💯🩸 ब्लड शुगर लेवल कंट्रोल, इंसुलिन संवेदनशीलता बढ़ती है, पैन्क्रियास को सपोर्ट",
+    "what_is_it_mr": "Diabetes patients ke liye special आयुर्वेदिक juice jo blood sugar levels naturally control karta hai. Pancreas ko healthy rakhta hai.",
+    "what_is_it_hi": "Diabetes patients ke liye special आयुर्वेदिक juice jo blood sugar levels naturally control karta hai. Pancreas ko healthy rakhta hai.",
+    "works_for_mr": "Blood sugar control, insulin sensitivity improvement, pancreas support, sugar spike prevention, diabetes management, metabolic health aur long-term sugar balance ke liye effective hai.",
+    "works_for_hi": "Blood sugar control, insulin sensitivity improvement, pancreas support, sugar spike prevention, diabetes management, metabolic health aur long-term sugar balance ke liye effective hai.",
+    "health_benefits_mr": "नैसर्गिक herbs se bana ye juice blood sugar levels ko stable rakhta hai, insulin kaam ko better karta hai, pancreas ki sehat sudharta hai, aur diabetes ke complications se bachata hai.",
+    "health_benefits_hi": "नैचुरल herbs se bana ye juice blood sugar levels ko stable rakhta hai, insulin kaam ko better karta hai, pancreas ki sehat sudharta hai, aur diabetes ke complications se bachata hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Diabetes patients ",
+    "who_can_benefit_hi": "Diabetes patients ",
+    "benefits_mr": [
+      "रक्तातील साखर नियंत्रित करते",
+      "इन्सुलिन संवेदनशीलता वाढते",
+      "स्वादुपिंडाला समर्थन देते",
+      "ऊर्जा कायम राहते",
+      "साखरेचे स्पाइक्स कमी होतात",
+      "नैसर्गिक मधुमेह समर्थन"
+    ],
+    "benefits_hi": [
+      "ब्लड शुगर लेवल कंट्रोल",
+      "इंसुलिन संवेदनशीलता बढ़ती है",
+      "पैन्क्रियास को सपोर्ट",
+      "एनर्जी मेंटेन रहती है",
+      "शुगर स्पाइक्स कम होते हैं",
+      "नैचुरल डायबिटीज सपोर्ट"
+    ],
+    "tags_mr": [
+      "#मधुमेहकाळजी",
+      "#साखरनियंत्रण",
+      "#आयुर्वेदिकरस",
+      "#रक्तसाखरसंतुलन",
+      "#निरोगीजगणे",
+      "#ऊर्जासमर्थन"
+    ],
+    "tags_hi": [
+      "#डायबिटीजकेयर",
+      "#शुगरकंट्रोल",
+      "#आयुर्वेदिकजूस",
+      "#ब्लडशुगरबैलेंस",
+      "#हेल्थीलिविंग",
+      "#एनर्जीसपोर्ट"
+    ],
+    "diseases_treated_mr": [
+      "Type 2 Diabetes",
+      "High Blood Sugar",
+      "Insulin Resistance",
+      "Prediabetes",
+      "Diabetic Neuropathy prevention",
+      "Pancreas weakness",
+      "Glucose intolerance"
+    ],
+    "diseases_treated_hi": [
+      "Type 2 Diabetes",
+      "High Blood Sugar",
+      "Insulin Resistance",
+      "Prediabetes",
+      "Diabetic Neuropathy prevention",
+      "Pancreas weakness",
+      "Glucose intolerance"
+    ],
+    "symptoms_relief_mr": [
+      "High blood sugar levels",
+      "Frequent urination (baar baar toilet jaana)",
+      "Excessive thirst (zyada pyas lagna)",
+      "Sugar cravings",
+      "Fatigue despite eating",
+      "Blurred vision",
+      "Slow wound healing",
+      "Numbness in hands/feet"
+    ],
+    "symptoms_relief_hi": [
+      "High blood sugar levels",
+      "Frequent urination (baar baar toilet jaana)",
+      "Excessive thirst (zyada pyas lagna)",
+      "Sugar cravings",
+      "Fatigue despite eating",
+      "Blurred vision",
+      "Slow wound healing",
+      "Numbness in hands/feet"
+    ],
+    "target_conditions_mr": [
+      "Diabetes Mellitus",
+      "Hyperglycemia",
+      "Insulin deficiency",
+      "Metabolic syndrome",
+      "Sugar imbalance"
+    ],
+    "target_conditions_hi": [
+      "Diabetes Mellitus",
+      "Hyperglycemia",
+      "Insulin deficiency",
+      "Metabolic syndrome",
+      "Sugar imbalance"
+    ],
+    "body_parts_affected_mr": [
+      "Pancreas",
+      "Blood System"
+    ],
+    "body_parts_affected_hi": [
+      "Pancreas",
+      "Blood System"
+    ],
+    "composition_mr": "Contains Karela, Jamun, Methi, Gurmar, Neem and other herbs",
+    "composition_hi": "Contains Karela, Jamun, Methi, Gurmar, Neem and other herbs",
+    "package_contents_mr": "1 रस of Riyansh Diabo-G (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh Diabo-G (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Diabo-G - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Diabo-G - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Diabo-G at 19% OFF. रक्तातील साखर नियंत्रित करते AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Diabo-G at 19% OFF. ब्लड शुगर लेवल कंट्रोल AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Sugar kitne din mein control hoga?",
+        "answer": "Regular use se 15-30 din mein farak dikhne lagega."
+      },
+      {
+        "question": "Kya insulin band kar sakte hain?",
+        "answer": "Doctor ki salah se hi insulin adjust karein."
+      },
+      {
+        "question": "Khali pet lena hai ya khana khane ke baad?",
+        "answer": "Khana khane ke 30 min baad lena best hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Sugar kitne din mein control hoga?",
+        "answer": "Regular use se 15-30 din mein farak dikhne lagega."
+      },
+      {
+        "question": "Kya insulin band kar sakte hain?",
+        "answer": "Doctor ki salah se hi insulin adjust karein."
+      },
+      {
+        "question": "Khali pet lena hai ya khana khane ke baad?",
+        "answer": "Khana khane ke 30 min baad lena best hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774959377444",
@@ -554,7 +930,197 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Joint pain, arthritis, aur bone problems ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Joint काळजी / Bone & वेदना आराम",
+    "sub_category_hi": "Joint केयर / Bone & दर्द राहत",
+    "trigger_mr": "Joint वेदना Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴",
+    "trigger_hi": "Joint दर्द Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴",
+    "short_description_mr": "Joint वेदना Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴 सांधेदुखीपासून आराम मिळतो, गुडघेदुखी कमी होते, सांधिवातात समर्थन",
+    "short_description_hi": "Joint दर्द Se Azadi! Surgery Se Pehle Ye Try Karo 🔥🦴 जोइंट पेन रिलीफ मिलता है, घुटने का दर्द कम होता है, गठिया में सपोर्ट",
+    "what_is_it_mr": "Joint pain, arthritis, aur bone problems ke liye आयुर्वेदिक juice. Ye joints ko lubricate karta hai aur inflammation kam karta hai.",
+    "what_is_it_hi": "Joint pain, arthritis, aur bone problems ke liye आयुर्वेदिक juice. Ye joints ko lubricate karta hai aur inflammation kam karta hai.",
+    "works_for_mr": "Joint pain relief, inflammation reduction, bone strength, flexibility improvement, arthritis support, mobility enhancement, cartilage protection, aur purane ghav healing ke liye best hai.",
+    "works_for_hi": "Joint pain relief, inflammation reduction, bone strength, flexibility improvement, arthritis support, mobility enhancement, cartilage protection, aur purane ghav healing ke liye best hai.",
+    "health_benefits_mr": "Ye juice joints mein natural lubrication deta hai, inflammation aur swelling kam karta hai, bone density badhata hai, movement smooth karta hai, aur joint degeneration ko rokata hai.",
+    "health_benefits_hi": "Ye juice joints mein natural lubrication deta hai, inflammation aur swelling kam karta hai, bone density badhata hai, movement smooth karta hai, aur joint degeneration ko rokata hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Joint pain, arthritis, aur bone problems ",
+    "who_can_benefit_hi": "Joint pain, arthritis, aur bone problems ",
+    "benefits_mr": [
+      "सांधेदुखीपासून आराम मिळतो",
+      "गुडघेदुखी कमी होते",
+      "सांधिवातात समर्थन",
+      "जळजळ कमी होते",
+      "हाडांची मजबूती वाढते",
+      "हालचाल सुधारते"
+    ],
+    "benefits_hi": [
+      "जोइंट पेन रिलीफ मिलता है",
+      "घुटने का दर्द कम होता है",
+      "गठिया में सपोर्ट",
+      "सूजन कम होती है",
+      "हड्डी की ताकत बढ़ती है",
+      "मूवमेंट इम्प्रूव होती है"
+    ],
+    "tags_mr": [
+      "#सांध्यांचीकाळजी",
+      "#वेदनानिवारण",
+      "#सांधिवातसमर्थन",
+      "#हाडांचेआरोग्य",
+      "#हालचाल"
+    ],
+    "tags_hi": [
+      "#जोइंटकेयर",
+      "#पेनरिलीफ",
+      "#गठियासपोर्ट",
+      "#बोनहेल्थ",
+      "#मोबिलिटी"
+    ],
+    "diseases_treated_mr": [
+      "Osteoarthritis",
+      "Rheumatoid Arthritis",
+      "Knee वेदना / Gonitis",
+      "Back वेदना",
+      "Sciatica",
+      "Joint Inflammation",
+      "Bone weakness",
+      "Stiffness in joints"
+    ],
+    "diseases_treated_hi": [
+      "Osteoarthritis",
+      "Rheumatoid Arthritis",
+      "Knee दर्द / Gonitis",
+      "Back दर्द",
+      "Sciatica",
+      "Joint Inflammation",
+      "Bone weakness",
+      "Stiffness in joints"
+    ],
+    "symptoms_relief_mr": [
+      "Joint pain aur stiffness",
+      "Knee pain (gutne ka dard)",
+      "Back pain (kamar dard)",
+      "Shoulder pain",
+      "Hip pain",
+      "Swelling in joints",
+      "Difficulty in walking",
+      "Morning stiffness",
+      "Cracking sound in joints"
+    ],
+    "symptoms_relief_hi": [
+      "Joint pain aur stiffness",
+      "Knee pain (gutne ka dard)",
+      "Back pain (kamar dard)",
+      "Shoulder pain",
+      "Hip pain",
+      "Swelling in joints",
+      "Difficulty in walking",
+      "Morning stiffness",
+      "Cracking sound in joints"
+    ],
+    "target_conditions_mr": [
+      "Arthritis",
+      "Joint disorders",
+      "Bone degeneration",
+      "Synovial inflammation",
+      "Cartilage damage",
+      "Ligament weakness"
+    ],
+    "target_conditions_hi": [
+      "Arthritis",
+      "Joint disorders",
+      "Bone degeneration",
+      "Synovial inflammation",
+      "Cartilage damage",
+      "Ligament weakness"
+    ],
+    "body_parts_affected_mr": [
+      "Joints",
+      "Bones",
+      "Muscles"
+    ],
+    "body_parts_affected_hi": [
+      "Joints",
+      "Bones",
+      "Muscles"
+    ],
+    "composition_mr": "Contains Ashwagandha, Shallaki, Nirgundi, Rasna, Guggulu and other herbs",
+    "composition_hi": "Contains Ashwagandha, Shallaki, Nirgundi, Rasna, Guggulu and other herbs",
+    "package_contents_mr": "1 रस of Riyansh Artho-G (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh Artho-G (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Artho-G - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Artho-G - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Artho-G at 19% OFF. सांधेदुखीपासून आराम मिळतो AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Artho-G at 19% OFF. जोइंट पेन रिलीफ मिलता है AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Joint pain kitne din mein kam hoga?",
+        "answer": "7-10 din mein relief start, 1-2 months mein major improvement."
+      },
+      {
+        "question": "Surgery ke baad le sakte hain?",
+        "answer": "Doctor ki permission ke baad hi lena chahiye."
+      },
+      {
+        "question": "Kya dard ki dawai ke saath le sakte hain?",
+        "answer": "Haan, lekin doctor se consult karke."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Joint pain kitne din mein kam hoga?",
+        "answer": "7-10 din mein relief start, 1-2 months mein major improvement."
+      },
+      {
+        "question": "Surgery ke baad le sakte hain?",
+        "answer": "Doctor ki permission ke baad hi lena chahiye."
+      },
+      {
+        "question": "Kya dard ki dawai ke saath le sakte hain?",
+        "answer": "Haan, lekin doctor se consult karke."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774959746488",
@@ -738,7 +1304,195 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Low energy, weakness, aur stamina issues ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "ऊर्जा Booster / Stamina & ताकद",
+    "sub_category_hi": "एनर्जी Booster / Stamina & ताकत",
+    "trigger_mr": "Thakan Aur Weakness Ko Bye Bye! Full ऊर्जा Mode ON ⚡💪",
+    "trigger_hi": "Thakan Aur Weakness Ko Bye Bye! Full एनर्जी Mode ON ⚡💪",
+    "short_description_mr": "Thakan Aur Weakness Ko Bye Bye! Full ऊर्जा Mode ON ⚡💪 तात्काळ ऊर्जा वाढ मिळते, तग धरण्याची क्षमता वाढते, शरीराची ताकद वाढते",
+    "short_description_hi": "Thakan Aur Weakness Ko Bye Bye! Full एनर्जी Mode ON ⚡💪 तुरंत एनर्जी बूस्ट मिलता है, स्टैमिना बढ़ती है, बॉडी स्ट्रेंथ बढ़ती है",
+    "what_is_it_mr": "Low energy, weakness, aur stamina issues ke liye आयुर्वेदिक energy drink. Ye body ki natural power ko boost karta hai.",
+    "what_is_it_hi": "Low energy, weakness, aur stamina issues ke liye आयुर्वेदिक energy drink. Ye body ki natural power ko boost karta hai.",
+    "works_for_mr": "ऊर्जा boosting, stamina building, muscle strength, physical performance, recovery acceleration, mental alertness, body vitality, aur active lifestyle support ke liye effective hai.",
+    "works_for_hi": "एनर्जी boosting, stamina building, muscle strength, physical performance, recovery acceleration, mental alertness, body vitality, aur active lifestyle support ke liye effective hai.",
+    "health_benefits_mr": "Ye natural herbs se body ki cells ko energy deta hai, muscle strength badhata hai, stamina improve karta hai, physical aur mental fatigue door karta hai, aur daily activities ke liye power deta hai.",
+    "health_benefits_hi": "Ye natural herbs se body ki cells ko energy deta hai, muscle strength badhata hai, stamina improve karta hai, physical aur mental fatigue door karta hai, aur daily activities ke liye power deta hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Low energy, weakness, aur stamina issues ",
+    "who_can_benefit_hi": "Low energy, weakness, aur stamina issues ",
+    "benefits_mr": [
+      "तात्काळ ऊर्जा वाढ मिळते",
+      "तग धरण्याची क्षमता वाढते",
+      "शरीराची ताकद वाढते",
+      "दैनंदिन कामगिरी चांगली होते",
+      "थकवा कमी होतो",
+      "सक्रिय जीवनशैली समर्थन"
+    ],
+    "benefits_hi": [
+      "तुरंत एनर्जी बूस्ट मिलता है",
+      "स्टैमिना बढ़ती है",
+      "बॉडी स्ट्रेंथ बढ़ती है",
+      "डेली परफॉरमेंस बेहतर",
+      "थकान कम होती है",
+      "एक्टिव लाइफस्टाइल सपोर्ट"
+    ],
+    "tags_mr": [
+      "#ऊर्जावाढवणारे",
+      "#तगधरण्याचीक्षमता",
+      "#ताकद",
+      "#सक्रियजीवन",
+      "#आरोग्यसमर्थन"
+    ],
+    "tags_hi": [
+      "#एनर्जीबूस्टर",
+      "#स्टैमिना",
+      "#स्ट्रेंथ",
+      "#एक्टिवलाइफ",
+      "#हेल्थसपोर्ट"
+    ],
+    "diseases_treated_mr": [
+      "Chronic Fatigue Syndrome",
+      "Physical Weakness",
+      "Low Stamina",
+      "Muscle Weakness",
+      "General Debility",
+      "Poor Performance",
+      "Recovery after illness",
+      "Stress-induced fatigue"
+    ],
+    "diseases_treated_hi": [
+      "Chronic Fatigue Syndrome",
+      "Physical Weakness",
+      "Low Stamina",
+      "Muscle Weakness",
+      "General Debility",
+      "Poor Performance",
+      "Recovery after illness",
+      "Stress-induced fatigue"
+    ],
+    "symptoms_relief_mr": [
+      "Thakan aur weakness",
+      "Kam energy levels",
+      "Poor physical performance",
+      "Muscle fatigue",
+      "Low stamina during work",
+      "Difficulty in daily activities",
+      "Mental exhaustion",
+      "Body ache due to weakness"
+    ],
+    "symptoms_relief_hi": [
+      "Thakan aur weakness",
+      "Kam energy levels",
+      "Poor physical performance",
+      "Muscle fatigue",
+      "Low stamina during work",
+      "Difficulty in daily activities",
+      "Mental exhaustion",
+      "Body ache due to weakness"
+    ],
+    "target_conditions_mr": [
+      "Fatigue disorders",
+      "Physical weakness",
+      "Low vitality",
+      "Poor endurance",
+      "Muscle atrophy",
+      "Post-illness recovery"
+    ],
+    "target_conditions_hi": [
+      "Fatigue disorders",
+      "Physical weakness",
+      "Low vitality",
+      "Poor endurance",
+      "Muscle atrophy",
+      "Post-illness recovery"
+    ],
+    "body_parts_affected_mr": [
+      "Muscles",
+      "Cells",
+      "ऊर्जा System"
+    ],
+    "body_parts_affected_hi": [
+      "Muscles",
+      "Cells",
+      "एनर्जी System"
+    ],
+    "composition_mr": "Contains Ashwagandha, Safed Musli, Shilajit, Kaunch Beej, Gokshura and other herbs",
+    "composition_hi": "Contains Ashwagandha, Safed Musli, Shilajit, Kaunch Beej, Gokshura and other herbs",
+    "package_contents_mr": "1 रस of Riyansh शक्ती Booster (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh पावर Booster (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh शक्ती Booster - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh पावर Booster - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh शक्ती Booster at 19% OFF. तात्काळ ऊर्जा वाढ मिळते AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh पावर Booster at 19% OFF. तुरंत एनर्जी बूस्ट मिलता है AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Kitne din mein energy badhegi?",
+        "answer": "3-7 din mein feel hoga, 1 month mein full effect."
+      },
+      {
+        "question": "Kya gym jaane wale le sakte hain?",
+        "answer": "Bilkul! Bodybuilders aur athletes ke liye best hai."
+      },
+      {
+        "question": "Side effects to nahi honge?",
+        "answer": "100% natural hai, koi side effect nahi hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Kitne din mein energy badhegi?",
+        "answer": "3-7 din mein feel hoga, 1 month mein full effect."
+      },
+      {
+        "question": "Kya gym jaane wale le sakte hain?",
+        "answer": "Bilkul! Bodybuilders aur athletes ke liye best hai."
+      },
+      {
+        "question": "Side effects to nahi honge?",
+        "answer": "100% natural hai, koi side effect nahi hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774960095539",
@@ -921,7 +1675,193 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Power Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "ऊर्जा Booster / Vitality & Performance",
+    "sub_category_hi": "एनर्जी Booster / Vitality & Performance",
+    "trigger_mr": "Double शक्ती Double ऊर्जा! Advanced Formula 💪⚡",
+    "trigger_hi": "Double पावर Double एनर्जी! Advanced Formula 💪⚡",
+    "short_description_mr": "Double शक्ती Double ऊर्जा! Advanced Formula 💪⚡ उच्च ऊर्जा वाढ मिळते, दुप्पट तग धरण्याची क्षमता वाढते, अशक्तता जलद कमी होते",
+    "short_description_hi": "Double पावर Double एनर्जी! Advanced Formula 💪⚡ हाई एनर्जी बूस्ट मिलता है, डबल स्टैमिना बढ़ती है, कमजोरी जल्दी कम होती है",
+    "what_is_it_mr": "शक्ती Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ke liye hai.",
+    "what_is_it_hi": "पावर Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ke liye hai.",
+    "works_for_mr": "High energy boost, double stamina, muscle building, athletic performance, heavy work capacity, fast recovery, superior strength, aur maximum vitality ke liye designed hai.",
+    "works_for_hi": "High energy boost, double stamina, muscle building, athletic performance, heavy work capacity, fast recovery, superior strength, aur maximum vitality ke liye designed hai.",
+    "health_benefits_mr": "Ye advanced formula cells ko double energy deti hai, muscle fibers ko strong karti hai, endurance capacity badhati hai, physical limits ko expand karti hai, aur high-performance lifestyle ko support karti hai.",
+    "health_benefits_hi": "Ye advanced formula cells ko double energy deti hai, muscle fibers ko strong karti hai, endurance capacity badhati hai, physical limits ko expand karti hai, aur high-performance lifestyle ko support karti hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "शक्ती Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ",
+    "who_can_benefit_hi": "पावर Booster ka advanced version - double strength formula jo extreme weakness aur high energy needs ",
+    "benefits_mr": [
+      "उच्च ऊर्जा वाढ मिळते",
+      "दुप्पट तग धरण्याची क्षमता वाढते",
+      "अशक्तता जलद कमी होते",
+      "शारीरिक ताकद सुधारते",
+      "पुनर्प्राप्ती गती जलद",
+      "कामगिरी वाढते"
+    ],
+    "benefits_hi": [
+      "हाई एनर्जी बूस्ट मिलता है",
+      "डबल स्टैमिना बढ़ती है",
+      "कमजोरी जल्दी कम होती है",
+      "शारीरिक ताकत इम्प्रूव",
+      "रिकवरी स्पीड फास्ट",
+      "परफॉरमेंस बढ़ती है"
+    ],
+    "tags_mr": [
+      "#पावरबूस्टरप्लस",
+      "#उच्चऊर्जा",
+      "#तगधरण्याचीक्षमतावाढ",
+      "#जीवनशक्ती",
+      "#ताकद",
+      "#कामगिरी"
+    ],
+    "tags_hi": [
+      "#पावरबूस्टरप्लस",
+      "#हाईएनर्जी",
+      "#स्टैमिनाबूस्ट",
+      "#वाइटैलिटी",
+      "#स्ट्रेंथ",
+      "#परफॉरमेंस"
+    ],
+    "diseases_treated_mr": [
+      "Severe Fatigue",
+      "Extreme Physical Weakness",
+      "Athletic Performance Issues",
+      "Poor Muscle Mass",
+      "Chronic Weakness after surgery",
+      "Age-related vitality loss",
+      "High-intensity work stress"
+    ],
+    "diseases_treated_hi": [
+      "Severe Fatigue",
+      "Extreme Physical Weakness",
+      "Athletic Performance Issues",
+      "Poor Muscle Mass",
+      "Chronic Weakness after surgery",
+      "Age-related vitality loss",
+      "High-intensity work stress"
+    ],
+    "symptoms_relief_mr": [
+      "Severe weakness",
+      "Unable to do physical work",
+      "Muscle loss",
+      "Extreme tiredness",
+      "Poor endurance",
+      "Quick exhaustion",
+      "Low physical capacity",
+      "Slow recovery after exertion"
+    ],
+    "symptoms_relief_hi": [
+      "Severe weakness",
+      "Unable to do physical work",
+      "Muscle loss",
+      "Extreme tiredness",
+      "Poor endurance",
+      "Quick exhaustion",
+      "Low physical capacity",
+      "Slow recovery after exertion"
+    ],
+    "target_conditions_mr": [
+      "Severe debility",
+      "Athletic underperformance",
+      "Muscle wasting",
+      "Extreme fatigue disorders",
+      "Physical incapacity"
+    ],
+    "target_conditions_hi": [
+      "Severe debility",
+      "Athletic underperformance",
+      "Muscle wasting",
+      "Extreme fatigue disorders",
+      "Physical incapacity"
+    ],
+    "body_parts_affected_mr": [
+      "Muscles",
+      "Cells",
+      "ऊर्जा System"
+    ],
+    "body_parts_affected_hi": [
+      "Muscles",
+      "Cells",
+      "एनर्जी System"
+    ],
+    "composition_mr": "Contains Ashwagandha, Safed Musli, Shilajit, Salab Panja, Kaunch Beej and other herbs",
+    "composition_hi": "Contains Ashwagandha, Safed Musli, Shilajit, Salab Panja, Kaunch Beej and other herbs",
+    "package_contents_mr": "1 रस of Riyansh शक्ती Booster Plus (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh पावर Booster Plus (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh शक्ती Booster Plus - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh पावर Booster Plus - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh शक्ती Booster Plus at 25% OFF. उच्च ऊर्जा वाढ मिळते AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh पावर Booster Plus at 25% OFF. हाई एनर्जी बूस्ट मिलता है AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "शक्ती Booster se kya farak hai?",
+        "answer": "Ye advanced formula hai, double strength ke saath."
+      },
+      {
+        "question": "Kitne capsules roz lena hai?",
+        "answer": "Subah 2 aur shaam 2 capsules."
+      },
+      {
+        "question": "Exercise ke saath better result?",
+        "answer": "Haan, healthy diet aur exercise ke saath best results."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "पावर Booster se kya farak hai?",
+        "answer": "Ye advanced formula hai, double strength ke saath."
+      },
+      {
+        "question": "Kitne capsules roz lena hai?",
+        "answer": "Subah 2 aur shaam 2 capsules."
+      },
+      {
+        "question": "Exercise ke saath better result?",
+        "answer": "Haan, healthy diet aur exercise ke saath best results."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774960680020",
@@ -1101,7 +2041,189 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Amrit Juice ka capsule form - same 42 herbs power jo travel aur easy consumption ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Immunity Booster / हर्बल कॅप्सूलs",
+    "sub_category_hi": "Immunity Booster / हर्बल कैप्सूलs",
+    "trigger_mr": "रस Nahi Pee Sakte? Same शक्ती कॅप्सूल Mein 💊✨",
+    "trigger_hi": "जूस Nahi Pee Sakte? Same पावर कैप्सूल Mein 💊✨",
+    "short_description_mr": "रस Nahi Pee Sakte? Same शक्ती कॅप्सूल Mein 💊✨ रोगप्रतिकारक शक्ती वाढवते, पूर्ण शरीर निरोगीपणा देते, Easy to consume capsule",
+    "short_description_hi": "जूस Nahi Pee Sakte? Same पावर कैप्सूल Mein 💊✨ इम्यूनिटी बूस्ट करता है, फुल बॉडी वेलनेस देता है, Easy to consume capsule",
+    "what_is_it_mr": "Amrit रस ka capsule form - same 42 herbs power jo travel aur easy consumption ke liye convenient hai.",
+    "what_is_it_hi": "Amrit जूस ka capsule form - same 42 herbs power jo travel aur easy consumption ke liye convenient hai.",
+    "works_for_mr": "Immunity boosting, health maintenance, body detox, nutritional support, wellness maintenance, disease prevention, aur overall vitality ke liye best hai.",
+    "works_for_hi": "Immunity boosting, health maintenance, body detox, nutritional support, wellness maintenance, disease prevention, aur overall vitality ke liye best hai.",
+    "health_benefits_mr": "Ye capsules body ki defense system ko strong karte hain, nutrients provide karte hain, metabolism boost karte hain, aur body ko diseases se fight karne ki power dete hain.",
+    "health_benefits_hi": "Ye capsules body ki defense system ko strong karte hain, nutrients provide karte hain, metabolism boost karte hain, aur body ko diseases se fight karne ki power dete hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Amrit रस ka capsule form - same 42 herbs power jo travel aur easy consumption ",
+    "who_can_benefit_hi": "Amrit जूस ka capsule form - same 42 herbs power jo travel aur easy consumption ",
+    "benefits_mr": [
+      "रोगप्रतिकारक शक्ती वाढवते",
+      "पूर्ण शरीर निरोगीपणा देते",
+      "Easy to consume capsule",
+      "Travel friendly format",
+      "दैनंदिन आरोग्य कायम ठेवते",
+      "42 herbs ka power"
+    ],
+    "benefits_hi": [
+      "इम्यूनिटी बूस्ट करता है",
+      "फुल बॉडी वेलनेस देता है",
+      "Easy to consume capsule",
+      "Travel friendly format",
+      "डेली हेल्थ मेंटेन",
+      "42 herbs ka power"
+    ],
+    "tags_mr": [
+      "#Amritकॅप्सूल",
+      "#रोगप्रतिकारकशक्तीवाढवणारे",
+      "#हर्बलकॅप्सूल",
+      "#Healthकाळजी",
+      "#Wellness",
+      "#DailyHealth"
+    ],
+    "tags_hi": [
+      "#Amritकैप्सूल",
+      "#इम्यूनिटीबूस्टर",
+      "#हर्बलकैप्सूल",
+      "#Healthकेयर",
+      "#Wellness",
+      "#DailyHealth"
+    ],
+    "diseases_treated_mr": [
+      "Low Immunity",
+      "Frequent Infections",
+      "Poor Metabolism",
+      "General Weakness",
+      "Body Toxicity",
+      "Nutritional Deficiency",
+      "Recovery after illness"
+    ],
+    "diseases_treated_hi": [
+      "Low Immunity",
+      "Frequent Infections",
+      "Poor Metabolism",
+      "General Weakness",
+      "Body Toxicity",
+      "Nutritional Deficiency",
+      "Recovery after illness"
+    ],
+    "symptoms_relief_mr": [
+      "Bar bar thand khana",
+      "Body mein infection hona",
+      "Weakness aur thakan",
+      "Poor appetite",
+      "Skin problems",
+      "Hair fall",
+      "Low resistance to diseases"
+    ],
+    "symptoms_relief_hi": [
+      "Bar bar thand khana",
+      "Body mein infection hona",
+      "Weakness aur thakan",
+      "Poor appetite",
+      "Skin problems",
+      "Hair fall",
+      "Low resistance to diseases"
+    ],
+    "target_conditions_mr": [
+      "Immune deficiency",
+      "Metabolic disorders",
+      "General health decline",
+      "Nutritional gaps",
+      "Chronic weakness"
+    ],
+    "target_conditions_hi": [
+      "Immune deficiency",
+      "Metabolic disorders",
+      "General health decline",
+      "Nutritional gaps",
+      "Chronic weakness"
+    ],
+    "body_parts_affected_mr": [
+      "Immune System",
+      "Full Body"
+    ],
+    "body_parts_affected_hi": [
+      "Immune System",
+      "Full Body"
+    ],
+    "composition_mr": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "composition_hi": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "package_contents_mr": "1 कॅप्सूल of Riyansh Amrit कॅप्सूल (60 कॅप्सूलs) + User Guide",
+    "package_contents_hi": "1 कैप्सूल of Riyansh Amrit कैप्सूल (60 कैप्सूलs) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Amrit कॅप्सूल - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Amrit कैप्सूल - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Amrit कॅप्सूल at 25% OFF. रोगप्रतिकारक शक्ती वाढवते AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Amrit कैप्सूल at 25% OFF. इम्यूनिटी बूस्ट करता है AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "रस aur capsule mein kya farak?",
+        "answer": "Same benefits, capsule travel mein easy hai."
+      },
+      {
+        "question": "Kitni capsules din mein leni?",
+        "answer": "Subah 2, shaam 2 - total 4 capsules."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pehle doctor se consult karna zaroori hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "जूस aur capsule mein kya farak?",
+        "answer": "Same benefits, capsule travel mein easy hai."
+      },
+      {
+        "question": "Kitni capsules din mein leni?",
+        "answer": "Subah 2, shaam 2 - total 4 capsules."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pehle doctor se consult karna zaroori hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774961023248",
@@ -1286,7 +2408,197 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Hair problems ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Hair तेल / Scalp काळजी",
+    "sub_category_hi": "Hair तेल / Scalp केयर",
+    "trigger_mr": "18 Herbs Se Balo Ko नैसर्गिक nourishment! 🌿💆‍♀️",
+    "trigger_hi": "18 Herbs Se Balo Ko नैचुरल nourishment! 🌿💆‍♀️",
+    "short_description_mr": "18 Herbs Se Balo Ko नैसर्गिक nourishment! 🌿💆‍♀️ Dandruff control karta, Hair nourishment milta, Scalp health improve",
+    "short_description_hi": "18 Herbs Se Balo Ko नैचुरल nourishment! 🌿💆‍♀️ Dandruff control karta, Hair nourishment milta, Scalp health improve",
+    "what_is_it_mr": "Hair problems ke liye 18 आयुर्वेदिक herbs se bana natural hair oil. Scalp ko nourish karta hai aur hair roots ko strong banata hai.",
+    "what_is_it_hi": "Hair problems ke liye 18 आयुर्वेदिक herbs se bana natural hair oil. Scalp ko nourish karta hai aur hair roots ko strong banata hai.",
+    "works_for_mr": "Hair growth, dandruff control, scalp nourishment, hair strengthening, split end prevention, hair shine, scalp health, hair fall prevention, aur natural hair conditioning ke liye effective hai.",
+    "works_for_hi": "Hair growth, dandruff control, scalp nourishment, hair strengthening, split end prevention, hair shine, scalp health, hair fall prevention, aur natural hair conditioning ke liye effective hai.",
+    "health_benefits_mr": "Ye oil hair roots tak penetrate karke unko strong karta hai, scalp ki blood circulation badhata hai, dandruff aur infection door karta hai, hair growth stimulate karta hai, aur natural shine deta hai.",
+    "health_benefits_hi": "Ye oil hair roots tak penetrate karke unko strong karta hai, scalp ki blood circulation badhata hai, dandruff aur infection door karta hai, hair growth stimulate karta hai, aur natural shine deta hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Hair problems ",
+    "who_can_benefit_hi": "Hair problems ",
+    "benefits_mr": [
+      "Dandruff control karta",
+      "Hair nourishment milta",
+      "Scalp health improve",
+      "Hair roots strong",
+      "नैसर्गिक shine aata",
+      "Healthy hair growth"
+    ],
+    "benefits_hi": [
+      "Dandruff control karta",
+      "Hair nourishment milta",
+      "Scalp health improve",
+      "Hair roots strong",
+      "नैचुरल shine aata",
+      "Healthy hair growth"
+    ],
+    "tags_mr": [
+      "#Hairकाळजी",
+      "#Hairतेल",
+      "#Scalpकाळजी",
+      "#Dandruffकाळजी",
+      "#हर्बलतेल",
+      "#HairNourishment"
+    ],
+    "tags_hi": [
+      "#Hairकेयर",
+      "#Hairतेल",
+      "#Scalpकेयर",
+      "#Dandruffकेयर",
+      "#हर्बलतेल",
+      "#HairNourishment"
+    ],
+    "diseases_treated_mr": [
+      "Hair Fall / Hair Loss",
+      "Dandruff",
+      "Dry and Brittle Hair",
+      "Scalp Infections",
+      "Premature Graying",
+      "Split Ends",
+      "Thinning Hair",
+      "Scalp dryness",
+      "Fungal scalp infections"
+    ],
+    "diseases_treated_hi": [
+      "Hair Fall / Hair Loss",
+      "Dandruff",
+      "Dry and Brittle Hair",
+      "Scalp Infections",
+      "Premature Graying",
+      "Split Ends",
+      "Thinning Hair",
+      "Scalp dryness",
+      "Fungal scalp infections"
+    ],
+    "symptoms_relief_mr": [
+      "Hair fall (baal jhadna)",
+      "Dandruff (konda)",
+      "Dry scalp",
+      "Itchy scalp (khujli)",
+      "Weak hair roots",
+      "Hair breakage",
+      "Dull hair",
+      "Lice problem",
+      "Scalp irritation"
+    ],
+    "symptoms_relief_hi": [
+      "Hair fall (baal jhadna)",
+      "Dandruff (konda)",
+      "Dry scalp",
+      "Itchy scalp (khujli)",
+      "Weak hair roots",
+      "Hair breakage",
+      "Dull hair",
+      "Lice problem",
+      "Scalp irritation"
+    ],
+    "target_conditions_mr": [
+      "Alopecia",
+      "Seborrheic dermatitis",
+      "Scalp psoriasis",
+      "Hair follicle weakness",
+      "Dry scalp syndrome"
+    ],
+    "target_conditions_hi": [
+      "Alopecia",
+      "Seborrheic dermatitis",
+      "Scalp psoriasis",
+      "Hair follicle weakness",
+      "Dry scalp syndrome"
+    ],
+    "body_parts_affected_mr": [
+      "Hair",
+      "Scalp"
+    ],
+    "body_parts_affected_hi": [
+      "Hair",
+      "Scalp"
+    ],
+    "composition_mr": "Contains Bhringraj, Amla, Brahmi, Neem, Tulsi and other herbs",
+    "composition_hi": "Contains Bhringraj, Amla, Brahmi, Neem, Tulsi and other herbs",
+    "package_contents_mr": "1 तेल of Riyansh 18 Herbs Hair तेल (100ml) + User Guide",
+    "package_contents_hi": "1 तेल of Riyansh 18 Herbs Hair तेल (100ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Hair काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Hair केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh 18 Herbs Hair तेल - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh 18 Herbs Hair तेल - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh 18 Herbs Hair तेल at 0% OFF. Dandruff control karta AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh 18 Herbs Hair तेल at 0% OFF. Dandruff control karta AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Baal girna band kab honge?",
+        "answer": "3-4 weeks mein hair fall reduce hona start."
+      },
+      {
+        "question": "Kya daily lagana hai?",
+        "answer": "Haan, raat ko sone se pehle lagana best."
+      },
+      {
+        "question": "तेल ko kitni der rakhna hai?",
+        "answer": "Minimum 2-3 hours ya overnight best hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Baal girna band kab honge?",
+        "answer": "3-4 weeks mein hair fall reduce hona start."
+      },
+      {
+        "question": "Kya daily lagana hai?",
+        "answer": "Haan, raat ko sone se pehle lagana best."
+      },
+      {
+        "question": "तेल ko kitni der rakhna hai?",
+        "answer": "Minimum 2-3 hours ya overnight best hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774961360092",
@@ -1469,7 +2781,195 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Eye problems aur eye strain ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Eye काळजी / Vision Support",
+    "sub_category_hi": "Eye केयर / Vision Support",
+    "trigger_mr": "Aankhon Ki Thakhan Aur Dryness Ko Instant आराम! 👁️✨",
+    "trigger_hi": "Aankhon Ki Thakhan Aur Dryness Ko Instant राहत! 👁️✨",
+    "short_description_mr": "Aankhon Ki Thakhan Aur Dryness Ko Instant आराम! 👁️✨ Eye redness reduce, Dryness relief milta, Cooling effect deta",
+    "short_description_hi": "Aankhon Ki Thakhan Aur Dryness Ko Instant राहत! 👁️✨ Eye redness reduce, Dryness relief milta, Cooling effect deta",
+    "what_is_it_mr": "Eye problems aur eye strain ke liye आयुर्वेदिक eye drops. Eyes ko cooling effect dete hain aur vision support karte hain.",
+    "what_is_it_hi": "Eye problems aur eye strain ke liye आयुर्वेदिक eye drops. Eyes ko cooling effect dete hain aur vision support karte hain.",
+    "works_for_mr": "Eye cooling, dryness relief, redness reduction, strain relief, vision comfort, screen time protection, daily eye care, aur minor eye irritations ke liye best hai.",
+    "works_for_hi": "Eye cooling, dryness relief, redness reduction, strain relief, vision comfort, screen time protection, daily eye care, aur minor eye irritations ke liye best hai.",
+    "health_benefits_mr": "Ye drops eyes ko natural cooling dete hain, moisture maintain karte hain, irritation kam karte hain, redness door karte hain, aur long screen time se hone wali problems se bachate hain.",
+    "health_benefits_hi": "Ye drops eyes ko natural cooling dete hain, moisture maintain karte hain, irritation kam karte hain, redness door karte hain, aur long screen time se hone wali problems se bachate hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Eye problems aur eye strain ",
+    "who_can_benefit_hi": "Eye problems aur eye strain ",
+    "benefits_mr": [
+      "Eye redness reduce",
+      "Dryness relief milta",
+      "Cooling effect deta",
+      "Eye strain kam hota",
+      "Vision comfort support",
+      "Daily eye care"
+    ],
+    "benefits_hi": [
+      "Eye redness reduce",
+      "Dryness relief milta",
+      "Cooling effect deta",
+      "Eye strain kam hota",
+      "Vision comfort support",
+      "Daily eye care"
+    ],
+    "tags_mr": [
+      "#Eyeकाळजी",
+      "#VisionSupport",
+      "#Eyeथेंबs",
+      "#CoolingSupport",
+      "#DryEyes",
+      "#EyeComfort",
+      "#Healthकाळजी"
+    ],
+    "tags_hi": [
+      "#Eyeकेयर",
+      "#VisionSupport",
+      "#Eyeड्रॉपs",
+      "#CoolingSupport",
+      "#DryEyes",
+      "#EyeComfort",
+      "#Healthकेयर"
+    ],
+    "diseases_treated_mr": [
+      "Eye Strain / Eye Fatigue",
+      "Dry Eyes",
+      "Eye Redness",
+      "Computer Vision Syndrome",
+      "Minor Eye Irritations",
+      "Eye Burning sensation",
+      "Eye Allergies",
+      "Conjunctivitis support"
+    ],
+    "diseases_treated_hi": [
+      "Eye Strain / Eye Fatigue",
+      "Dry Eyes",
+      "Eye Redness",
+      "Computer Vision Syndrome",
+      "Minor Eye Irritations",
+      "Eye Burning sensation",
+      "Eye Allergies",
+      "Conjunctivitis support"
+    ],
+    "symptoms_relief_mr": [
+      "Eye strain (aankhon ka tanaav)",
+      "Dryness in eyes",
+      "Redness in eyes",
+      "Burning sensation",
+      "Itching in eyes",
+      "Watery eyes",
+      "Blurred vision",
+      "Screen-related eye pain",
+      "Eye fatigue from reading"
+    ],
+    "symptoms_relief_hi": [
+      "Eye strain (aankhon ka tanaav)",
+      "Dryness in eyes",
+      "Redness in eyes",
+      "Burning sensation",
+      "Itching in eyes",
+      "Watery eyes",
+      "Blurred vision",
+      "Screen-related eye pain",
+      "Eye fatigue from reading"
+    ],
+    "target_conditions_mr": [
+      "Dry eye syndrome",
+      "Digital eye strain",
+      "Allergic conjunctivitis",
+      "Eye fatigue",
+      "Minor eye infections"
+    ],
+    "target_conditions_hi": [
+      "Dry eye syndrome",
+      "Digital eye strain",
+      "Allergic conjunctivitis",
+      "Eye fatigue",
+      "Minor eye infections"
+    ],
+    "body_parts_affected_mr": [
+      "Eyes"
+    ],
+    "body_parts_affected_hi": [
+      "Eyes"
+    ],
+    "composition_mr": "Contains Rose Water, Triphala, Neem, Tulsi, Pudina and other herbs",
+    "composition_hi": "Contains Rose Water, Triphala, Neem, Tulsi, Pudina and other herbs",
+    "package_contents_mr": "1 थेंब of Riyansh Eye काळजी थेंब (30ml) + User Guide",
+    "package_contents_hi": "1 ड्रॉप of Riyansh Eye केयर ड्रॉप (30ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Eye काळजी थेंब - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Eye केयर ड्रॉप - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Eye काळजी थेंब at 0% OFF. Eye redness reduce AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Eye केयर ड्रॉप at 0% OFF. Eye redness reduce AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Lens laga ke daal sakte hain?",
+        "answer": "Nahi, lens nikal ke hi daalein."
+      },
+      {
+        "question": "Screen time ke baad use kar sakte?",
+        "answer": "Bilkul, computer/mobile ke baad best relief."
+      },
+      {
+        "question": "Kitni der mein relief milega?",
+        "answer": "Instant cooling effect, 2-3 din mein major relief."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Lens laga ke daal sakte hain?",
+        "answer": "Nahi, lens nikal ke hi daalein."
+      },
+      {
+        "question": "Screen time ke baad use kar sakte?",
+        "answer": "Bilkul, computer/mobile ke baad best relief."
+      },
+      {
+        "question": "Kitni der mein relief milega?",
+        "answer": "Instant cooling effect, 2-3 din mein major relief."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774961712495",
@@ -1640,7 +3140,177 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Ear hygiene aur ear comfort ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Ear काळजी / Ear Support",
+    "sub_category_hi": "Ear केयर / Ear Support",
+    "trigger_mr": "Daily Ear काळजी Ka Simple Solution! 👂🌿",
+    "trigger_hi": "Daily Ear केयर Ka Simple Solution! 👂🌿",
+    "short_description_mr": "Daily Ear काळजी Ka Simple Solution! 👂🌿 Ear hygiene maintain, Gentle daily care, Ear comfort support",
+    "short_description_hi": "Daily Ear केयर Ka Simple Solution! 👂🌿 Ear hygiene maintain, Gentle daily care, Ear comfort support",
+    "what_is_it_mr": "Ear hygiene aur ear comfort ke liye आयुर्वेदिक ear drops. Ears ko clean aur healthy rakhte hain.",
+    "what_is_it_hi": "Ear hygiene aur ear comfort ke liye आयुर्वेदिक ear drops. Ears ko clean aur healthy rakhte hain.",
+    "works_for_mr": "Ear cleaning, ear hygiene, wax softening, ear comfort, minor infection prevention, ear moisture balance, aur daily ear care ke liye suitable hai.",
+    "works_for_hi": "Ear cleaning, ear hygiene, wax softening, ear comfort, minor infection prevention, ear moisture balance, aur daily ear care ke liye suitable hai.",
+    "health_benefits_mr": "Ye drops ears ko naturally clean karte hain, wax ko soften karte hain, itching aur irritation door karte hain, infection se bachate hain, aur ear health maintain karte hain.",
+    "health_benefits_hi": "Ye drops ears ko naturally clean karte hain, wax ko soften karte hain, itching aur irritation door karte hain, infection se bachate hain, aur ear health maintain karte hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Ear hygiene aur ear comfort ",
+    "who_can_benefit_hi": "Ear hygiene aur ear comfort ",
+    "benefits_mr": [
+      "Ear hygiene maintain",
+      "Gentle daily care",
+      "Ear comfort support",
+      "नैसर्गिक ear health",
+      "Simple to use drops",
+      "Affordable solution"
+    ],
+    "benefits_hi": [
+      "Ear hygiene maintain",
+      "Gentle daily care",
+      "Ear comfort support",
+      "नैचुरल ear health",
+      "Simple to use drops",
+      "Affordable solution"
+    ],
+    "tags_mr": [
+      "#Earकाळजी",
+      "#EarSupport",
+      "#Healthकाळजी",
+      "#AffordableProduct"
+    ],
+    "tags_hi": [
+      "#Earकेयर",
+      "#EarSupport",
+      "#Healthकेयर",
+      "#AffordableProduct"
+    ],
+    "diseases_treated_mr": [
+      "Ear Wax Buildup",
+      "Minor Ear Infections",
+      "Ear Itching",
+      "Ear Discomfort",
+      "Ear Dryness",
+      "Preventive ear care"
+    ],
+    "diseases_treated_hi": [
+      "Ear Wax Buildup",
+      "Minor Ear Infections",
+      "Ear Itching",
+      "Ear Discomfort",
+      "Ear Dryness",
+      "Preventive ear care"
+    ],
+    "symptoms_relief_mr": [
+      "Ear itching (kaan mein khujli)",
+      "Ear wax problem",
+      "Mild ear pain",
+      "Ear fullness",
+      "Dryness in ear",
+      "Minor ear irritation"
+    ],
+    "symptoms_relief_hi": [
+      "Ear itching (kaan mein khujli)",
+      "Ear wax problem",
+      "Mild ear pain",
+      "Ear fullness",
+      "Dryness in ear",
+      "Minor ear irritation"
+    ],
+    "target_conditions_mr": [
+      "Cerumen impaction",
+      "Otitis externa (mild)",
+      "Ear canal dryness",
+      "Preventive ear maintenance"
+    ],
+    "target_conditions_hi": [
+      "Cerumen impaction",
+      "Otitis externa (mild)",
+      "Ear canal dryness",
+      "Preventive ear maintenance"
+    ],
+    "body_parts_affected_mr": [
+      "Ears"
+    ],
+    "body_parts_affected_hi": [
+      "Ears"
+    ],
+    "composition_mr": "Contains Tulsi, Neem, Garlic तेल, Sesame तेल, Camphor and other herbs",
+    "composition_hi": "Contains Tulsi, Neem, Garlic तेल, Sesame तेल, Camphor and other herbs",
+    "package_contents_mr": "1 थेंब of Riyansh Ear थेंब (30ml) + User Guide",
+    "package_contents_hi": "1 ड्रॉप of Riyansh Ear ड्रॉप (30ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Ear थेंब - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Ear ड्रॉप - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Ear थेंब at 0% OFF. Ear hygiene maintain AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Ear ड्रॉप at 0% OFF. Ear hygiene maintain AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Kaan mein dard mein kaam aayega?",
+        "answer": "Haan, mild pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni drops daalni hai?",
+        "answer": "2-3 drops har kaan mein."
+      },
+      {
+        "question": "Bachchon mein use kar sakte?",
+        "answer": "5 saal se bade bachchon mein hi use karein."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Kaan mein dard mein kaam aayega?",
+        "answer": "Haan, mild pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni drops daalni hai?",
+        "answer": "2-3 drops har kaan mein."
+      },
+      {
+        "question": "Bachchon mein use kar sakte?",
+        "answer": "5 saal se bade bachchon mein hi use karein."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774962060395",
@@ -1823,7 +3493,193 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Women ki special health needs ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Women’s Wellness / Feminine काळजी",
+    "sub_category_hi": "Women’s Wellness / Feminine केयर",
+    "trigger_mr": "Women's Wellness Ka Special Formula! 💃✨",
+    "trigger_hi": "Women's Wellness Ka Special Formula! 💃✨",
+    "short_description_mr": "Women's Wellness Ka Special Formula! 💃✨ Women wellness support, Hormonal balance help, Daily vitality boost",
+    "short_description_hi": "Women's Wellness Ka Special Formula! 💃✨ Women wellness support, Hormonal balance help, Daily vitality boost",
+    "what_is_it_mr": "Women ki special health needs ke liye आयुर्वेदिक supplement. Hormonal balance aur female wellness ke liye.",
+    "what_is_it_hi": "Women ki special health needs ke liye आयुर्वेदिक supplement. Hormonal balance aur female wellness ke liye.",
+    "works_for_mr": "Hormonal balance, menstrual health, reproductive wellness, menopause support, female vitality, skin health in women, mood stability, aur overall feminine wellness ke liye effective hai.",
+    "works_for_hi": "Hormonal balance, menstrual health, reproductive wellness, menopause support, female vitality, skin health in women, mood stability, aur overall feminine wellness ke liye effective hai.",
+    "health_benefits_mr": "Ye natural herbs female hormones ko balance karte hain, periods regular karte hain, menstrual discomfort kam karte hain, reproductive health improve karte hain, aur women ki overall vitality badhate hain.",
+    "health_benefits_hi": "Ye natural herbs female hormones ko balance karte hain, periods regular karte hain, menstrual discomfort kam karte hain, reproductive health improve karte hain, aur women ki overall vitality badhate hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Women ki special health needs ",
+    "who_can_benefit_hi": "Women ki special health needs ",
+    "benefits_mr": [
+      "Women wellness support",
+      "Hormonal balance help",
+      "Daily vitality boost",
+      "नैसर्गिक feminine care",
+      "Inner strength improve",
+      "Overall health support"
+    ],
+    "benefits_hi": [
+      "Women wellness support",
+      "Hormonal balance help",
+      "Daily vitality boost",
+      "नैचुरल feminine care",
+      "Inner strength improve",
+      "Overall health support"
+    ],
+    "tags_mr": [
+      "#LadyLifeकाळजी",
+      "#WomenWellness",
+      "#Feminineकाळजी",
+      "#Healthकाळजी",
+      "#हर्बलSupport"
+    ],
+    "tags_hi": [
+      "#LadyLifeकेयर",
+      "#WomenWellness",
+      "#Feminineकेयर",
+      "#Healthकेयर",
+      "#हर्बलSupport"
+    ],
+    "diseases_treated_mr": [
+      "Hormonal Imbalance",
+      "Irregular Periods",
+      "PCOS/PCOD Support",
+      "Menstrual Cramps",
+      "Menopausal Symptoms",
+      "Female Weakness",
+      "UTI Prevention",
+      "Reproductive Health Issues"
+    ],
+    "diseases_treated_hi": [
+      "Hormonal Imbalance",
+      "Irregular Periods",
+      "PCOS/PCOD Support",
+      "Menstrual Cramps",
+      "Menopausal Symptoms",
+      "Female Weakness",
+      "UTI Prevention",
+      "Reproductive Health Issues"
+    ],
+    "symptoms_relief_mr": [
+      "Period pain (mahawari dard)",
+      "Irregular periods",
+      "Mood swings",
+      "Hormonal acne",
+      "Weakness during periods",
+      "Hot flashes",
+      "Vaginal dryness",
+      "Low libido",
+      "Fatigue in women"
+    ],
+    "symptoms_relief_hi": [
+      "Period pain (mahawari dard)",
+      "Irregular periods",
+      "Mood swings",
+      "Hormonal acne",
+      "Weakness during periods",
+      "Hot flashes",
+      "Vaginal dryness",
+      "Low libido",
+      "Fatigue in women"
+    ],
+    "target_conditions_mr": [
+      "Menstrual disorders",
+      "Hormonal dysfunction",
+      "PCOS",
+      "Menopausal syndrome",
+      "Female reproductive issues"
+    ],
+    "target_conditions_hi": [
+      "Menstrual disorders",
+      "Hormonal dysfunction",
+      "PCOS",
+      "Menopausal syndrome",
+      "Female reproductive issues"
+    ],
+    "body_parts_affected_mr": [
+      "Reproductive System",
+      "Hormonal System"
+    ],
+    "body_parts_affected_hi": [
+      "Reproductive System",
+      "Hormonal System"
+    ],
+    "composition_mr": "Contains Shatavari, Ashoka, Lodhra, Dashmool, Aloe Vera and other herbs",
+    "composition_hi": "Contains Shatavari, Ashoka, Lodhra, Dashmool, Aloe Vera and other herbs",
+    "package_contents_mr": "1 रस of Riyansh Lady Life काळजी (500ml) + User Guide",
+    "package_contents_hi": "1 जूस of Riyansh Lady Life केयर (500ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Lady Life काळजी - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Lady Life केयर - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Lady Life काळजी at 19% OFF. Women wellness support AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Lady Life केयर at 19% OFF. Women wellness support AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Periods mein problem mein help karta?",
+        "answer": "Haan, irregular periods aur pain mein relief."
+      },
+      {
+        "question": "PCOS/PCOD mein kaam aayega?",
+        "answer": "Hormonal balance mein help karta hai, doctor se consult karein."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pregnancy mein doctor se consult karein."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Periods mein problem mein help karta?",
+        "answer": "Haan, irregular periods aur pain mein relief."
+      },
+      {
+        "question": "PCOS/PCOD mein kaam aayega?",
+        "answer": "Hormonal balance mein help karta hai, doctor se consult karein."
+      },
+      {
+        "question": "Pregnant ladies le sakti hain?",
+        "answer": "Pregnancy mein doctor se consult karein."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774962544309",
@@ -2004,7 +3860,191 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Piles (Bawaseer) aur hemorrhoids ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Piles काळजी / Digestive & Rectal Health",
+    "sub_category_hi": "Piles केयर / Digestive & Rectal Health",
+    "trigger_mr": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫",
+    "trigger_hi": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫",
+    "short_description_mr": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫 Piles pain relief, Itching reduce hoti, Burning sensation kam",
+    "short_description_hi": "Bawaseer Se Permanent Chutkara! Surgery Ki Zarurat Nahi 💯🚫 Piles pain relief, Itching reduce hoti, Burning sensation kam",
+    "what_is_it_mr": "Piles (Bawaseer) aur hemorrhoids ke liye आयुर्वेदिक capsules. Rectal health ko support karte hain.",
+    "what_is_it_hi": "Piles (Bawaseer) aur hemorrhoids ke liye आयुर्वेदिक capsules. Rectal health ko support karte hain.",
+    "works_for_mr": "Piles pain relief, bleeding control, itching reduction, constipation relief, rectal healing, inflammation reduction, soft stool formation, aur digestive health improvement ke liye best hai.",
+    "works_for_hi": "Piles pain relief, bleeding control, itching reduction, constipation relief, rectal healing, inflammation reduction, soft stool formation, aur digestive health improvement ke liye best hai.",
+    "health_benefits_mr": "Ye capsules piles ki swelling aur pain ko kam karte hain, bleeding stop karte hain, constipation door karte hain, rectal tissues ko heal karte hain, aur digestive system ko strong banate hain.",
+    "health_benefits_hi": "Ye capsules piles ki swelling aur pain ko kam karte hain, bleeding stop karte hain, constipation door karte hain, rectal tissues ko heal karte hain, aur digestive system ko strong banate hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Piles (Bawaseer) aur hemorrhoids ",
+    "who_can_benefit_hi": "Piles (Bawaseer) aur hemorrhoids ",
+    "benefits_mr": [
+      "Piles pain relief",
+      "Itching reduce hoti",
+      "Burning sensation kam",
+      "पचन सुधारते",
+      "Rectal health support",
+      "Comfortable living"
+    ],
+    "benefits_hi": [
+      "Piles pain relief",
+      "Itching reduce hoti",
+      "Burning sensation kam",
+      "पाचन सुधारता है",
+      "Rectal health support",
+      "Comfortable living"
+    ],
+    "tags_mr": [
+      "#Pilesकाळजी",
+      "#Bawaseer",
+      "#DigestiveHealth",
+      "#आयुर्वेदिककॅप्सूल",
+      "#Constipationआराम",
+      "#Healthकाळजी"
+    ],
+    "tags_hi": [
+      "#Pilesकेयर",
+      "#Bawaseer",
+      "#DigestiveHealth",
+      "#आयुर्वेदिककैप्सूल",
+      "#Constipationराहत",
+      "#Healthकेयर"
+    ],
+    "diseases_treated_mr": [
+      "Piles / Hemorrhoids (Bawaseer)",
+      "Bleeding Piles",
+      "Fissures",
+      "Constipation-related piles",
+      "Rectal Inflammation",
+      "Anal Fistula support",
+      "Chronic Constipation"
+    ],
+    "diseases_treated_hi": [
+      "Piles / Hemorrhoids (Bawaseer)",
+      "Bleeding Piles",
+      "Fissures",
+      "Constipation-related piles",
+      "Rectal Inflammation",
+      "Anal Fistula support",
+      "Chronic Constipation"
+    ],
+    "symptoms_relief_mr": [
+      "Piles pain (bawaseer ka dard)",
+      "Bleeding during stool",
+      "Itching in anal area (guda chhed mein jalan)",
+      "Burning sensation",
+      "Swelling near anus",
+      "Constipation (kabz)",
+      "Difficulty passing stool",
+      "Mucus discharge"
+    ],
+    "symptoms_relief_hi": [
+      "Piles pain (bawaseer ka dard)",
+      "Bleeding during stool",
+      "Itching in anal area (guda chhed mein jalan)",
+      "Burning sensation",
+      "Swelling near anus",
+      "Constipation (kabz)",
+      "Difficulty passing stool",
+      "Mucus discharge"
+    ],
+    "target_conditions_mr": [
+      "Hemorrhoids",
+      "Anal fissures",
+      "Rectal inflammation",
+      "Chronic constipation",
+      "Anal fistula"
+    ],
+    "target_conditions_hi": [
+      "Hemorrhoids",
+      "Anal fissures",
+      "Rectal inflammation",
+      "Chronic constipation",
+      "Anal fistula"
+    ],
+    "body_parts_affected_mr": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "body_parts_affected_hi": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "composition_mr": "Contains Triphala, Neem, Haritaki, Vibhitaki, Amalaki and other herbs",
+    "composition_hi": "Contains Triphala, Neem, Haritaki, Vibhitaki, Amalaki and other herbs",
+    "package_contents_mr": "1 कॅप्सूल of Riyansh Pileorhoids कॅप्सूल (60 कॅप्सूलs) + User Guide",
+    "package_contents_hi": "1 कैप्सूल of Riyansh Pileorhoids कैप्सूल (60 कैप्सूलs) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Pileorhoids कॅप्सूल - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Pileorhoids कैप्सूल - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Pileorhoids कॅप्सूल at 25% OFF. Piles pain relief AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Pileorhoids कैप्सूल at 25% OFF. Piles pain relief AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Surgery ke bina theek ho sakta hai?",
+        "answer": "Early stages mein bahut effective hai."
+      },
+      {
+        "question": "Bleeding kab band hogi?",
+        "answer": "7-14 din mein bleeding reduce honi start."
+      },
+      {
+        "question": "Diet mein kya avoid karein?",
+        "answer": "Spicy food, non-veg, alcohol avoid karein."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Surgery ke bina theek ho sakta hai?",
+        "answer": "Early stages mein bahut effective hai."
+      },
+      {
+        "question": "Bleeding kab band hogi?",
+        "answer": "7-14 din mein bleeding reduce honi start."
+      },
+      {
+        "question": "Diet mein kya avoid karein?",
+        "answer": "Spicy food, non-veg, alcohol avoid karein."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774962972152",
@@ -2144,7 +4184,137 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Adults seeking wellness",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "De-addiction / Habit Support",
+    "sub_category_hi": "De-addiction / Habit Support",
+    "trigger_mr": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪",
+    "trigger_hi": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪",
+    "short_description_mr": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪 De-addiction support, Habit control help, नैसर्गिक formula",
+    "short_description_hi": "Alcohol, Smoking, Tobacco Chhodne Mein Full Support! 🚭💪 De-addiction support, Habit control help, नैचुरल formula",
+    "what_is_it_mr": "Riyansh Anti Addication थेंब Ovel Bottle ek आयुर्वेदिक health product hai jo natural herbs se bana hai.",
+    "what_is_it_hi": "Riyansh Anti Addication ड्रॉप Ovel Bottle ek आयुर्वेदिक health product hai jo natural herbs se bana hai.",
+    "works_for_mr": "General wellness ke liye effective hai.",
+    "works_for_hi": "General wellness ke liye effective hai.",
+    "health_benefits_mr": "Start your journey to a healthier life with Riyansh Anti Addiction थेंब! This natural formula supports you in overcoming habits related to alcohol, tobacco, and smoking. Take the first step towards freedom and wellness! 🚭✨",
+    "health_benefits_hi": "Start your journey to a healthier life with Riyansh Anti Addiction ड्रॉप! This natural formula supports you in overcoming habits related to alcohol, tobacco, and smoking. Take the first step towards freedom and wellness! 🚭✨",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Adults seeking wellness",
+    "who_can_benefit_hi": "Adults seeking wellness",
+    "benefits_mr": [
+      "De-addiction support",
+      "Habit control help",
+      "नैसर्गिक formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "benefits_hi": [
+      "De-addiction support",
+      "Habit control help",
+      "नैचुरल formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "tags_mr": [
+      "#DeAddiction",
+      "#QuitSupport",
+      "#AntiAddiction",
+      "#Healthकाळजी"
+    ],
+    "tags_hi": [
+      "#DeAddiction",
+      "#QuitSupport",
+      "#AntiAddiction",
+      "#Healthकेयर"
+    ],
+    "diseases_treated_mr": [
+      "De-addiction / Habit Support"
+    ],
+    "diseases_treated_hi": [
+      "De-addiction / Habit Support"
+    ],
+    "symptoms_relief_mr": [
+      "De-addiction support",
+      "Habit control help",
+      "नैसर्गिक formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "symptoms_relief_hi": [
+      "De-addiction support",
+      "Habit control help",
+      "नैचुरल formula",
+      "Withdrawal comfort",
+      "Healthy life support",
+      "Addiction free goal"
+    ],
+    "target_conditions_mr": [
+      "Health काळजी"
+    ],
+    "target_conditions_hi": [
+      "Health केयर"
+    ],
+    "body_parts_affected_mr": [
+      "Full Body",
+      "General Health"
+    ],
+    "body_parts_affected_hi": [
+      "Full Body",
+      "General Health"
+    ],
+    "composition_mr": "100% नैसर्गिक आयुर्वेदिक Formula",
+    "composition_hi": "100% नैचुरल आयुर्वेदिक Formula",
+    "package_contents_mr": "1 थेंब of Riyansh Anti Addication थेंब Ovel Bottle (30ml) + User Guide",
+    "package_contents_hi": "1 ड्रॉप of Riyansh Anti Addication ड्रॉप Ovel Bottle (30ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Anti Addication थेंब Ovel Bottle - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Anti Addication ड्रॉप Ovel Bottle - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Anti Addication थेंब Ovel Bottle at 0% OFF. De-addiction support AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Anti Addication ड्रॉप Ovel Bottle at 0% OFF. De-addiction support AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [],
+    "faq_hi": [],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774963256860",
@@ -2326,7 +4496,195 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Skin problems aur infections ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "हर्बल Bath साबण",
+    "sub_category_hi": "हर्बल Bath साबुन",
+    "trigger_mr": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿",
+    "trigger_hi": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿",
+    "short_description_mr": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿 Deep skin cleansing, Germ protection, नैसर्गिक freshness",
+    "short_description_hi": "Neem + Tulsi + Aloe = Clean, Fresh, Glowing Skin! 🧼🌿 Deep skin cleansing, Germ protection, नैचुरल freshness",
+    "what_is_it_mr": "Skin problems aur infections ke liye आयुर्वेदिक herbal soap. Neem, Tulsi, Aloe Vera se bana natural skin cleanser.",
+    "what_is_it_hi": "Skin problems aur infections ke liye आयुर्वेदिक herbal soap. Neem, Tulsi, Aloe Vera se bana natural skin cleanser.",
+    "works_for_mr": "Acne control, skin cleansing, bacterial protection, oil control, skin hydration, infection prevention, daily skin care, aur natural skin glow ke liye effective hai.",
+    "works_for_hi": "Acne control, skin cleansing, bacterial protection, oil control, skin hydration, infection prevention, daily skin care, aur natural skin glow ke liye effective hai.",
+    "health_benefits_mr": "Ye soap skin ko deeply clean karta hai, bacteria aur germs se bachata hai, pimples aur acne control karta hai, skin ko natural moisture deta hai, complexion improve karta hai, aur daily freshness maintain karta hai.",
+    "health_benefits_hi": "Ye soap skin ko deeply clean karta hai, bacteria aur germs se bachata hai, pimples aur acne control karta hai, skin ko natural moisture deta hai, complexion improve karta hai, aur daily freshness maintain karta hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Skin problems aur infections ",
+    "who_can_benefit_hi": "Skin problems aur infections ",
+    "benefits_mr": [
+      "Deep skin cleansing",
+      "Germ protection",
+      "नैसर्गिक freshness",
+      "Soft skin maintain",
+      "Daily herbal care",
+      "Healthy glow"
+    ],
+    "benefits_hi": [
+      "Deep skin cleansing",
+      "Germ protection",
+      "नैचुरल freshness",
+      "Soft skin maintain",
+      "Daily herbal care",
+      "Healthy glow"
+    ],
+    "tags_mr": [
+      "#हर्बलसाबण",
+      "#Skinकाळजी",
+      "#Bathसाबण",
+      "#Neem",
+      "#Tulsi",
+      "#AloeVera",
+      "#FreshSkin"
+    ],
+    "tags_hi": [
+      "#हर्बलसाबुन",
+      "#Skinकेयर",
+      "#Bathसाबुन",
+      "#Neem",
+      "#Tulsi",
+      "#AloeVera",
+      "#FreshSkin"
+    ],
+    "diseases_treated_mr": [
+      "Acne / Pimples",
+      "Skin Infections",
+      "तेलy Skin",
+      "Body Odor",
+      "Bacterial Skin Issues",
+      "Fungal Skin Infections",
+      "Skin Allergies",
+      "Rashes"
+    ],
+    "diseases_treated_hi": [
+      "Acne / Pimples",
+      "Skin Infections",
+      "तेलy Skin",
+      "Body Odor",
+      "Bacterial Skin Issues",
+      "Fungal Skin Infections",
+      "Skin Allergies",
+      "Rashes"
+    ],
+    "symptoms_relief_mr": [
+      "Pimples aur acne",
+      "तेलy skin",
+      "Skin itching",
+      "Body odor",
+      "Bacterial skin issues",
+      "Minor skin infections",
+      "Skin rashes",
+      "Uneven skin tone"
+    ],
+    "symptoms_relief_hi": [
+      "Pimples aur acne",
+      "तेलy skin",
+      "Skin itching",
+      "Body odor",
+      "Bacterial skin issues",
+      "Minor skin infections",
+      "Skin rashes",
+      "Uneven skin tone"
+    ],
+    "target_conditions_mr": [
+      "Acne vulgaris",
+      "Seborrhea",
+      "Skin infections",
+      "Dermatitis",
+      "Prickly heat"
+    ],
+    "target_conditions_hi": [
+      "Acne vulgaris",
+      "Seborrhea",
+      "Skin infections",
+      "Dermatitis",
+      "Prickly heat"
+    ],
+    "body_parts_affected_mr": [
+      "Skin",
+      "Face"
+    ],
+    "body_parts_affected_hi": [
+      "Skin",
+      "Face"
+    ],
+    "composition_mr": "Contains Neem, Tulsi, Aloe Vera, Glycerin, Coconut तेल and other herbs",
+    "composition_hi": "Contains Neem, Tulsi, Aloe Vera, Glycerin, Coconut तेल and other herbs",
+    "package_contents_mr": "1 साबण of Riyansh Neem, Tulsi & Aloe Vera साबण (75g) + User Guide",
+    "package_contents_hi": "1 साबुन of Riyansh Neem, Tulsi & Aloe Vera साबुन (75g) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Skin काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Skin केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Neem, Tulsi & Aloe Vera साबण - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Neem, Tulsi & Aloe Vera साबुन - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Neem, Tulsi & Aloe Vera साबण at 0% OFF. Deep skin cleansing AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Neem, Tulsi & Aloe Vera साबुन at 0% OFF. Deep skin cleansing AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "तेलy skin ke liye hai?",
+        "answer": "Haan, all skin types ke liye suitable hai."
+      },
+      {
+        "question": "Face par use kar sakte?",
+        "answer": "Bilkul, face aur body dono par."
+      },
+      {
+        "question": "Pimples mein help karta?",
+        "answer": "Neem aur tulsi antibacterial hain, acne control mein help."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "तेलy skin ke liye hai?",
+        "answer": "Haan, all skin types ke liye suitable hai."
+      },
+      {
+        "question": "Face par use kar sakte?",
+        "answer": "Bilkul, face aur body dono par."
+      },
+      {
+        "question": "Pimples mein help karta?",
+        "answer": "Neem aur tulsi antibacterial hain, acne control mein help."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774963534464",
@@ -2503,7 +4861,187 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Dry skin aur skin nourishment ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "हर्बल Bath साबण",
+    "sub_category_hi": "हर्बल Bath साबुन",
+    "trigger_mr": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛",
+    "trigger_hi": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛",
+    "short_description_mr": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛 Skin soft hoti, Freshness milti, Moisture lock karta",
+    "short_description_hi": "Rose + Milk = Soft, Fresh, Moisturized Skin! 🌹🥛 Skin soft hoti, Freshness milti, Moisture lock karta",
+    "what_is_it_mr": "Dry skin aur skin nourishment ke liye luxurious herbal soap. Rose petals aur milk se skin ko soft aur smooth banata hai.",
+    "what_is_it_hi": "Dry skin aur skin nourishment ke liye luxurious herbal soap. Rose petals aur milk se skin ko soft aur smooth banata hai.",
+    "works_for_mr": "Skin moisturizing, complexion brightening, skin softening, anti-aging, skin nourishment, dry skin relief, sensitive skin care, aur natural glow ke liye best hai.",
+    "works_for_hi": "Skin moisturizing, complexion brightening, skin softening, anti-aging, skin nourishment, dry skin relief, sensitive skin care, aur natural glow ke liye best hai.",
+    "health_benefits_mr": "Ye soap skin ko deep moisturize karta hai, rose petals se natural glow deta hai, milk proteins se skin ko nourish karta hai, aging signs ko kam karta hai, skin texture smooth karta hai, aur 24-hour hydration maintain karta hai.",
+    "health_benefits_hi": "Ye soap skin ko deep moisturize karta hai, rose petals se natural glow deta hai, milk proteins se skin ko nourish karta hai, aging signs ko kam karta hai, skin texture smooth karta hai, aur 24-hour hydration maintain karta hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Dry skin aur skin nourishment ",
+    "who_can_benefit_hi": "Dry skin aur skin nourishment ",
+    "benefits_mr": [
+      "Skin soft hoti",
+      "Freshness milti",
+      "Moisture lock karta",
+      "Beautiful fragrance",
+      "Daily bathing care",
+      "Gentle on skin"
+    ],
+    "benefits_hi": [
+      "Skin soft hoti",
+      "Freshness milti",
+      "Moisture lock karta",
+      "Beautiful fragrance",
+      "Daily bathing care",
+      "Gentle on skin"
+    ],
+    "tags_mr": [
+      "#Skinकाळजी",
+      "#हर्बलसाबण",
+      "#Bathसाबण",
+      "#Milkसाबण",
+      "#RosePetal",
+      "#FreshSkin"
+    ],
+    "tags_hi": [
+      "#Skinकेयर",
+      "#हर्बलसाबुन",
+      "#Bathसाबुन",
+      "#Milkसाबुन",
+      "#RosePetal",
+      "#FreshSkin"
+    ],
+    "diseases_treated_mr": [
+      "Dry Skin",
+      "Rough Skin",
+      "Dull Complexion",
+      "Skin Dehydration",
+      "Uneven Skin Tone",
+      "Skin Aging signs",
+      "Sensitive Skin"
+    ],
+    "diseases_treated_hi": [
+      "Dry Skin",
+      "Rough Skin",
+      "Dull Complexion",
+      "Skin Dehydration",
+      "Uneven Skin Tone",
+      "Skin Aging signs",
+      "Sensitive Skin"
+    ],
+    "symptoms_relief_mr": [
+      "Dry and rough skin",
+      "Skin tightness after bath",
+      "Dull complexion",
+      "Lack of skin glow",
+      "Flaky skin",
+      "Skin dehydration",
+      "Fine lines"
+    ],
+    "symptoms_relief_hi": [
+      "Dry and rough skin",
+      "Skin tightness after bath",
+      "Dull complexion",
+      "Lack of skin glow",
+      "Flaky skin",
+      "Skin dehydration",
+      "Fine lines"
+    ],
+    "target_conditions_mr": [
+      "Xerosis (dry skin)",
+      "Skin dehydration",
+      "Premature aging",
+      "Sensitive skin syndrome"
+    ],
+    "target_conditions_hi": [
+      "Xerosis (dry skin)",
+      "Skin dehydration",
+      "Premature aging",
+      "Sensitive skin syndrome"
+    ],
+    "body_parts_affected_mr": [
+      "Skin",
+      "Face"
+    ],
+    "body_parts_affected_hi": [
+      "Skin",
+      "Face"
+    ],
+    "composition_mr": "Contains Rose Petals, Milk, Honey, Almond तेल, Glycerin and other herbs",
+    "composition_hi": "Contains Rose Petals, Milk, Honey, Almond तेल, Glycerin and other herbs",
+    "package_contents_mr": "1 साबण of Riyansh Rose Petal & Milk साबण (75g) + User Guide",
+    "package_contents_hi": "1 साबुन of Riyansh Rose Petal & Milk साबुन (75g) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Skin काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Skin केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Rose Petal & Milk साबण - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Rose Petal & Milk साबुन - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Rose Petal & Milk साबण at 0% OFF. Skin soft hoti AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Rose Petal & Milk साबुन at 0% OFF. Skin soft hoti AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Dry skin ke liye good?",
+        "answer": "Bilkul, milk aur rose moisturizing hai."
+      },
+      {
+        "question": "Fragrance kitni der rehti?",
+        "answer": "2-3 hours tak mild fragrance rehti."
+      },
+      {
+        "question": "Skin brightening mein help?",
+        "answer": "Haan, regular use se glow aata hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Dry skin ke liye good?",
+        "answer": "Bilkul, milk aur rose moisturizing hai."
+      },
+      {
+        "question": "Fragrance kitni der rehti?",
+        "answer": "2-3 hours tak mild fragrance rehti."
+      },
+      {
+        "question": "Skin brightening mein help?",
+        "answer": "Haan, regular use se glow aata hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774963918764",
@@ -2690,7 +5228,199 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Joint pain, muscle pain, aur body pain ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "वेदना आराम / Joint & Muscle काळजी",
+    "sub_category_hi": "दर्द राहत / Joint & Muscle केयर",
+    "trigger_mr": "वेदना आराम In Minutes! Massage Karo Aram Pao 💆‍♂️🔥",
+    "trigger_hi": "दर्द राहत In Minutes! Massage Karo Aram Pao 💆‍♂️🔥",
+    "short_description_mr": "वेदना आराम In Minutes! Massage Karo Aram Pao 💆‍♂️🔥 Joint pain relief, Muscle pain kam, Back pain support",
+    "short_description_hi": "दर्द राहत In Minutes! Massage Karo Aram Pao 💆‍♂️🔥 Joint pain relief, Muscle pain kam, Back pain support",
+    "what_is_it_mr": "Joint pain, muscle pain, aur body pain ke liye आयुर्वेदिक pain relief oil. Deep penetration ke saath pain door karta hai.",
+    "what_is_it_hi": "Joint pain, muscle pain, aur body pain ke liye आयुर्वेदिक pain relief oil. Deep penetration ke saath pain door karta hai.",
+    "works_for_mr": "वेदना relief, inflammation reduction, muscle relaxation, blood circulation improvement, joint mobility, stiffness removal, sports recovery, aur chronic pain management ke liye effective hai.",
+    "works_for_hi": "दर्द relief, inflammation reduction, muscle relaxation, blood circulation improvement, joint mobility, stiffness removal, sports recovery, aur chronic pain management ke liye effective hai.",
+    "health_benefits_mr": "Ye oil skin mein deep penetrate karke pain receptors ko calm karta hai, inflammation kam karta hai, blood flow badhata hai, muscles ko relax karta hai, joint flexibility restore karta hai, aur long-lasting pain relief deta hai.",
+    "health_benefits_hi": "Ye oil skin mein deep penetrate karke pain receptors ko calm karta hai, inflammation kam karta hai, blood flow badhata hai, muscles ko relax karta hai, joint flexibility restore karta hai, aur long-lasting pain relief deta hai.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Joint pain, muscle pain, aur body pain ",
+    "who_can_benefit_hi": "Joint pain, muscle pain, aur body pain ",
+    "benefits_mr": [
+      "Joint pain relief",
+      "Muscle pain kam",
+      "Back pain support",
+      "Stiffness reduce",
+      "Better circulation",
+      "Muscle relaxation"
+    ],
+    "benefits_hi": [
+      "Joint pain relief",
+      "Muscle pain kam",
+      "Back pain support",
+      "Stiffness reduce",
+      "Better circulation",
+      "Muscle relaxation"
+    ],
+    "tags_mr": [
+      "#वेदनानिवारण",
+      "#सांध्यांचीकाळजी",
+      "#Muscleवेदना",
+      "#आयुर्वेदिकतेल",
+      "#Backवेदना",
+      "#Orthoकाळजी"
+    ],
+    "tags_hi": [
+      "#पेनरिलीफ",
+      "#जोइंटकेयर",
+      "#Muscleदर्द",
+      "#आयुर्वेदिकतेल",
+      "#Backदर्द",
+      "#Orthoकेयर"
+    ],
+    "diseases_treated_mr": [
+      "Joint वेदना",
+      "Muscle वेदना",
+      "Back वेदना",
+      "Knee वेदना",
+      "Shoulder वेदना",
+      "Neck वेदना",
+      "Sprains",
+      "Muscular Stiffness",
+      "Sports Injuries"
+    ],
+    "diseases_treated_hi": [
+      "Joint दर्द",
+      "Muscle दर्द",
+      "Back दर्द",
+      "Knee दर्द",
+      "Shoulder दर्द",
+      "Neck दर्द",
+      "Sprains",
+      "Muscular Stiffness",
+      "Sports Injuries"
+    ],
+    "symptoms_relief_mr": [
+      "Joint pain (sande ka dard)",
+      "Muscle pain",
+      "Back pain (kamar dard)",
+      "Knee pain (ghutne ka dard)",
+      "Neck stiffness",
+      "Shoulder pain",
+      "Muscle cramps",
+      "Sprain pain",
+      "Body stiffness"
+    ],
+    "symptoms_relief_hi": [
+      "Joint pain (sande ka dard)",
+      "Muscle pain",
+      "Back pain (kamar dard)",
+      "Knee pain (ghutne ka dard)",
+      "Neck stiffness",
+      "Shoulder pain",
+      "Muscle cramps",
+      "Sprain pain",
+      "Body stiffness"
+    ],
+    "target_conditions_mr": [
+      "Musculoskeletal pain",
+      "Myalgia",
+      "Sprains and strains",
+      "Arthralgia",
+      "Soft tissue injuries"
+    ],
+    "target_conditions_hi": [
+      "Musculoskeletal pain",
+      "Myalgia",
+      "Sprains and strains",
+      "Arthralgia",
+      "Soft tissue injuries"
+    ],
+    "body_parts_affected_mr": [
+      "Joints",
+      "Bones",
+      "Muscles"
+    ],
+    "body_parts_affected_hi": [
+      "Joints",
+      "Bones",
+      "Muscles"
+    ],
+    "composition_mr": "Contains Mahanarayan तेल, Ashwagandha, Nirgundi, Rasna, Gandhapura and other herbs",
+    "composition_hi": "Contains Mahanarayan तेल, Ashwagandha, Nirgundi, Rasna, Gandhapura and other herbs",
+    "package_contents_mr": "1 तेल of Riyansh Ortho-G Anti वेदना तेल (100ml) + User Guide",
+    "package_contents_hi": "1 तेल of Riyansh Ortho-G Anti दर्द तेल (100ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Ortho-G Anti वेदना तेल - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Ortho-G Anti दर्द तेल - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Ortho-G Anti वेदना तेल at 0% OFF. Joint pain relief AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Ortho-G Anti दर्द तेल at 0% OFF. Joint pain relief AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Sciatica pain mein kaam aayega?",
+        "answer": "Haan, nerve pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni der malish karni hai?",
+        "answer": "Minimum 5-7 minutes tak circular motion mein."
+      },
+      {
+        "question": "Garam paani se snaan ke baad use?",
+        "answer": "Haan, warm water se pores open hote hain, oil better absorb hota."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Sciatica pain mein kaam aayega?",
+        "answer": "Haan, nerve pain mein relief deta hai."
+      },
+      {
+        "question": "Kitni der malish karni hai?",
+        "answer": "Minimum 5-7 minutes tak circular motion mein."
+      },
+      {
+        "question": "Garam paani se snaan ke baad use?",
+        "answer": "Haan, warm water se pores open hote hain, oil better absorb hota."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774964406549",
@@ -2868,7 +5598,189 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Body ka pH level balance karne ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Detox / pH Balance / Wellness Support",
+    "sub_category_hi": "Detox / pH Balance / Wellness Support",
+    "trigger_mr": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️",
+    "trigger_hi": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️",
+    "short_description_mr": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️ pH balance support, Acidity control karta, Detox help milta",
+    "short_description_hi": "Body Ka pH Balance Karo! Acidity Ko Bye Bye 💧⚖️ pH balance support, Acidity control karta, Detox help milta",
+    "what_is_it_mr": "Body ka pH level balance karne ke liye आयुर्वेदिक drops. Acidity door karke body ko alkaline banate hain.",
+    "what_is_it_hi": "Body ka pH level balance karne ke liye आयुर्वेदिक drops. Acidity door karke body ko alkaline banate hain.",
+    "works_for_mr": "pH balance, acidity neutralization, detox support, metabolism boost, acid reflux relief, digestion improvement, energy level enhancement, aur body alkalization ke liye effective hai.",
+    "works_for_hi": "pH balance, acidity neutralization, detox support, metabolism boost, acid reflux relief, digestion improvement, energy level enhancement, aur body alkalization ke liye effective hai.",
+    "health_benefits_mr": "Ye drops body ke acid levels ko neutralize karte hain, pH balance restore karte hain, digestion smooth karte hain, toxins eliminate karte hain, cells ko alkaline environment dete hain, aur overall metabolic health improve karte hain.",
+    "health_benefits_hi": "Ye drops body ke acid levels ko neutralize karte hain, pH balance restore karte hain, digestion smooth karte hain, toxins eliminate karte hain, cells ko alkaline environment dete hain, aur overall metabolic health improve karte hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Body ka pH level balance karne ",
+    "who_can_benefit_hi": "Body ka pH level balance karne ",
+    "benefits_mr": [
+      "pH balance support",
+      "Acidity control karta",
+      "Detox help milta",
+      "Digestion improve",
+      "ऊर्जा level boost",
+      "Daily wellness"
+    ],
+    "benefits_hi": [
+      "pH balance support",
+      "Acidity control karta",
+      "Detox help milta",
+      "Digestion improve",
+      "एनर्जी level boost",
+      "Daily wellness"
+    ],
+    "tags_mr": [
+      "#Alkalineथेंब",
+      "#डिटॉक्स",
+      "#pHBalance",
+      "#Healthकाळजी",
+      "#Acidityआराम"
+    ],
+    "tags_hi": [
+      "#Alkalineड्रॉप",
+      "#डिटॉक्स",
+      "#pHBalance",
+      "#Healthकेयर",
+      "#Acidityराहत"
+    ],
+    "diseases_treated_mr": [
+      "Acidity / Acid Reflux",
+      "Heartburn",
+      "GERD Support",
+      "Body pH Imbalance",
+      "Acidic Body Constitution",
+      "Toxin Accumulation",
+      "Poor Metabolism"
+    ],
+    "diseases_treated_hi": [
+      "Acidity / Acid Reflux",
+      "Heartburn",
+      "GERD Support",
+      "Body pH Imbalance",
+      "Acidic Body Constitution",
+      "Toxin Accumulation",
+      "Poor Metabolism"
+    ],
+    "symptoms_relief_mr": [
+      "Chest burning (seene mein jalan)",
+      "Acid reflux",
+      "Sour burps",
+      "Stomach acidity",
+      "Indigestion",
+      "Bloating",
+      "Nausea from acidity",
+      "Morning acidity"
+    ],
+    "symptoms_relief_hi": [
+      "Chest burning (seene mein jalan)",
+      "Acid reflux",
+      "Sour burps",
+      "Stomach acidity",
+      "Indigestion",
+      "Bloating",
+      "Nausea from acidity",
+      "Morning acidity"
+    ],
+    "target_conditions_mr": [
+      "Acidosis",
+      "GERD",
+      "Hyperacidity",
+      "Metabolic acidosis",
+      "Chronic acidity"
+    ],
+    "target_conditions_hi": [
+      "Acidosis",
+      "GERD",
+      "Hyperacidity",
+      "Metabolic acidosis",
+      "Chronic acidity"
+    ],
+    "body_parts_affected_mr": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "body_parts_affected_hi": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "composition_mr": "Contains Alkaline Minerals, Magnesium, Calcium, Potassium, Zinc and other herbs",
+    "composition_hi": "Contains Alkaline Minerals, Magnesium, Calcium, Potassium, Zinc and other herbs",
+    "package_contents_mr": "1 थेंब of Riyansh Alkaline थेंब (30ml) + User Guide",
+    "package_contents_hi": "1 ड्रॉप of Riyansh Alkaline ड्रॉप (30ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Alkaline थेंब - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Alkaline ड्रॉप - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Alkaline थेंब at 0% OFF. pH balance support AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Alkaline ड्रॉप at 0% OFF. pH balance support AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Acidity mein instant relief?",
+        "answer": "Haan, pani mein milake peene se fayda hota."
+      },
+      {
+        "question": "Kitni drops ek glass mein?",
+        "answer": "3-4 drops per glass pani mein."
+      },
+      {
+        "question": "Daily kitni baar lena hai?",
+        "answer": "Roz 2-3 baar, khaane se pehle best hai."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Acidity mein instant relief?",
+        "answer": "Haan, pani mein milake peene se fayda hota."
+      },
+      {
+        "question": "Kitni drops ek glass mein?",
+        "answer": "3-4 drops per glass pani mein."
+      },
+      {
+        "question": "Daily kitni baar lena hai?",
+        "answer": "Roz 2-3 baar, khaane se pehle best hai."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774964719562",
@@ -3048,7 +5960,189 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Gas, acidity, aur digestive problems ",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Digestive काळजी / Acidity आराम",
+    "sub_category_hi": "Digestive केयर / Acidity राहत",
+    "trigger_mr": "Gas, Acidity, Jalan Se Instant आराम! Pet Halka Karo 🔥🫃",
+    "trigger_hi": "Gas, Acidity, Jalan Se Instant राहत! Pet Halka Karo 🔥🫃",
+    "short_description_mr": "Gas, Acidity, Jalan Se Instant आराम! Pet Halka Karo 🔥🫃 Acidity relief fast, Gas reduce hota, Bloating kam hoti",
+    "short_description_hi": "Gas, Acidity, Jalan Se Instant राहत! Pet Halka Karo 🔥🫃 Acidity relief fast, Gas reduce hota, Bloating kam hoti",
+    "what_is_it_mr": "Gas, acidity, aur digestive problems ke liye fast-acting आयुर्वेदिक drops. Pet ki problems ko quickly relief dete hain.",
+    "what_is_it_hi": "Gas, acidity, aur digestive problems ke liye fast-acting आयुर्वेदिक drops. Pet ki problems ko quickly relief dete hain.",
+    "works_for_mr": "Quick acidity relief, gas expulsion, bloating reduction, stomach comfort, digestion improvement, heartburn relief, stomach pain relief, aur digestive wellness ke liye fast-acting solution hai.",
+    "works_for_hi": "Quick acidity relief, gas expulsion, bloating reduction, stomach comfort, digestion improvement, heartburn relief, stomach pain relief, aur digestive wellness ke liye fast-acting solution hai.",
+    "health_benefits_mr": "Ye drops quickly acidity neutralize karte hain, gas expel karte hain, bloating door karte hain, stomach lining soothe karte hain, digestion speed up karte hain, aur instant stomach comfort dete hain.",
+    "health_benefits_hi": "Ye drops quickly acidity neutralize karte hain, gas expel karte hain, bloating door karte hain, stomach lining soothe karte hain, digestion speed up karte hain, aur instant stomach comfort dete hain.",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Gas, acidity, aur digestive problems ",
+    "who_can_benefit_hi": "Gas, acidity, aur digestive problems ",
+    "benefits_mr": [
+      "Acidity relief fast",
+      "Gas reduce hota",
+      "Bloating kam hoti",
+      "Digestion improve",
+      "Gut health support",
+      "Daily comfort"
+    ],
+    "benefits_hi": [
+      "Acidity relief fast",
+      "Gas reduce hota",
+      "Bloating kam hoti",
+      "Digestion improve",
+      "Gut health support",
+      "Daily comfort"
+    ],
+    "tags_mr": [
+      "#Acidityआराम",
+      "#Digestiveकाळजी",
+      "#GasProblem",
+      "#GutHealth"
+    ],
+    "tags_hi": [
+      "#Acidityराहत",
+      "#Digestiveकेयर",
+      "#GasProblem",
+      "#GutHealth"
+    ],
+    "diseases_treated_mr": [
+      "Acidity",
+      "Gas / Flatulence",
+      "Indigestion",
+      "Bloating",
+      "Stomach Cramps",
+      "Nausea",
+      "Dyspepsia",
+      "Acid Reflux"
+    ],
+    "diseases_treated_hi": [
+      "Acidity",
+      "Gas / Flatulence",
+      "Indigestion",
+      "Bloating",
+      "Stomach Cramps",
+      "Nausea",
+      "Dyspepsia",
+      "Acid Reflux"
+    ],
+    "symptoms_relief_mr": [
+      "Gas trouble (gas ki problem)",
+      "Acidity",
+      "Stomach bloating (pet fulna)",
+      "Stomach pain",
+      "Indigestion (apach)",
+      "Burning in chest",
+      "Sour taste in mouth",
+      "Belching (dakar)"
+    ],
+    "symptoms_relief_hi": [
+      "Gas trouble (gas ki problem)",
+      "Acidity",
+      "Stomach bloating (pet fulna)",
+      "Stomach pain",
+      "Indigestion (apach)",
+      "Burning in chest",
+      "Sour taste in mouth",
+      "Belching (dakar)"
+    ],
+    "target_conditions_mr": [
+      "Dyspepsia",
+      "Flatulence",
+      "Gastritis",
+      "Acid reflux",
+      "Functional dyspepsia"
+    ],
+    "target_conditions_hi": [
+      "Dyspepsia",
+      "Flatulence",
+      "Gastritis",
+      "Acid reflux",
+      "Functional dyspepsia"
+    ],
+    "body_parts_affected_mr": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "body_parts_affected_hi": [
+      "Digestive System",
+      "Stomach"
+    ],
+    "composition_mr": "Contains Saunf, Jeera, Ajwain, Pudina, Lavang and other herbs",
+    "composition_hi": "Contains Saunf, Jeera, Ajwain, Pudina, Lavang and other herbs",
+    "package_contents_mr": "1 थेंब of Riyansh Acidity काळजी थेंब (30ml) + User Guide",
+    "package_contents_hi": "1 ड्रॉप of Riyansh Acidity केयर ड्रॉप (30ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Health काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Health केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh Acidity काळजी थेंब - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh Acidity केयर ड्रॉप - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh Acidity काळजी थेंब at 0% OFF. Acidity relief fast AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh Acidity केयर ड्रॉप at 0% OFF. Acidity relief fast AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "36 months",
+    "shelf_life_hi": "36 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [
+      {
+        "question": "Gas problem mein instant relief?",
+        "answer": "Haan, 5-10 minutes mein relief feel hoga."
+      },
+      {
+        "question": "Khana khane se pehle ya baad?",
+        "answer": "Dono time le sakte hain, heavy meal ke baad best."
+      },
+      {
+        "question": "Chai coffee ke saath le sakte?",
+        "answer": "Better hai paani ke saath hi lena."
+      }
+    ],
+    "faq_hi": [
+      {
+        "question": "Gas problem mein instant relief?",
+        "answer": "Haan, 5-10 minutes mein relief feel hoga."
+      },
+      {
+        "question": "Khana khane se pehle ya baad?",
+        "answer": "Dono time le sakte hain, heavy meal ke baad best."
+      },
+      {
+        "question": "Chai coffee ke saath le sakte?",
+        "answer": "Better hai paani ke saath hi lena."
+      }
+    ],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   },
   {
     "id": "prod_1774964944639",
@@ -3188,6 +6282,138 @@
     "effectiveness": "100% natural Ayurvedic formula, no side effects",
     "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
     "who_can_benefit": "Adults seeking wellness",
-    "focus": "disease_treatment"
+    "focus": "disease_treatment",
+    "sub_category_mr": "Face Wash / Facial Cleanser",
+    "sub_category_hi": "Face Wash / Facial Cleanser",
+    "trigger_mr": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨",
+    "trigger_hi": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨",
+    "short_description_mr": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨ Deep face cleanse, Dead skin remove, नैसर्गिक glow milta",
+    "short_description_hi": "Clean + Scrub + Glow = 3 in 1 Face Wash! 💆‍♀️✨ Deep face cleanse, Dead skin remove, नैचुरल glow milta",
+    "what_is_it_mr": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) ek आयुर्वेदिक health product hai jo natural herbs se bana hai.",
+    "what_is_it_hi": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) ek आयुर्वेदिक health product hai jo natural herbs se bana hai.",
+    "works_for_mr": "General wellness ke liye effective hai.",
+    "works_for_hi": "General wellness ke liye effective hai.",
+    "health_benefits_mr": "Get triple action skincare with Riyansh 3 in 1 Face Wash! This multi-benefit formula cleanses deeply, exfoliates gently, and adds a natural glow to your skin. Perfect for daily use and all skin types. Your complete facial care solution! 💆‍♀️🌟",
+    "health_benefits_hi": "Get triple action skincare with Riyansh 3 in 1 Face Wash! This multi-benefit formula cleanses deeply, exfoliates gently, and adds a natural glow to your skin. Perfect for daily use and all skin types. Your complete facial care solution! 💆‍♀️🌟",
+    "treatment_duration_mr": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "Regular use for 2-3 months recommended",
+    "when_to_expect_results_mr": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "who_can_benefit_mr": "Adults seeking wellness",
+    "who_can_benefit_hi": "Adults seeking wellness",
+    "benefits_mr": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "नैसर्गिक glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "benefits_hi": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "नैचुरल glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "tags_mr": [
+      "#Skinकाळजी",
+      "#GlowSkin",
+      "#FaceWash",
+      "#Scrub",
+      "#Cleanser"
+    ],
+    "tags_hi": [
+      "#Skinकेयर",
+      "#GlowSkin",
+      "#FaceWash",
+      "#Scrub",
+      "#Cleanser"
+    ],
+    "diseases_treated_mr": [
+      "Face Wash / Facial Cleanser"
+    ],
+    "diseases_treated_hi": [
+      "Face Wash / Facial Cleanser"
+    ],
+    "symptoms_relief_mr": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "नैसर्गिक glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "symptoms_relief_hi": [
+      "Deep face cleanse",
+      "Dead skin remove",
+      "नैचुरल glow milta",
+      "Fresh smooth skin",
+      "Daily use suitable",
+      "All skin types"
+    ],
+    "target_conditions_mr": [
+      "Skin काळजी"
+    ],
+    "target_conditions_hi": [
+      "Skin केयर"
+    ],
+    "body_parts_affected_mr": [
+      "Skin",
+      "Face"
+    ],
+    "body_parts_affected_hi": [
+      "Skin",
+      "Face"
+    ],
+    "composition_mr": "100% नैसर्गिक आयुर्वेदिक Formula",
+    "composition_hi": "100% नैचुरल आयुर्वेदिक Formula",
+    "package_contents_mr": "1 Face Wash of Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) (100ml) + User Guide",
+    "package_contents_hi": "1 Face Wash of Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) (100ml) + User Guide",
+    "storage_instructions_mr": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "Cool and dry place, away from direct sunlight",
+    "who_should_use_mr": "Adults above 18 years, people seeking Skin काळजी solutions",
+    "who_should_use_hi": "Adults above 18 years, people seeking Skin केयर solutions",
+    "who_should_not_use_mr": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "who_should_not_use_hi": "Pregnant/lactating women without doctor advice, children below 5 years, severe medical conditions",
+    "precautions_mr": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "side_effects_mr": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "No known side effects. 100% natural formulation.",
+    "warnings_mr": "Keep out of reach of children. Store properly.",
+    "warnings_hi": "Keep out of reach of children. Store properly.",
+    "seo_title_mr": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) - Buy Online at Best किंमत | Riyansh Ayurveda",
+    "seo_title_hi": "Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) - Buy Online at Best प्राइस | Riyansh Ayurveda",
+    "seo_description_mr": "Buy Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) at 0% OFF. Deep face cleanse AYUSH प्रमाणित, 100% नैसर्गिक. मोफत शिपिंग!",
+    "seo_description_hi": "Buy Riyansh 3 in 1 Face Wash (Cleanser + Scrub + Glow Face Wash) at 0% OFF. Deep face cleanse AYUSH सर्टिफाइड, 100% नैचुरल. फ्री शिपिंग!",
+    "shelf_life_mr": "24 months",
+    "shelf_life_hi": "24 months",
+    "availability_mr": "स्टॉकमध्ये",
+    "availability_hi": "स्टॉक में",
+    "return_policy_mr": "7 दिवस Easy Return",
+    "return_policy_hi": "7 दिन Easy Return",
+    "delivery_time_mr": "2-5 Business दिवस",
+    "delivery_time_hi": "2-5 Business दिन",
+    "effectiveness_mr": "100% natural आयुर्वेदिक formula, no side effects",
+    "effectiveness_hi": "100% natural आयुर्वेदिक formula, no side effects",
+    "faq_mr": [],
+    "faq_hi": [],
+    "certifications_mr": [
+      "AYUSH प्रमाणित",
+      "GMP प्रमाणित",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैसर्गिक",
+      "No दुष्परिणाम"
+    ],
+    "certifications_hi": [
+      "AYUSH सर्टिफाइड",
+      "GMP सर्टिफाइड",
+      "ISO 9001:2015",
+      "FSSAI Approved",
+      "100% नैचुरल",
+      "No साइड इफेक्ट्स"
+    ]
   }
 ]

@@ -3,198 +3,452 @@
     {
       "id": "compare_immunity",
       "title": "Immunity Boosters Comparison",
-      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "products": [
+        "prod_1774958390504",
+        "prod_1774960680020"
+      ],
       "criteria": [
         {
           "feature": "Form",
           "prod_1774958390504": "Juice (Liquid)",
-          "prod_1774960680020": "Capsule"
+          "prod_1774960680020": "Capsule",
+          "feature_mr": "Form",
+          "feature_hi": "Form",
+          "prod_1774958390504_mr": "रस (Liquid)",
+          "prod_1774958390504_hi": "जूस (Liquid)",
+          "prod_1774960680020_mr": "कॅप्सूल",
+          "prod_1774960680020_hi": "कैप्सूल"
         },
         {
           "feature": "Convenience",
           "prod_1774958390504": "Daily 30ml drink",
-          "prod_1774960680020": "Easy to carry, travel friendly"
+          "prod_1774960680020": "Easy to carry, travel friendly",
+          "feature_mr": "Convenience",
+          "feature_hi": "Convenience",
+          "prod_1774958390504_mr": "Daily 30ml drink",
+          "prod_1774958390504_hi": "Daily 30ml drink",
+          "prod_1774960680020_mr": "Easy to carry, travel friendly",
+          "prod_1774960680020_hi": "Easy to carry, travel friendly"
         },
         {
           "feature": "Absorption",
           "prod_1774958390504": "Fast liquid absorption",
-          "prod_1774960680020": "Slower but sustained release"
+          "prod_1774960680020": "Slower but sustained release",
+          "feature_mr": "Absorption",
+          "feature_hi": "Absorption",
+          "prod_1774958390504_mr": "Fast liquid absorption",
+          "prod_1774958390504_hi": "Fast liquid absorption",
+          "prod_1774960680020_mr": "Slower but sustained release",
+          "prod_1774960680020_hi": "Slower but sustained release"
         },
         {
           "feature": "Best For",
           "prod_1774958390504": "Home use, quick absorption",
-          "prod_1774960680020": "Travel, office, busy lifestyle"
+          "prod_1774960680020": "Travel, office, busy lifestyle",
+          "feature_mr": "सर्वोत्तम",
+          "feature_hi": "बेस्ट फॉर",
+          "prod_1774958390504_mr": "Home use, quick absorption",
+          "prod_1774958390504_hi": "Home use, quick absorption",
+          "prod_1774960680020_mr": "Travel, office, busy lifestyle",
+          "prod_1774960680020_hi": "Travel, office, busy lifestyle"
         },
         {
           "feature": "Price",
           "prod_1774958390504": "₹1500",
-          "prod_1774960680020": "₹1500"
+          "prod_1774960680020": "₹1500",
+          "feature_mr": "किंमत",
+          "feature_hi": "प्राइस",
+          "prod_1774958390504_mr": "₹1500",
+          "prod_1774958390504_hi": "₹1500",
+          "prod_1774960680020_mr": "₹1500",
+          "prod_1774960680020_hi": "₹1500"
         }
       ],
-      "winner": "Depends on lifestyle - Juice for home, Capsules for travel"
+      "winner": "Depends on lifestyle - Juice for home, Capsules for travel",
+      "title_mr": "Immunity Boosters Comparison",
+      "title_hi": "Immunity Boosters Comparison",
+      "winner_mr": "Depends on lifestyle - रस for home, कॅप्सूलs for travel",
+      "winner_hi": "Depends on lifestyle - जूस for home, कैप्सूलs for travel"
     },
     {
       "id": "compare_power_boosters",
       "title": "Power Booster vs Power Booster Plus",
-      "products": ["prod_1774959746488", "prod_1774960095539"],
+      "products": [
+        "prod_1774959746488",
+        "prod_1774960095539"
+      ],
       "criteria": [
         {
           "feature": "Strength",
           "prod_1774959746488": "Standard Power",
-          "prod_1774960095539": "Double Power (Advanced)"
+          "prod_1774960095539": "Double Power (Advanced)",
+          "feature_mr": "ताकद",
+          "feature_hi": "ताकत",
+          "prod_1774959746488_mr": "Standard शक्ती",
+          "prod_1774959746488_hi": "Standard पावर",
+          "prod_1774960095539_mr": "Double शक्ती (Advanced)",
+          "prod_1774960095539_hi": "Double पावर (Advanced)"
         },
         {
           "feature": "Best For",
           "prod_1774959746488": "General fatigue, daily energy",
-          "prod_1774960095539": "Extreme weakness, athletes, heavy work"
+          "prod_1774960095539": "Extreme weakness, athletes, heavy work",
+          "feature_mr": "सर्वोत्तम",
+          "feature_hi": "बेस्ट फॉर",
+          "prod_1774959746488_mr": "General fatigue, daily energy",
+          "prod_1774959746488_hi": "General fatigue, daily energy",
+          "prod_1774960095539_mr": "Extreme weakness, athletes, heavy work",
+          "prod_1774960095539_hi": "Extreme weakness, athletes, heavy work"
         },
         {
           "feature": "Dosage",
           "prod_1774959746488": "Juice form",
-          "prod_1774960095539": "4 capsules daily"
+          "prod_1774960095539": "4 capsules daily",
+          "feature_mr": "Dosage",
+          "feature_hi": "Dosage",
+          "prod_1774959746488_mr": "रस form",
+          "prod_1774959746488_hi": "जूस form",
+          "prod_1774960095539_mr": "4 capsules daily",
+          "prod_1774960095539_hi": "4 capsules daily"
         },
         {
           "feature": "Results Speed",
           "prod_1774959746488": "3-7 days",
-          "prod_1774960095539": "5-10 days for major improvement"
+          "prod_1774960095539": "5-10 days for major improvement",
+          "feature_mr": "परिणाम Speed",
+          "feature_hi": "रिजल्ट्स Speed",
+          "prod_1774959746488_mr": "3-7 days",
+          "prod_1774959746488_hi": "3-7 days",
+          "prod_1774960095539_mr": "5-10 days for major improvement",
+          "prod_1774960095539_hi": "5-10 days for major improvement"
         },
         {
           "feature": "Price",
           "prod_1774959746488": "₹1500",
-          "prod_1774960095539": "₹1500"
+          "prod_1774960095539": "₹1500",
+          "feature_mr": "किंमत",
+          "feature_hi": "प्राइस",
+          "prod_1774959746488_mr": "₹1500",
+          "prod_1774959746488_hi": "₹1500",
+          "prod_1774960095539_mr": "₹1500",
+          "prod_1774960095539_hi": "₹1500"
         }
       ],
-      "winner": "Power Booster Plus for serious issues, Regular for maintenance"
+      "winner": "Power Booster Plus for serious issues, Regular for maintenance",
+      "title_mr": "शक्ती Booster vs शक्ती Booster Plus",
+      "title_hi": "पावर Booster vs पावर Booster Plus",
+      "winner_mr": "शक्ती Booster Plus for serious issues, Regular for maintenance",
+      "winner_hi": "पावर Booster Plus for serious issues, Regular for maintenance"
     },
     {
       "id": "compare_diabetes_solutions",
       "title": "Diabetes Care Products",
-      "products": ["prod_1774958999897", "prod_1774964406549"],
+      "products": [
+        "prod_1774958999897",
+        "prod_1774964406549"
+      ],
       "criteria": [
         {
           "feature": "Primary Function",
           "prod_1774958999897": "Blood sugar control",
-          "prod_1774964406549": "pH balance, acidity control"
+          "prod_1774964406549": "pH balance, acidity control",
+          "feature_mr": "Primary Function",
+          "feature_hi": "Primary Function",
+          "prod_1774958999897_mr": "Blood sugar control",
+          "prod_1774958999897_hi": "Blood sugar control",
+          "prod_1774964406549_mr": "pH balance, acidity control",
+          "prod_1774964406549_hi": "pH balance, acidity control"
         },
         {
           "feature": "Works On",
           "prod_1774958999897": "Pancreas, Insulin sensitivity",
-          "prod_1774964406549": "Stomach acidity, Body pH"
+          "prod_1774964406549": "Stomach acidity, Body pH",
+          "feature_mr": "Works On",
+          "feature_hi": "Works On",
+          "prod_1774958999897_mr": "Pancreas, Insulin sensitivity",
+          "prod_1774958999897_hi": "Pancreas, Insulin sensitivity",
+          "prod_1774964406549_mr": "Stomach acidity, Body pH",
+          "prod_1774964406549_hi": "Stomach acidity, Body pH"
         },
         {
           "feature": "Best Time",
           "prod_1774958999897": "After meals",
-          "prod_1774964406549": "Before meals"
+          "prod_1774964406549": "Before meals",
+          "feature_mr": "Best Time",
+          "feature_hi": "Best Time",
+          "prod_1774958999897_mr": "After meals",
+          "prod_1774958999897_hi": "After meals",
+          "prod_1774964406549_mr": "Before meals",
+          "prod_1774964406549_hi": "Before meals"
         },
         {
           "feature": "Use Together?",
-          "comparison_note": "Yes! Best results when used together"
+          "comparison_note": "Yes! Best results when used together",
+          "feature_mr": "Use Together?",
+          "feature_hi": "Use Together?",
+          "comparison_note_mr": "Yes! Best results when used together",
+          "comparison_note_hi": "Yes! Best results when used together"
         },
         {
           "feature": "Price",
           "prod_1774958999897": "₹1500",
-          "prod_1774964406549": "₹699"
+          "prod_1774964406549": "₹699",
+          "feature_mr": "किंमत",
+          "feature_hi": "प्राइस",
+          "prod_1774958999897_mr": "₹1500",
+          "prod_1774958999897_hi": "₹1500",
+          "prod_1774964406549_mr": "₹699",
+          "prod_1774964406549_hi": "₹699"
         }
       ],
-      "winner": "Use both together for complete diabetes care"
+      "winner": "Use both together for complete diabetes care",
+      "title_mr": "Diabetes काळजी Products",
+      "title_hi": "Diabetes केयर Products",
+      "winner_mr": "Use both together for complete diabetes care",
+      "winner_hi": "Use both together for complete diabetes care"
     },
     {
       "id": "compare_pain_relief",
       "title": "Joint Pain Solutions",
-      "products": ["prod_1774959377444", "prod_1774963918764"],
+      "products": [
+        "prod_1774959377444",
+        "prod_1774963918764"
+      ],
       "criteria": [
         {
           "feature": "Type",
           "prod_1774959377444": "Internal (Juice)",
-          "prod_1774963918764": "External (Oil)"
+          "prod_1774963918764": "External (Oil)",
+          "feature_mr": "Type",
+          "feature_hi": "Type",
+          "prod_1774959377444_mr": "Internal (रस)",
+          "prod_1774959377444_hi": "Internal (जूस)",
+          "prod_1774963918764_mr": "External (तेल)",
+          "prod_1774963918764_hi": "External (तेल)"
         },
         {
           "feature": "Action",
           "prod_1774959377444": "Strengthens from inside",
-          "prod_1774963918764": "Instant pain relief on application"
+          "prod_1774963918764": "Instant pain relief on application",
+          "feature_mr": "Action",
+          "feature_hi": "Action",
+          "prod_1774959377444_mr": "ताकदens from inside",
+          "prod_1774959377444_hi": "ताकतens from inside",
+          "prod_1774963918764_mr": "Instant pain relief on application",
+          "prod_1774963918764_hi": "Instant pain relief on application"
         },
         {
           "feature": "Best For",
           "prod_1774959377444": "Chronic joint issues, long-term healing",
-          "prod_1774963918764": "Immediate pain, muscle stiffness"
+          "prod_1774963918764": "Immediate pain, muscle stiffness",
+          "feature_mr": "सर्वोत्तम",
+          "feature_hi": "बेस्ट फॉर",
+          "prod_1774959377444_mr": "Chronic joint issues, long-term healing",
+          "prod_1774959377444_hi": "Chronic joint issues, long-term healing",
+          "prod_1774963918764_mr": "Immediate pain, muscle stiffness",
+          "prod_1774963918764_hi": "Immediate pain, muscle stiffness"
         },
         {
           "feature": "Usage",
           "prod_1774959377444": "Daily oral consumption",
-          "prod_1774963918764": "Massage on affected area"
+          "prod_1774963918764": "Massage on affected area",
+          "feature_mr": "वापर",
+          "feature_hi": "उपयोग",
+          "prod_1774959377444_mr": "Daily oral consumption",
+          "prod_1774959377444_hi": "Daily oral consumption",
+          "prod_1774963918764_mr": "Massage on affected area",
+          "prod_1774963918764_hi": "Massage on affected area"
         },
         {
           "feature": "Price",
           "prod_1774959377444": "₹1500",
-          "prod_1774963918764": "₹499"
+          "prod_1774963918764": "₹499",
+          "feature_mr": "किंमत",
+          "feature_hi": "प्राइस",
+          "prod_1774959377444_mr": "₹1500",
+          "prod_1774959377444_hi": "₹1500",
+          "prod_1774963918764_mr": "₹499",
+          "prod_1774963918764_hi": "₹499"
         }
       ],
-      "winner": "Use both for inside-outside complete treatment"
+      "winner": "Use both for inside-outside complete treatment",
+      "title_mr": "Joint वेदना Solutions",
+      "title_hi": "Joint दर्द Solutions",
+      "winner_mr": "Use both for inside-outside complete treatment",
+      "winner_hi": "Use both for inside-outside complete treatment"
     },
     {
       "id": "compare_skin_care",
       "title": "Skin Care Soaps",
-      "products": ["prod_1774963256860", "prod_1774963534464"],
+      "products": [
+        "prod_1774963256860",
+        "prod_1774963534464"
+      ],
       "criteria": [
         {
           "feature": "Key Ingredients",
           "prod_1774963256860": "Neem, Tulsi, Aloe Vera",
-          "prod_1774963534464": "Rose Petals, Milk"
+          "prod_1774963534464": "Rose Petals, Milk",
+          "feature_mr": "Key साहित्य",
+          "feature_hi": "Key इंग्रेडिएंट्स",
+          "prod_1774963256860_mr": "Neem, Tulsi, Aloe Vera",
+          "prod_1774963256860_hi": "Neem, Tulsi, Aloe Vera",
+          "prod_1774963534464_mr": "Rose Petals, Milk",
+          "prod_1774963534464_hi": "Rose Petals, Milk"
         },
         {
           "feature": "Best For Skin Type",
           "prod_1774963256860": "Oily, Acne-prone, Infected skin",
-          "prod_1774963534464": "Dry, Sensitive, Normal skin"
+          "prod_1774963534464": "Dry, Sensitive, Normal skin",
+          "feature_mr": "सर्वोत्तम Skin Type",
+          "feature_hi": "बेस्ट फॉर Skin Type",
+          "prod_1774963256860_mr": "तेलy, Acne-prone, Infected skin",
+          "prod_1774963256860_hi": "तेलy, Acne-prone, Infected skin",
+          "prod_1774963534464_mr": "Dry, Sensitive, Normal skin",
+          "prod_1774963534464_hi": "Dry, Sensitive, Normal skin"
         },
         {
           "feature": "Primary Benefit",
           "prod_1774963256860": "Anti-bacterial, Pimple control",
-          "prod_1774963534464": "Moisturizing, Softening"
+          "prod_1774963534464": "Moisturizing, Softening",
+          "feature_mr": "Primary Benefit",
+          "feature_hi": "Primary Benefit",
+          "prod_1774963256860_mr": "Anti-bacterial, Pimple control",
+          "prod_1774963256860_hi": "Anti-bacterial, Pimple control",
+          "prod_1774963534464_mr": "Moisturizing, Softening",
+          "prod_1774963534464_hi": "Moisturizing, Softening"
         },
         {
           "feature": "Fragrance",
           "prod_1774963256860": "Herbal, Medicinal",
-          "prod_1774963534464": "Rose, Sweet"
+          "prod_1774963534464": "Rose, Sweet",
+          "feature_mr": "Fragrance",
+          "feature_hi": "Fragrance",
+          "prod_1774963256860_mr": "हर्बल, Medicinal",
+          "prod_1774963256860_hi": "हर्बल, Medicinal",
+          "prod_1774963534464_mr": "Rose, Sweet",
+          "prod_1774963534464_hi": "Rose, Sweet"
         },
         {
           "feature": "Price",
           "prod_1774963256860": "₹69",
-          "prod_1774963534464": "₹69"
+          "prod_1774963534464": "₹69",
+          "feature_mr": "किंमत",
+          "feature_hi": "प्राइस",
+          "prod_1774963256860_mr": "₹69",
+          "prod_1774963256860_hi": "₹69",
+          "prod_1774963534464_mr": "₹69",
+          "prod_1774963534464_hi": "₹69"
         }
       ],
-      "winner": "Neem for oily/acne skin, Rose for dry/normal skin"
+      "winner": "Neem for oily/acne skin, Rose for dry/normal skin",
+      "title_mr": "Skin काळजी साबणs",
+      "title_hi": "Skin केयर साबुनs",
+      "winner_mr": "Neem for oily/acne skin, Rose for dry/normal skin",
+      "winner_hi": "Neem for oily/acne skin, Rose for dry/normal skin"
     }
   ],
   "recommendations": {
     "by_age": {
-      "18-30": ["prod_1774958390504", "prod_1774964944639", "prod_1774963256860"],
-      "30-45": ["prod_1774958999897", "prod_1774959746488", "prod_1774961023248"],
-      "45-60": ["prod_1774959377444", "prod_1774962060395", "prod_1774960680020"],
-      "60+": ["prod_1774959377444", "prod_1774963918764", "prod_1774961360092"]
+      "18-30": [
+        "prod_1774958390504",
+        "prod_1774964944639",
+        "prod_1774963256860"
+      ],
+      "30-45": [
+        "prod_1774958999897",
+        "prod_1774959746488",
+        "prod_1774961023248"
+      ],
+      "45-60": [
+        "prod_1774959377444",
+        "prod_1774962060395",
+        "prod_1774960680020"
+      ],
+      "60+": [
+        "prod_1774959377444",
+        "prod_1774963918764",
+        "prod_1774961360092"
+      ]
     },
     "by_lifestyle": {
-      "office_worker": ["prod_1774959746488", "prod_1774961360092", "prod_1774964719562"],
-      "athlete": ["prod_1774960095539", "prod_1774959746488", "prod_1774963918764"],
-      "housewife": ["prod_1774962060395", "prod_1774958390504", "prod_1774963534464"],
-      "senior_citizen": ["prod_1774959377444", "prod_1774960680020", "prod_1774961360092"],
-      "student": ["prod_1774958390504", "prod_1774964944639", "prod_1774961360092"]
+      "office_worker": [
+        "prod_1774959746488",
+        "prod_1774961360092",
+        "prod_1774964719562"
+      ],
+      "athlete": [
+        "prod_1774960095539",
+        "prod_1774959746488",
+        "prod_1774963918764"
+      ],
+      "housewife": [
+        "prod_1774962060395",
+        "prod_1774958390504",
+        "prod_1774963534464"
+      ],
+      "senior_citizen": [
+        "prod_1774959377444",
+        "prod_1774960680020",
+        "prod_1774961360092"
+      ],
+      "student": [
+        "prod_1774958390504",
+        "prod_1774964944639",
+        "prod_1774961360092"
+      ]
     },
     "by_season": {
-      "summer": ["prod_1774963534464", "prod_1774964406549", "prod_1774961360092"],
-      "winter": ["prod_1774963918764", "prod_1774963256860", "prod_1774961023248"],
-      "monsoon": ["prod_1774963256860", "prod_1774958390504", "prod_1774964944639"]
+      "summer": [
+        "prod_1774963534464",
+        "prod_1774964406549",
+        "prod_1774961360092"
+      ],
+      "winter": [
+        "prod_1774963918764",
+        "prod_1774963256860",
+        "prod_1774961023248"
+      ],
+      "monsoon": [
+        "prod_1774963256860",
+        "prod_1774958390504",
+        "prod_1774964944639"
+      ]
     },
     "by_budget": {
-      "under_500": ["prod_1774963256860", "prod_1774963534464", "prod_1774961360092", "prod_1774961712495"],
-      "500-1000": ["prod_1774963918764", "prod_1774964719562", "prod_1774964406549", "prod_1774964944639"],
-      "1000-2000": ["prod_1774958390504", "prod_1774958999897", "prod_1774959377444", "prod_1774959746488"],
-      "premium": ["prod_1774960680020", "prod_1774960095539", "prod_1774962060395", "prod_1774962544309"]
+      "under_500": [
+        "prod_1774963256860",
+        "prod_1774963534464",
+        "prod_1774961360092",
+        "prod_1774961712495"
+      ],
+      "500-1000": [
+        "prod_1774963918764",
+        "prod_1774964719562",
+        "prod_1774964406549",
+        "prod_1774964944639"
+      ],
+      "1000-2000": [
+        "prod_1774958390504",
+        "prod_1774958999897",
+        "prod_1774959377444",
+        "prod_1774959746488"
+      ],
+      "premium": [
+        "prod_1774960680020",
+        "prod_1774960095539",
+        "prod_1774962060395",
+        "prod_1774962544309"
+      ]
     }
   },
   "quick_guides": {
     "for_beginners": {
       "title": "🌱 Ayurveda First-Timers",
-      "recommended": ["prod_1774958390504", "prod_1774963256860"],
+      "recommended": [
+        "prod_1774958390504",
+        "prod_1774963256860"
+      ],
       "tips": [
         "Start with Amrit Juice for overall health",
         "Use herbal soaps for daily care",
@@ -204,7 +458,11 @@
     },
     "for_chronic_issues": {
       "title": "🏥 Long-term Health Issues",
-      "recommended": ["prod_1774958999897", "prod_1774959377444", "prod_1774962544309"],
+      "recommended": [
+        "prod_1774958999897",
+        "prod_1774959377444",
+        "prod_1774962544309"
+      ],
       "tips": [
         "Use specific products for your condition",
         "Don't skip doses",
@@ -214,7 +472,11 @@
     },
     "for_wellness": {
       "title": "💪 Health Maintenance",
-      "recommended": ["prod_1774958390504", "prod_1774959746488", "prod_1774961023248"],
+      "recommended": [
+        "prod_1774958390504",
+        "prod_1774959746488",
+        "prod_1774961023248"
+      ],
       "tips": [
         "Amrit Juice for immunity",
         "Power Booster for energy",
