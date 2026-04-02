@@ -67,7 +67,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       console.log('✅ Validation passed');
       console.log('💾 Reading existing orders...');
       
-      let orders;
+      let orders: any[];
       try {
         orders = await readData('orders.json');
         console.log(`📊 Found ${orders.length} existing orders`);
