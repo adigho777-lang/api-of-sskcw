@@ -26,6 +26,48 @@ Complete guide to all API endpoints, their parameters, and response formats.
 
 ---
 
+## 🌐 Multilingual Support
+
+All API responses now support **3 languages**:
+- 🇬🇧 **English** (EN) - Default
+- 🇮🇳 **Hindi** (HI)
+- 🇮🇳 **Marathi** (MR)
+
+### Translation Fields Pattern
+Every translatable field has 3 versions:
+- `{field}` - English (default)
+- `{field}_hi` - Hindi
+- `{field}_mr` - Marathi
+
+### Example:
+```json
+{
+  "title": "Riyansh Amrit Juice",
+  "title_hi": "रियांश अमृत जूस",
+  "title_mr": "रियांश अमृत जूस",
+  "description_en": "Boosts immunity and energy...",
+  "description_hi": "रोगप्रतिकारक शक्ति और ऊर्जा बढ़ाता है...",
+  "description_mr": "रोगप्रतिकारक शक्ती आणि ऊर्जा वाढवते...",
+  "benefits": ["Immunity boost", "Energy increase"],
+  "benefits_hi": ["इम्यूनिटी बूस्ट", "एनर्जी बढ़ाना"],
+  "benefits_mr": ["रोगप्रतिकारक शक्ती वाढ", "ऊर्जा वाढ"]
+}
+```
+
+### Translated Fields Available:
+| Field Category | Fields |
+|----------------|--------|
+| **Basic Info** | title, category, sub_category |
+| **Content** | description, trigger, short_description, what_is_it, works_for |
+| **Health** | diseases_treated, symptoms_relief, target_conditions, body_parts_affected, health_benefits |
+| **Usage** | treatment_duration, when_to_expect_results, who_can_benefit, who_should_use, who_should_not_use, precautions, side_effects, warnings |
+| **Product Details** | benefits, ingredients, composition, package_contents, storage_instructions, shelf_life |
+| **Marketing** | tags, certifications, seo_title, seo_description |
+| **Support** | availability, return_policy, delivery_time, effectiveness |
+| **FAQ** | faq (question, answer) |
+
+---
+
 ## 📋 Detailed Endpoint Documentation
 
 ### 1. 🏠 Root API - Health Check
@@ -204,29 +246,131 @@ GET /api/products/prod_1774958390504
   "timestamp": "2024-01-01T12:00:00.000Z",
   "product": {
     "product_id": "prod_1774958390504",
+    
+    // Basic Info with Translations
     "title": "Riyansh Amrit Juice",
+    "title_hi": "रियांश अमृत जूस",
+    "title_mr": "रियांश अमृत जूस",
+    "category": "Health Care",
+    "category_hi": "स्वास्थ्य देखभाल",
+    "category_mr": "आरोग्य सेवा",
+    "sub_category": "Immunity Booster / Full Body Wellness",
+    "sub_category_hi": "इम्यूनिटी बूस्टर / फुल बॉडी वेलनेस",
+    "sub_category_mr": "रोगप्रतिकारक शक्ती वाढवणे / पूर्ण शरीर निरोगीपणा",
+    
+    // Images
     "thumbnail": "https://example.com/image.jpg",
+    "gallery_images": ["..."],
+    
+    // Pricing
     "price": 1500,
     "original_price": 1850,
     "discount_price": 1500,
     "discount_percent": 19,
-    "category": "Health Care",
-    "sub_category": "Immunity Booster / Full Body Wellness",
-    "trigger": "Har bimari ka ek hi solution – Natural Ayurvedic Amrit Juice!",
-    "description_en": "Riyansh Amrit Juice is a 100% Ayurvedic herbal health drink...",
-    "description_mr": "Riyansh Amrit Juice हे 42 औषधी वनस्पतींपासून बनवलेले...",
-    "benefits": [
-      "Immunity boost",
-      "Digestion improve",
-      "Body detox",
-      "Energy level"
-    ],
-    "tags": ["#ImmunityBooster", "#FullBodyWellness"],
+    
+    // Content with Translations
+    "trigger": "42 Herbs se bana Full Body Power Juice! 💪🔥",
+    "trigger_hi": "42 जड़ी-बूटियों से बना फुल बॉडी पावर जूस! 💪🔥",
+    "trigger_mr": "42 औषधी वनस्पतींपासून बनवलेला पूर्ण शरीर पावर रस! 💪🔥",
+    "short_description": "42 Herbs se bana Full Body Power Juice! Immunity boost karata...",
+    "short_description_hi": "42 जड़ी-बूटियों से बना फुल बॉडी पावर जूस! इम्यूनिटी बढ़ाता है...",
+    "short_description_mr": "42 औषधी वनस्पतींपासून बनवलेला पूर्ण शरीर पावर रस! रोगप्रतिकारक शक्ती वाढवतो...",
+    
+    // Descriptions with Translations
+    "description_en": "Unlock the power of 42 Ayurvedic herbs with Riyansh Amrit Juice!...",
+    "description_hi": "42 आयुर्वेदिक जड़ी-बूटियों की शक्ति प्राप्त करें! यह रस इम्यूनिटी बढ़ाता है...",
+    "description_mr": "42 आयुर्वेदिक औषधी वनस्पतींचे सामर्थ्य अनलॉक करा! हे रस शरीराची रोगप्रतिकारक शक्ती वाढवते...",
+    
+    // Disease-Focused Fields with Translations
+    "what_is_it": "Ek powerful Ayurvedic health juice jo 42 natural herbs se bana hai...",
+    "what_is_it_hi": "एक शक्तिशाली आयुर्वेदिक हेल्थ जूस जो 42 नेचुरल जड़ी-बूटियों से बना है...",
+    "what_is_it_mr": "एक शक्तिशाली आयुर्वेदिक हेल्थ रस जो 42 नैसर्गिक औषधी वनस्पतींपासून बनवलेला आहे...",
+    "diseases_treated": ["Low Immunity", "Body Detoxification", "Poor Digestion"],
+    "diseases_treated_hi": ["कम इम्यूनिटी", "बॉडी डिटॉक्सिफिकेशन", "खराब पाचन"],
+    "diseases_treated_mr": ["कमी रोगप्रतिकारक शक्ती", "शरीर डिटॉक्स", "खराब पचन"],
+    "symptoms_relief": ["Thakan aur kamzori", "Bar bar bimar padna", "Skin infection"],
+    "symptoms_relief_hi": ["थकान और कमजोरी", "बार बार बीमार पड़ना", "स्किन इंफेक्शन"],
+    "symptoms_relief_mr": ["थकवा आणि अशक्तता", "वारंवार आजार पडणे", "त्वचा इंफेक्शन"],
+    "works_for": "Immunity boosting, body detox, digestion improvement...",
+    "works_for_hi": "इम्यूनिटी बूस्टिंग, बॉडी डिटॉक्स, पाचन सुधार...",
+    "works_for_mr": "रोगप्रतिकारक शक्ती वाढ, शरीर डिटॉक्स, पचन सुधार...",
+    "target_conditions": ["Immunity disorders", "Digestive issues", "Chronic fatigue"],
+    "target_conditions_hi": ["इम्यूनिटी डिसऑर्डर", "पाचन समस्याएं", "क्रोनिक थकान"],
+    "target_conditions_mr": ["रोगप्रतिकारक समस्या", "पचन समस्या", "क्रोनिक थकवा"],
+    "health_benefits": "Ye juice aapki body ki natural defense system ko strong karta hai...",
+    "health_benefits_hi": "यह जूस आपकी बॉडी की नेचुरल डिफेंस सिस्टम को स्ट्रॉंग करता है...",
+    "health_benefits_mr": "हे रस तुमच्या शरीराच्या नैसर्गिक संरक्षण प्रणालीला मजबूत करतो...",
+    "body_parts_affected": ["Immune System", "Full Body", "Digestive System"],
+    "body_parts_affected_hi": ["इम्यून सिस्टम", "पूरी बॉडी", "पाचन तंत्र"],
+    "body_parts_affected_mr": ["रोगप्रतिकारक प्रणाली", "पूर्ण शरीर", "पचन प्रणाली"],
+    "treatment_duration": "Regular use for 2-3 months recommended",
+    "treatment_duration_hi": "2-3 महीने नियमित उपयोग की सिफारिश",
+    "treatment_duration_mr": "2-3 महिने नियमित वापराची शिफारस",
+    "when_to_expect_results": "2-4 weeks mein relief start, 2-3 months for full benefits",
+    "when_to_expect_results_hi": "2-4 हफ्तों में राहत शुरू, पूरी तरह 2-3 महीने में",
+    "when_to_expect_results_mr": "2-4 आठवड्यांत आराम सुरू, पूर्ण फायदे 2-3 महिन्यात",
+    
+    // Product Details with Translations
+    "benefits": ["Immunity boost karata", "Full body detox support", "Digestion improve hota"],
+    "benefits_hi": ["इम्यूनिटी बूस्ट करता है", "फुल बॉडी डिटॉक्स सपोर्ट", "पाचन सुधारता है"],
+    "benefits_mr": ["रोगप्रतिकारक शक्ती वाढवते", "पूर्ण शरीर डिटॉक्स सपोर्ट", "पचन सुधारते"],
+    "ingredients": ["Amla", "Ashwagandha", "Giloy", "Tulsi", "Neem"],
+    "composition": "Contains Amla, Ashwagandha, Giloy, Tulsi, Neem and other herbs",
+    "composition_hi": "इसमें आंवला, अश्वगंधा, गिलोय, तुलसी, नीम और अन्य जड़ी-बूटियां हैं",
+    "composition_mr": "यामध्ये आवळा, अश्वगंधा, गुळवेल, तुळशी, नीम आणि इतर औषधी वनस्पती आहेत",
+    "weight": "500ml",
+    "shelf_life": "24 months",
+    "shelf_life_hi": "24 महीने",
+    "shelf_life_mr": "24 महिने",
+    
+    // Usage & Safety with Translations
+    "who_should_use": "Adults above 18 years, people seeking Health Care solutions",
+    "who_should_use_hi": "18 साल से ऊपर के वयस्क, स्वास्थ्य समाधान चाहने वाले",
+    "who_should_use_mr": "18 वर्षांवरील प्रौढ, आरोग्य सेवा हवी असलेले लोक",
+    "who_should_not_use": "Pregnant/lactating women without doctor advice, children below 5 years",
+    "who_should_not_use_hi": "गर्भवती/स्तनपान कराने वाली महिलाएं बिना डॉक्टर की सलाह के, 5 साल से कम बच्चे",
+    "who_should_not_use_mr": "डॉक्टरांच्या सल्ल्याशिवाय गर्भवती/स्तनदान करणाऱ्या महिला, 5 वर्षांखालील मुले",
+    "precautions": "Consult doctor if under medication. Not a substitute for medical treatment.",
+    "precautions_hi": "दवाइयों पर हों तो डॉक्टर से सलाह करें। मेडिकल इलाज का विकल्प नहीं।",
+    "precautions_mr": "औषधी असल्यास डॉक्टरांचा सल्ला घ्या. वैद्यकीय उपचाराचे पर्याय नाही.",
+    "side_effects": "No known side effects. 100% natural formulation.",
+    "side_effects_hi": "कोई साइड इफेक्ट नहीं। 100% नेचुरल फॉर्मूलेशन।",
+    "side_effects_mr": "कोणतेही दुष्परिणाम नाहीत. 100% नैसर्गिक फॉर्म्युलेशन.",
+    
+    // Package with Translations
+    "package_contents": "1 Juice of Riyansh Amrit Juice (500ml) + User Guide",
+    "package_contents_hi": "1 रियांश अमृत जूस (500ml) + यूजर गाइड",
+    "package_contents_mr": "1 रियांश अमृत रस (500ml) + वापर मार्गदर्शिका",
+    "storage_instructions": "Cool and dry place, away from direct sunlight",
+    "storage_instructions_hi": "ठंडी और सूखी जगह, सीधी धूप से दूर",
+    "storage_instructions_mr": "थंड आणि कोरडी जागा, थेट सूर्यप्रकाशापासून दूर",
+    
+    // Marketing with Translations
+    "tags": ["#ImmunityBooster", "#FullBodyWellness", "#EnergyBoost"],
+    "tags_hi": ["#इम्यूनिटीबूस्टर", "#फुलबॉडीवेलनेस", "#एनर्जीबूस्ट"],
+    "tags_mr": ["#रोगप्रतिकारकशक्तीवाढवणारे", "#पूर्णशरीरनिरोगीपणा", "#ऊर्जावाढ"],
+    "certifications": ["AYUSH Certified", "GMP Certified", "ISO 9001:2015"],
+    "seo_title": "Riyansh Amrit Juice - Buy Online at Best Price | Riyansh Ayurveda",
+    "seo_description": "Buy Riyansh Amrit Juice at 19% OFF...",
+    
+    // Support with Translations
+    "availability": "In Stock",
+    "availability_hi": "स्टॉक में",
+    "availability_mr": "स्टॉकमध्ये",
+    "return_policy": "7 Days Easy Return",
+    "return_policy_hi": "7 दिन आसान रिटर्न",
+    "return_policy_mr": "7 दिवस सोपे परत करणे",
+    "delivery_time": "2-5 Business Days",
+    "delivery_time_hi": "2-5 व्यावसायिक दिन",
+    "delivery_time_mr": "2-5 व्यावसायिक दिवस",
+    
+    // Stock & Rating
     "stock": 999,
     "in_stock": true,
     "rating": 0,
     "reviews_count": 0,
-    "created_at": "2026-03-31T11:59:50.504Z"
+    "created_at": "2026-03-31T11:59:50.504Z",
+    "updated_at": "2026-04-02T11:12:18.955Z"
   }
 }
 ```
@@ -534,6 +678,102 @@ Content-Type: application/json
 
 ---
 
+### 9. 📦 Bundles (with Translations)
+
+**Endpoint:** `GET /api/bundles`
+
+**Description:** Returns all product bundles with complete details and translations.
+
+**Use Case:** Bundle offers page, combo deals display.
+
+**Example Request:**
+```bash
+GET /api/bundles
+```
+
+**Example Response:**
+```json
+{
+  "success": true,
+  "timestamp": "2024-01-01T12:00:00.000Z",
+  "bundles": [
+    {
+      "id": "bundle_immunity_pack",
+      "title": "🔥 Immunity Power Pack",
+      "title_hi": "🔥 इम्यूनिटी पावर पैक",
+      "title_mr": "🔥 रोगप्रतिकारक शक्ती पावर पॅक",
+      "description": "Immunity boost karne ke liye best combo! Amrit Juice + Amrit Capsule",
+      "description_hi": "इम्यूनिटी बूस्ट करने के लिए बेस्ट कॉम्बो! अमृत जूस + अमृत कैप्सूल",
+      "description_mr": "रोगप्रतिकारक शक्ती वाढवण्यासाठी सर्वोत्तम कॉम्बो! अमृत रस + अमृत कॅप्सूल",
+      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "original_price": 3850,
+      "bundle_price": 2999,
+      "savings": 851,
+      "savings_percent": 22,
+      "tagline": "Double Immunity Power! 💪",
+      "tagline_hi": "डबल इम्यूनिटी पावर! 💪",
+      "tagline_mr": "दुप्पट रोगप्रतिकारक शक्ती! 💪",
+      "best_for": ["Low Immunity", "Frequent Illness", "General Weakness"],
+      "best_for_hi": ["कम इम्यूनिटी", "बार बार बीमार", "सामान्य कमजोरी"],
+      "best_for_mr": ["कमी रोगप्रतिकारक शक्ती", "वारंवार आजार", "सामान्य अशक्तता"],
+      "recommended_duration": "3 months",
+      "recommended_duration_hi": "3 महीने",
+      "recommended_duration_mr": "3 महिने"
+    }
+  ]
+}
+```
+
+---
+
+### 10. 📊 Comparisons (with Translations)
+
+**Endpoint:** `GET /api/comparisons`
+
+**Description:** Returns product comparisons with translated criteria and features.
+
+**Use Case:** Product comparison page, decision help.
+
+**Example Request:**
+```bash
+GET /api/comparisons
+```
+
+**Example Response:**
+```json
+{
+  "success": true,
+  "timestamp": "2024-01-01T12:00:00.000Z",
+  "comparisons": [
+    {
+      "id": "compare_immunity",
+      "title": "Immunity Boosters Comparison",
+      "title_hi": "इम्यूनिटी बूस्टर तुलना",
+      "title_mr": "रोगप्रतिकारक शक्ती वाढवणारे तुलना",
+      "products": ["prod_1774958390504", "prod_1774960680020"],
+      "criteria": [
+        {
+          "feature": "Form",
+          "feature_hi": "रूप",
+          "feature_mr": "स्वरूप",
+          "prod_1774958390504": "Juice (Liquid)",
+          "prod_1774958390504_hi": "जूस (तरल)",
+          "prod_1774958390504_mr": "रस (द्रव)",
+          "prod_1774960680020": "Capsule",
+          "prod_1774960680020_hi": "कैप्सूल",
+          "prod_1774960680020_mr": "कॅप्सूल"
+        }
+      ],
+      "winner": "Depends on lifestyle - Juice for home, Capsules for travel",
+      "winner_hi": "लाइफस्टाइल पर निर्भर - घर के लिए जूस, यात्रा के लिए कैप्सूल",
+      "winner_mr": "जीवनशैलीवर अवलंबून - घरासाठी रस, प्रवासासाठी कॅप्सूल"
+    }
+  ]
+}
+```
+
+---
+
 ## 🎯 Common Use Cases
 
 ### Use Case 1: Product Listing Page
@@ -592,5 +832,5 @@ For issues or questions:
 
 ---
 
-**Last Updated:** April 2024  
-**API Version:** 2.0.0
+**Last Updated:** April 2026  
+**API Version:** 3.0.0 (Multilingual Edition)
